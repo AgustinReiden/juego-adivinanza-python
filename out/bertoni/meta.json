@@ -1,0 +1,115 @@
+{
+ "id": "bertoni",
+ "items": [
+  {
+   "f": "w1.jpg",
+   "file": "File:Daniel_Bertoni_2006.jpg",
+   "kind": "lead",
+   "orig": [
+    357,
+    486
+   ],
+   "size": [
+    357,
+    486
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Daniel_Bertoni_2006.jpg",
+   "artist": "Christophe95",
+   "license": "CC BY-SA 3.0",
+   "date": "2006",
+   "desc": "Daniel Bertoni in 2006"
+  },
+  {
+   "f": "w2.jpg",
+   "file": "Archivo:Bertoni (Selección argentina) - El Gráfico 2982.jpg",
+   "kind": "page",
+   "orig": [
+    1482,
+    2000
+   ],
+   "size": [
+    815,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Bertoni_(Selecci%C3%B3n_argentina)_-_El_Gr%C3%A1fico_2982.jpg",
+   "artist": "El Gráfico",
+   "license": "Public domain",
+   "date": "",
+   "desc": "El Grafico del 30 de Noviembre de 1976. Edicion 2982"
+  },
+  {
+   "f": "w3.jpg",
+   "file": "Archivo:Bochini bertoni independiente.jpg",
+   "kind": "page",
+   "orig": [
+    613,
+    900
+   ],
+   "size": [
+    613,
+    900
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Bochini_bertoni_independiente.jpg",
+   "artist": "DesconocidoUnknown author",
+   "license": "Public domain",
+   "date": "1974",
+   "desc": "Ricardo Bochini and Daniel Bertoni"
+  },
+  {
+   "f": "w4.jpg",
+   "file": "File:Bertoni ardiles kempes.jpg",
+   "kind": "page",
+   "orig": [
+    395,
+    559
+   ],
+   "size": [
+    395,
+    559
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Bertoni_ardiles_kempes.jpg",
+   "artist": "Unknown authorUnknown author",
+   "license": "Public domain",
+   "date": "1981",
+   "desc": "Daniel Bertoni (left), Osvaldo Ardiles (middle) and Mario Kempes with Argentina."
+  },
+  {
+   "f": "w5.jpg",
+   "file": "File:Passarella maradona bertoni 1982.jpg",
+   "kind": "page",
+   "orig": [
+    1140,
+    757
+   ],
+   "size": [
+    960,
+    637
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Passarella_maradona_bertoni_1982.jpg",
+   "artist": "Unknown authorUnknown author",
+   "license": "Public domain",
+   "date": "1982",
+   "desc": "Fiorentina v FC Barcelona, Daniel Passarella, Diego Maradona, Daniel Bertoni"
+  },
+  {
+   "f": "w6.jpg",
+   "file": "File:Bertoni festejo vs holanda.jpg",
+   "kind": "search",
+   "orig": [
+    1140,
+    771
+   ],
+   "size": [
+    960,
+    649
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Bertoni_festejo_vs_holanda.jpg",
+   "artist": "Unknown authorUnknown author",
+   "license": "Public domain",
+   "date": "1978-06-25",
+   "desc": "Daniel Bertoni celebrating his goal v the Netherlands."
+  }
+ ],
+ "log": [],
+ "candidates": 10
+}

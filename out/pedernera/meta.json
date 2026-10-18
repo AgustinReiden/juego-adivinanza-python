@@ -1,0 +1,115 @@
+{
+ "id": "pedernera",
+ "items": [
+  {
+   "f": "w1.jpg",
+   "file": "File:Pedernera_argnationalteam.jpg",
+   "kind": "lead",
+   "orig": [
+    583,
+    769
+   ],
+   "size": [
+    583,
+    769
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Pedernera_argnationalteam.jpg",
+   "artist": "DesconocidoUnknown author",
+   "license": "Public domain",
+   "date": "hacia 1941<div style=\"display: none;\">da",
+   "desc": "Argentine football striker Adolfo Pedernera with the national side."
+  },
+  {
+   "f": "w2.jpg",
+   "file": "Archivo:Adolfo Pedernera (River). - El Gráfico 1260.jpg",
+   "kind": "page",
+   "orig": [
+    1470,
+    2000
+   ],
+   "size": [
+    809,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Adolfo_Pedernera_(River)._-_El_Gr%C3%A1fico_1260.jpg",
+   "artist": "El Gráfico",
+   "license": "Public domain",
+   "date": "",
+   "desc": "El Grafico del 03 de Septiembre de 1943. Edicion 1260"
+  },
+  {
+   "f": "w3.jpg",
+   "file": "Archivo:Adolfo Pedernera (River) - El Gráfico 1382.jpg",
+   "kind": "page",
+   "orig": [
+    1411,
+    2000
+   ],
+   "size": [
+    776,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Adolfo_Pedernera_(River)_-_El_Gr%C3%A1fico_1382.jpg",
+   "artist": "El Gráfico",
+   "license": "Public domain",
+   "date": "",
+   "desc": "El Grafico del 04 de Enero de 1946. Edicion 1382"
+  },
+  {
+   "f": "w4.jpg",
+   "file": "Archivo:Adolfo Pedernera (River) - El Gráfico 945.jpg",
+   "kind": "page",
+   "orig": [
+    1491,
+    1995
+   ],
+   "size": [
+    822,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Adolfo_Pedernera_(River)_-_El_Gr%C3%A1fico_945.jpg",
+   "artist": "El Gráfico",
+   "license": "Public domain",
+   "date": "",
+   "desc": "El Grafico del 21 de Agosto de 1937. Edicion 945"
+  },
+  {
+   "f": "w5.jpg",
+   "file": "Archivo:Adolfo Pedernera - El Gráfico 2251.jpg",
+   "kind": "page",
+   "orig": [
+    1480,
+    1994
+   ],
+   "size": [
+    817,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Adolfo_Pedernera_-_El_Gr%C3%A1fico_2251.jpg",
+   "artist": "El Gráfico",
+   "license": "Public domain",
+   "date": "",
+   "desc": "El Grafico del 28 de Noviembre de 1962. Edicion 2251"
+  },
+  {
+   "f": "w6.jpg",
+   "file": "Archivo:Pedernera (River) y Sarlanga (Boca). - El Gráfico 1296.jpg",
+   "kind": "page",
+   "orig": [
+    1417,
+    2000
+   ],
+   "size": [
+    779,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Pedernera_(River)_y_Sarlanga_(Boca)._-_El_Gr%C3%A1fico_1296.jpg",
+   "artist": "El Gráfico",
+   "license": "Public domain",
+   "date": "",
+   "desc": "El Grafico del 12 de Mayo de 1944. Edicion 1296"
+  }
+ ],
+ "log": [],
+ "candidates": 10
+}

@@ -1,0 +1,79 @@
+{
+ "id": "guillermo",
+ "items": [
+  {
+   "f": "w1.jpg",
+   "file": "File:Guillermodandounacharla.jpg",
+   "kind": "lead",
+   "orig": [
+    6016,
+    4016
+   ],
+   "size": [
+    960,
+    641
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Guillermodandounacharla.jpg",
+   "artist": "Víctor Santa María",
+   "license": "CC BY 2.0",
+   "date": "2014-12-03 18:04:32",
+   "desc": "Guillermodandounacharla"
+  },
+  {
+   "f": "w2.jpg",
+   "file": "File:Guillermo Barros Schelotto.jpg",
+   "kind": "page",
+   "orig": [
+    400,
+    417
+   ],
+   "size": [
+    400,
+    417
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Guillermo_Barros_Schelotto.jpg",
+   "artist": "Late1 at en.wikipedia",
+   "license": "Public domain",
+   "date": "24 May 2007 (original upload date)",
+   "desc": "Guillermo Barros Schelotto, player for The Columbus Crew. Shot by Jim Early on Wednesday, May 23, 2007 at the Buffalo Wild Wings Grill Restaurant on Bethel Road In Columbus, Ohio. He was attending the"
+  },
+  {
+   "f": "w3.jpg",
+   "file": "File:Guillermo Barros Schelotto, Sara y Bentancur.jpg",
+   "kind": "search",
+   "orig": [
+    5472,
+    3648
+   ],
+   "size": [
+    960,
+    640
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Guillermo_Barros_Schelotto,_Sara_y_Bentancur.jpg",
+   "artist": "Agencia Andes (Micaela Ayala)",
+   "license": "CC BY-SA 2.0",
+   "date": "7 July 2016, 22:41:45",
+   "desc": "Durante el partido contra Independiente del Valle"
+  },
+  {
+   "f": "w4.jpg",
+   "file": "File:Guillermo Barros Schelotto, Sara y Bentancur (cropped).jpg",
+   "kind": "search",
+   "orig": [
+    844,
+    2923
+   ],
+   "size": [
+    318,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Guillermo_Barros_Schelotto,_Sara_y_Bentancur_(cropped).jpg",
+   "artist": "Agencia Andes (Micaela Ayala)",
+   "license": "CC BY-SA 2.0",
+   "date": "7 July 2016, 22:41:45",
+   "desc": "Durante el partido contra Independiente del Valle"
+  }
+ ],
+ "log": [],
+ "candidates": 4
+}

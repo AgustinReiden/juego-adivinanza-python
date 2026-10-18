@@ -1,0 +1,115 @@
+{
+ "id": "francescoli",
+ "items": [
+  {
+   "f": "w1.jpg",
+   "file": "File:Enzo_Francescoli_2011.jpg",
+   "kind": "lead",
+   "orig": [
+    269,
+    350
+   ],
+   "size": [
+    269,
+    350
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Enzo_Francescoli_2011.jpg",
+   "artist": "Christophe95",
+   "license": "CC BY-SA 3.0",
+   "date": "2011",
+   "desc": "Enzo Francescoli in 2011"
+  },
+  {
+   "f": "w2.jpg",
+   "file": "Archivo:Enzo Francescoli 1984.jpg",
+   "kind": "page",
+   "orig": [
+    1599,
+    986
+   ],
+   "size": [
+    960,
+    592
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Enzo_Francescoli_1984.jpg",
+   "artist": "DesconocidoUnknown author",
+   "license": "Public domain",
+   "date": "1984",
+   "desc": "River Plate player Enzo Francescoli in 1984."
+  },
+  {
+   "f": "w3.jpg",
+   "file": "Archivo:Francescoli River Plate Poland 1986.jpg",
+   "kind": "page",
+   "orig": [
+    1024,
+    710
+   ],
+   "size": [
+    960,
+    666
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Francescoli_River_Plate_Poland_1986.jpg",
+   "artist": "DesconocidoUnknown author",
+   "license": "Public domain",
+   "date": "1986-02-08",
+   "desc": "Histórico gol de chilena de Enzo Francescoli, jugador de River Plate, a la selección de Polonia en un amistoso jugado en Mar del Plata, 8 de febrero de 1986."
+  },
+  {
+   "f": "w4.jpg",
+   "file": "Archivo:Francescoli Wanderers.JPG",
+   "kind": "page",
+   "orig": [
+    543,
+    354
+   ],
+   "size": [
+    543,
+    354
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Francescoli_Wanderers.JPG",
+   "artist": "DesconocidoUnknown author",
+   "license": "Public domain",
+   "date": "antes de 1980<div style=\"display: none;\"",
+   "desc": "El chico Francescoli en foto 3 × 4 de su tarjeta de identificación de jugador juvenil Montevideo Wanderers, primer club de su carrera (1978—1982) y el único que defendió en su país natal."
+  },
+  {
+   "f": "w5.jpg",
+   "file": "File:Enzo_Francescoli_1984_(cropped).jpg",
+   "kind": "lead",
+   "orig": [
+    469,
+    592
+   ],
+   "size": [
+    469,
+    592
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Enzo_Francescoli_1984_(cropped).jpg",
+   "artist": "Unknown authorUnknown author",
+   "license": "CC BY 4.0",
+   "date": "1984",
+   "desc": "El jugador del Club Atlético River Plate, Enzo Francescoli, en 1984."
+  },
+  {
+   "f": "w6.jpg",
+   "file": "File:Alzamendi francescoli uruguay.jpg",
+   "kind": "page",
+   "orig": [
+    585,
+    900
+   ],
+   "size": [
+    585,
+    900
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Alzamendi_francescoli_uruguay.jpg",
+   "artist": "Unknown authorUnknown author",
+   "license": "Public domain",
+   "date": "1987-07-12",
+   "desc": "Antonio Alzamendi and Enzo Francescoli"
+  }
+ ],
+ "log": [],
+ "candidates": 10
+}

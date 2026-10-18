@@ -1,0 +1,79 @@
+{
+ "id": "aimar",
+ "items": [
+  {
+   "f": "w1.jpg",
+   "file": "File:Pablo_Aimar_Argentina_v_Egypt_7_July_2026-080.jpg",
+   "kind": "lead",
+   "orig": [
+    3333,
+    5000
+   ],
+   "size": [
+    733,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Pablo_Aimar_Argentina_v_Egypt_7_July_2026-080.jpg",
+   "artist": "Bryan Berlin",
+   "license": "CC BY-SA 4.0",
+   "date": "2026-07-07 11:53:41",
+   "desc": "Pablo Aimar during Argentina v Egypt at the 2026 FIFA World Cup"
+  },
+  {
+   "f": "w2.jpg",
+   "file": "Archivo:Aimar and Tiago Pinto.jpg",
+   "kind": "page",
+   "orig": [
+    1262,
+    2048
+   ],
+   "size": [
+    678,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Aimar_and_Tiago_Pinto.jpg",
+   "artist": "Alface",
+   "license": "CC BY-SA 3.0",
+   "date": "2011-12-16",
+   "desc": "Pablo Aimar e Tiago Pinto"
+  },
+  {
+   "f": "w3.jpg",
+   "file": "Archivo:Pablo Aimar playing against.jpg",
+   "kind": "page",
+   "orig": [
+    449,
+    674
+   ],
+   "size": [
+    449,
+    674
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Pablo_Aimar_playing_against.jpg",
+   "artist": "Swleo",
+   "license": "CC BY-SA 3.0",
+   "date": "2014-01-11",
+   "desc": "Pablo Aimar playing against Home United in a Charity Drive Match on 11 January 2014."
+  },
+  {
+   "f": "w4.jpg",
+   "file": "File:Pablo Aimar - 2022.jpg",
+   "kind": "search",
+   "orig": [
+    224,
+    310
+   ],
+   "size": [
+    224,
+    310
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Pablo_Aimar_-_2022.jpg",
+   "artist": "Argentina.gob.ar",
+   "license": "CC BY-SA 4.0",
+   "date": "2022-03-24",
+   "desc": "Argentina's national football team coaching staff in March 2022."
+  }
+ ],
+ "log": [],
+ "candidates": 4
+}
