@@ -1,0 +1,115 @@
+{
+ "id": "palermo",
+ "items": [
+  {
+   "f": "w1.jpg",
+   "file": "File:Everton_-_Unión_Española,_2018-04-28_-_Martín_Palermo_-_01.jpg",
+   "kind": "lead",
+   "orig": [
+    4234,
+    4000
+   ],
+   "size": [
+    960,
+    907
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Everton_-_Uni%C3%B3n_Espa%C3%B1ola,_2018-04-28_-_Mart%C3%ADn_Palermo_-_01.jpg",
+   "artist": "Carlos Figueroa",
+   "license": "CC BY-SA 4.0",
+   "date": "2018-04-28 18:01:22",
+   "desc": "Everton v Unión Española, Estadio Sausalito, Viña del Mar, Chile."
+  },
+  {
+   "f": "w2.jpg",
+   "file": "Archivo:Everton - Unión Española, 2018-04-28 - Martín Palermo - 01 (cropped).jpg",
+   "kind": "page",
+   "orig": [
+    2401,
+    3200
+   ],
+   "size": [
+    826,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Everton_-_Uni%C3%B3n_Espa%C3%B1ola,_2018-04-28_-_Mart%C3%ADn_Palermo_-_01_(cropped).jpg",
+   "artist": "Carlos Figueroa",
+   "license": "CC BY-SA 4.0",
+   "date": "2018-04-28 18:01:22",
+   "desc": "Everton v Unión Española, Estadio Sausalito, Viña del Mar, Chile."
+  },
+  {
+   "f": "w3.jpg",
+   "file": "Archivo:Martin Palermo.jpg",
+   "kind": "page",
+   "orig": [
+    273,
+    218
+   ],
+   "size": [
+    273,
+    218
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Martin_Palermo.jpg",
+   "artist": "Shay",
+   "license": "CC BY-SA 3.0",
+   "date": "2008-08-16",
+   "desc": "A photo of Martin Palermo, during the Barcelona 2 v Boca Juniors 1 match of 2008 Joan Gamper trophy."
+  },
+  {
+   "f": "w4.jpg",
+   "file": "Archivo:Martín Palermo contra Ghana.jpg",
+   "kind": "page",
+   "orig": [
+    3872,
+    1695
+   ],
+   "size": [
+    960,
+    420
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Mart%C3%ADn_Palermo_contra_Ghana.jpg",
+   "artist": "Damian Zanini",
+   "license": "CC BY-SA 2.0",
+   "date": "2009-09-30 21:47:11",
+   "desc": "Match Argentina Ghana 2009."
+  },
+  {
+   "f": "w5.jpg",
+   "file": "File:Martin palermo fkm08.jpg",
+   "kind": "search",
+   "orig": [
+    1256,
+    1924
+   ],
+   "size": [
+    718,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Martin_palermo_fkm08.jpg",
+   "artist": "Parkerjones",
+   "license": "CC BY 3.0",
+   "date": "2008-07-05",
+   "desc": "Martin Palermo posing in a photo shoot before the Free Kick Masters 2008 in Houston, TX"
+  },
+  {
+   "f": "w6.jpg",
+   "file": "File:Martin Palermo 2008.jpg",
+   "kind": "search",
+   "orig": [
+    1256,
+    1540
+   ],
+   "size": [
+    897,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Martin_Palermo_2008.jpg",
+   "artist": "Martin_palermo_fkm08.jpg: Parkerjones\nderivative work: Diego HC",
+   "license": "CC BY 3.0",
+   "date": "2014-04-30 23:45",
+   "desc": "Martin Palermo posing in a photo shoot before the Free Kick Masters 2008 in Houston, TX"
+  }
+ ],
+ "log": [],
+ "candidates": 7
+}

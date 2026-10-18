@@ -1,0 +1,115 @@
+{
+ "id": "tevez",
+ "items": [
+  {
+   "f": "w1.jpg",
+   "file": "File:InddelVal-Boca_(4).jpg",
+   "kind": "lead",
+   "orig": [
+    755,
+    1187
+   ],
+   "size": [
+    700,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:InddelVal-Boca_(4).jpg",
+   "artist": "Agencia de Noticias ANDES",
+   "license": "CC BY-SA 2.0",
+   "date": "7 de julio de 2016, 21:49:36",
+   "desc": "Carlos Tevez"
+  },
+  {
+   "f": "w2.jpg",
+   "file": "Archivo:CarlosTevez (cropped).jpg",
+   "kind": "page",
+   "orig": [
+    778,
+    778
+   ],
+   "size": [
+    778,
+    778
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:CarlosTevez_(cropped).jpg",
+   "artist": "Photo by wonker from London, United Kingdom\nCropped by Danyele",
+   "license": "CC BY-SA 2.0",
+   "date": "2007-04-02 15:23:04",
+   "desc": "Carlos Tévez (left) in action for West Ham in a match against Arsenal."
+  },
+  {
+   "f": "w3.jpg",
+   "file": "Archivo:Carlos Tevez, 2009 UEFA Champions League Final.jpg",
+   "kind": "page",
+   "orig": [
+    800,
+    532
+   ],
+   "size": [
+    800,
+    532
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Carlos_Tevez,_2009_UEFA_Champions_League_Final.jpg",
+   "artist": "funnydae",
+   "license": "CC BY 2.0",
+   "date": "2009-05-28 00:17:14",
+   "desc": "Carlos Tevez of Manchester United defended by Sergio Busquets of Barcelona"
+  },
+  {
+   "f": "w4.jpg",
+   "file": "Archivo:Carlos Tevez, UEFA CL match Celtic vs Manchester - by Tsutomu Takasu (Light).jpg",
+   "kind": "page",
+   "orig": [
+    800,
+    1200
+   ],
+   "size": [
+    733,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Carlos_Tevez,_UEFA_CL_match_Celtic_vs_Manchester_-_by_Tsutomu_Takasu_(Light).jpg",
+   "artist": "Tsutomu Takasu",
+   "license": "CC BY 2.0",
+   "date": "2008-11-05",
+   "desc": "NOVEMBER 5, 2008 - Football : Carlos Tevez of Manchester United during the UEFA Champions League Group E match between Celtic and Manchester United at Celtic Park on November 5, 2008 in Glasgow, Scotl"
+  },
+  {
+   "f": "w5.jpg",
+   "file": "Archivo:Carlos Tevez.jpg",
+   "kind": "page",
+   "orig": [
+    1683,
+    1812
+   ],
+   "size": [
+    960,
+    1034
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Carlos_Tevez.jpg",
+   "artist": "",
+   "license": "CC BY 2.0",
+   "date": "2008-08-06",
+   "desc": "Carlos Tévez"
+  },
+  {
+   "f": "w6.jpg",
+   "file": "Archivo:Carlos Tevez with Argentina at the Boleyn Ground in November 2014.jpg",
+   "kind": "page",
+   "orig": [
+    1407,
+    2433
+   ],
+   "size": [
+    636,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Carlos_Tevez_with_Argentina_at_the_Boleyn_Ground_in_November_2014.jpg",
+   "artist": "Egghead06",
+   "license": "CC BY-SA 4.0",
+   "date": "2014-11-12 21:11:49",
+   "desc": "Carlos Tevez with Argentina in their friendly game against Croatia at the Boleyn Ground, November 2014"
+  }
+ ],
+ "log": [],
+ "candidates": 10
+}

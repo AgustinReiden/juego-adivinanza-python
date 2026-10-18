@@ -1,0 +1,115 @@
+{
+ "id": "kempes",
+ "items": [
+  {
+   "f": "w1.jpg",
+   "file": "File:Mario_Kempes_Argentina_v_Spain_19_July_2026-036_(cropped).jpg",
+   "kind": "lead",
+   "orig": [
+    1435,
+    2206
+   ],
+   "size": [
+    715,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Mario_Kempes_Argentina_v_Spain_19_July_2026-036_(cropped).jpg",
+   "artist": "Bryan Berlin",
+   "license": "CC BY-SA 4.0",
+   "date": "2026-07-19 14:51:04",
+   "desc": "Mario Kempes during Argentina vs Spain at the 2026 FIFA World Cup Final"
+  },
+  {
+   "f": "w2.jpg",
+   "file": "Archivo:Instituto Mario Kempes y Osvaldo Ardiles. Nacional 1973.jpg",
+   "kind": "page",
+   "orig": [
+    872,
+    551
+   ],
+   "size": [
+    872,
+    551
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Instituto_Mario_Kempes_y_Osvaldo_Ardiles._Nacional_1973.jpg",
+   "artist": "DesconocidoUnknown author",
+   "license": "Public domain",
+   "date": "1973",
+   "desc": "Kempescy Ardiles en el Nacional 1974 de Prinera División"
+  },
+  {
+   "f": "w3.jpg",
+   "file": "Archivo:Kempes Libertadores.JPG",
+   "kind": "page",
+   "orig": [
+    868,
+    431
+   ],
+   "size": [
+    868,
+    431
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Kempes_Libertadores.JPG",
+   "artist": "Revista La Cancha",
+   "license": "Public domain",
+   "date": "1975-06-11",
+   "desc": "Gol de Kempes a NOB por Copa Libertadores"
+  },
+  {
+   "f": "w4.jpg",
+   "file": "Archivo:Kempes Valencia CF.jpg",
+   "kind": "page",
+   "orig": [
+    244,
+    327
+   ],
+   "size": [
+    244,
+    327
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Kempes_Valencia_CF.jpg",
+   "artist": "DesconocidoUnknown author",
+   "license": "Public domain",
+   "date": "hacia 1982<div style=\"display: none;\">da",
+   "desc": "Mario Kempes, playing Valencia CF, circa 1982-84."
+  },
+  {
+   "f": "w5.jpg",
+   "file": "Archivo:Kempes en Arroyito ante Brasil.JPG",
+   "kind": "page",
+   "orig": [
+    360,
+    347
+   ],
+   "size": [
+    360,
+    347
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Kempes_en_Arroyito_ante_Brasil.JPG",
+   "artist": "La Capital",
+   "license": "Public domain",
+   "date": "Tomada el 10 de noviembre de 1975",
+   "desc": "Kempes en Arroyito ante Brasil"
+  },
+  {
+   "f": "w6.jpg",
+   "file": "Archivo:Kempes en Central.png",
+   "kind": "page",
+   "orig": [
+    200,
+    227
+   ],
+   "size": [
+    200,
+    227
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Kempes_en_Central.png",
+   "artist": "Revista El Gráfico",
+   "license": "Public domain",
+   "date": "1975-10-12",
+   "desc": "El Matador en Central"
+  }
+ ],
+ "log": [],
+ "candidates": 10
+}
