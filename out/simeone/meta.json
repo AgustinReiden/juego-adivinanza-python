@@ -1,0 +1,61 @@
+{
+ "id": "simeone",
+ "items": [
+  {
+   "f": "w1.jpg",
+   "file": "File:25th_Laureus_World_Sports_Awards_-_Red_Carpet_-_Diego_Simeone_-_240422_192621-2_(cropped).jpg",
+   "kind": "lead",
+   "orig": [
+    1823,
+    2432
+   ],
+   "size": [
+    824,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:25th_Laureus_World_Sports_Awards_-_Red_Carpet_-_Diego_Simeone_-_240422_192621-2_(cropped).jpg",
+   "artist": "Barcex",
+   "license": "CC BY-SA 4.0",
+   "date": "2024-04-22 19:26:21",
+   "desc": "Diego ‘Cholo’ Simeone, the iconic Argentine football manager, poses with his wife, Carla Pereyra, at the 25th Laureus World Sports Awards. Known for his passionate leadership of Atlético Madrid, Simeo"
+  },
+  {
+   "f": "w2.jpg",
+   "file": "Archivo:Diego Simeone.jpg",
+   "kind": "page",
+   "orig": [
+    754,
+    1131
+   ],
+   "size": [
+    733,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Diego_Simeone.jpg",
+   "artist": "Анна Нэсси",
+   "license": "CC BY-SA 4.0",
+   "date": "2019-09-30",
+   "desc": "Diego Simeone nel 2019 durante una conferenza stampa"
+  },
+  {
+   "f": "w3.jpg",
+   "file": "Archivo:Diego Simeone - 01.jpg",
+   "kind": "page",
+   "orig": [
+    3014,
+    4521
+   ],
+   "size": [
+    733,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Diego_Simeone_-_01.jpg",
+   "artist": "Carlos Delgado",
+   "license": "CC BY-SA 3.0",
+   "date": "2013-09-14 17:18:20",
+   "desc": "Diego Simeone durante una rueda de prensa después de un partido como entrenador del Atlético de Madrid."
+  }
+ ],
+ "log": [],
+ "candidates": 3
+}

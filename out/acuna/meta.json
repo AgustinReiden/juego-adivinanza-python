@@ -1,0 +1,43 @@
+{
+ "id": "acuna",
+ "items": [
+  {
+   "f": "w1.jpg",
+   "file": "File:Marcos_acuna_vs_mexico_2022.jpg",
+   "kind": "lead",
+   "orig": [
+    226,
+    260
+   ],
+   "size": [
+    226,
+    260
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Marcos_acuna_vs_mexico_2022.jpg",
+   "artist": "Hossein Zohrevand",
+   "license": "CC BY 4.0",
+   "date": "2022-11-26",
+   "desc": "Marcos Acuña during the match."
+  },
+  {
+   "f": "w2.jpg",
+   "file": "Archivo:Marcos Acuña.jpg",
+   "kind": "page",
+   "orig": [
+    622,
+    954
+   ],
+   "size": [
+    622,
+    954
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Marcos_Acu%C3%B1a.jpg",
+   "artist": "Agencia de Noticias ANDES",
+   "license": "CC BY-SA 2.0",
+   "date": "2017-10-10 20:25",
+   "desc": "Quito, 10 oct (Andes).- Con tres tantos Argentina espantó los fantasmas de la eliminación, clasificó a su décima octava Copa del Mundo y venció 3-1 a un Ecuador que inició ganando el compromiso, dispu"
+  }
+ ],
+ "log": [],
+ "candidates": 2
+}

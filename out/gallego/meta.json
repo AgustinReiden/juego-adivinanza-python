@@ -1,0 +1,43 @@
+{
+ "id": "gallego",
+ "items": [
+  {
+   "f": "w1.jpg",
+   "file": "File:Américo_Gallego_1982.jpg",
+   "kind": "lead",
+   "orig": [
+    400,
+    500
+   ],
+   "size": [
+    400,
+    500
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Am%C3%A9rico_Gallego_1982.jpg",
+   "artist": "DesconocidoUnknown author",
+   "license": "Public domain",
+   "date": "1982-06",
+   "desc": "Américo Gallego en la Copa Mundial de Fútbol de 1982."
+  },
+  {
+   "f": "w2.jpg",
+   "file": "File:Eltolo2014.jpg",
+   "kind": "search",
+   "orig": [
+    942,
+    585
+   ],
+   "size": [
+    942,
+    585
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Eltolo2014.jpg",
+   "artist": "Gmpim121",
+   "license": "CC BY-SA 4.0",
+   "date": "2015-01-17",
+   "desc": "\"El tolo\" hablando con admiradores en Necochea durante la pretemporada de Newell's Old Boys"
+  }
+ ],
+ "log": [],
+ "candidates": 3
+}
