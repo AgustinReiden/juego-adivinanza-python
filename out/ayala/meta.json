@@ -2,69 +2,89 @@
  "id": "ayala",
  "items": [
   {
-   "f": "d1.jpg",
-   "url": "https://static.vecteezy.com/system/resources/previews/000/637/475/original/vector-49-corporate-logos-design-template-set.jpg",
-   "page": "https://www.vecteezy.com/vector-art/637475-49-corporate-logos-design-template-set",
-   "q": "Roberto Ayala defensor selección argentina",
+   "f": "d7.jpg",
+   "url": "https://media.gettyimages.com/id/230646/photo/ayala-roberto-fabian-of-argentina-in-their-match-at-sanford-stadium-in-athens-georgia-at-the-1996.jpg?s=612x612&w=gi&k=20&c=YqobnVrG6nKi0YZtG_RJmB6Jaf3DEIGNOnhN9skZ6J8=",
+   "page": "https://www.gettyimages.co.uk/photos/fabian-roberto-ayala",
+   "q": "Roberto Fabián Ayala",
    "size": [
-    1100,
+    430,
+    612
+   ]
+  },
+  {
+   "f": "d8.jpg",
+   "url": "https://media.gettyimages.com/id/650272324/photo/roberto-fabian-ayala-argentina.jpg?s=612x612&w=gi&k=20&c=g3yaAwL1DShvX4whY33NQewTk3zH45BDFNO4-R3U-8o=",
+   "page": "https://www.gettyimages.in/photos/fabian-roberto-ayala",
+   "q": "Roberto Fabián Ayala",
+   "size": [
+    408,
+    612
+   ]
+  },
+  {
+   "f": "d9.jpg",
+   "url": "https://media.gettyimages.com/id/650790266/photo/roberto-fabian-ayala-of-argentina-misses-the-penalty-against-brazil.jpg?s=612x612&w=gi&k=20&c=f5hDxrFUUgTDSUYBzn8kASnXMznKhJ0KhBGSTutabBU=",
+   "page": "https://www.gettyimages.com/photos/fabian-roberto-ayala",
+   "q": "Roberto Fabián Ayala",
+   "size": [
+    612,
+    408
+   ]
+  },
+  {
+   "f": "d10.jpg",
+   "url": "https://c8.alamy.com/comp/GARJY4/soccer-uefa-champions-league-quarter-final-first-leg-inter-milan-v-GARJY4.jpg",
+   "page": "https://www.alamy.com/stock-photo/roberto-fabian-ayala.html",
+   "q": "Roberto Fabián Ayala",
+   "size": [
+    685,
     1100
    ]
   },
   {
-   "f": "d2.jpg",
-   "url": "https://www.designhill.com/design-blog/wp-content/uploads/2014/09/logos1.gif",
-   "page": "https://www.designhill.com/design-blog/companies-need-attractive-logo-design/",
-   "q": "Roberto Ayala defensor selección argentina",
+   "f": "d11.jpg",
+   "url": "https://photos1.blogger.com/blogger/7371/2884/1600/Roberto-Fabian-Ayala1-1024.jpg",
+   "page": "https://footwalls.blogspot.com/2006/05/roberto-fabian-ayala-wallpapers.html",
+   "q": "Roberto Fabián Ayala",
    "size": [
     1024,
-    894
-   ]
-  },
-  {
-   "f": "d3.jpg",
-   "url": "https://webneel.com/daily/sites/default/files/images/daily/06-2020/6-abstract-logo-different-types-logo-design.jpg",
-   "page": "https://webneel.com/different-types-of-logo-designs",
-   "q": "Roberto Ayala defensor selección argentina",
-   "size": [
-    851,
-    1100
-   ]
-  },
-  {
-   "f": "d4.jpg",
-   "url": "https://www.tidio.com/wp-content/uploads/logo-types-examples.png",
-   "page": "https://www.tidio.com/blog/how-to-make-a-logo/",
-   "q": "Roberto Ayala defensor selección argentina",
-   "size": [
-    824,
-    1100
-   ]
-  },
-  {
-   "f": "d5.jpg",
-   "url": "https://webneel.com/daily/sites/default/files/images/daily/06-2020/4-pictorial-mark-logo-different-types-logo-design.jpg",
-   "page": "https://webneel.com/different-types-of-logo-designs",
-   "q": "Roberto Ayala defensor selección argentina",
-   "size": [
-    1100,
     768
    ]
   },
   {
-   "f": "d6.jpg",
-   "url": "https://fbcd.co/images/products/4516b598f83d6db8920b0ae7cf218238_resize.jpg",
-   "page": "https://designbundles.net/anasofart/132486-business-logo-vector",
-   "q": "Roberto Ayala defensor selección argentina",
+   "f": "d12.jpg",
+   "url": "https://c8.alamy.com/comp/G9MKHM/roberto-fabian-ayala-of-valencia-shrugs-off-a-challenge-G9MKHM.jpg",
+   "page": "https://www.alamy.com/stock-photo/roberto-fabian-ayala.html",
+   "q": "Roberto Fabián Ayala",
    "size": [
     1100,
-    733
+    809
+   ]
+  },
+  {
+   "f": "d13.jpg",
+   "url": "https://cloud10.todocoleccion.online/cromos-futbol/tc/2013/05/13/37243122.jpg",
+   "page": "https://www.todocoleccion.net/cromos-futbol/n-501-roberto-fabian-ayala-mundial-francia-1998-france-world-cup-98-panini~x37243122",
+   "q": "Roberto Fabián Ayala",
+   "size": [
+    550,
+    741
+   ]
+  },
+  {
+   "f": "d14.jpg",
+   "url": "https://i.pinimg.com/736x/dd/35/e9/dd35e982c7b556178f47bf7448314ecb.jpg",
+   "page": "https://it.pinterest.com/pin/56646907805920936/",
+   "q": "Roberto Fabián Ayala",
+   "size": [
+    714,
+    966
    ]
   }
  ],
  "log": [
-  "ddgs[duckduckgo] fail Roberto Ayala defensor selección argentina: RequestError: RequestError('error sending request for url (https://duckduckgo.com/?q=Roberto+Ayala+defensor+selecci%C3%B3n+argentina) > user error: malformed headers')",
-  "ddgs[auto] Roberto Ayala defensor selección argentina: 18 results; first=['49 Corporate Logos Design Template Set 6', 'Why Companies Need An Attractive Logo De', '11 Different types of logo design exampl']"
+  "ddgs[auto] Roberto Fabián Ayala: 12 results; first=['104 Fabian Roberto Ayala Photos & High R', 'Fabian Roberto Ayala Photos and Premium ', '123 Fabian Roberto Ayala Photos & High R']",
+  "ddgs[auto] Ayala Argentina 2006: 12 results; first=['Soccer Argentina Ayala Photos and Premiu', 'Roberto Ayala of Argentina in action dur', 'ROBERTO AYALA ARGENTINA & VALENCIA WORLD']"
  ],
  "candidates": 0
 }

@@ -1,1 +1,1 @@
-done 02:21:25 {"goycochea": 6, "ibarra": 6, "fazio": 6, "centurion": 8, "olarticoechea": 6, "funesmori": 6, "chilavert": 6, "zabaleta": 6, "aimar": 6}
+done 02:23:30 {"sorin": 8, "redondo": 8, "ayala": 8}
