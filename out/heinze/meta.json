@@ -1,0 +1,115 @@
+{
+ "id": "heinze",
+ "items": [
+  {
+   "f": "w1.jpg",
+   "file": "File:Gabriel_Heinze_en_Newell's_Old_Boys_(2022).jpg",
+   "kind": "lead",
+   "orig": [
+    1003,
+    1080
+   ],
+   "size": [
+    960,
+    1034
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Gabriel_Heinze_en_Newell%27s_Old_Boys_(2022).jpg",
+   "artist": "Newell's Old Boys",
+   "license": "CC BY 3.0",
+   "date": "2022-11-07",
+   "desc": "Gabriel Heinze en conferencia de prensa como entrenador de Newell's Old Boys en 2022."
+  },
+  {
+   "f": "w2.jpg",
+   "file": "Archivo:Drenthe y Heinze luchando por el balón.jpg",
+   "kind": "page",
+   "orig": [
+    3456,
+    2304
+   ],
+   "size": [
+    960,
+    640
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Drenthe_y_Heinze_luchando_por_el_bal%C3%B3n.jpg",
+   "artist": "Juan Fernández",
+   "license": "CC BY-SA 2.0",
+   "date": "2008-08-24 22:27:16",
+   "desc": "Heinze in a match against Valencia in 2008 Spanish Supercup."
+  },
+  {
+   "f": "w3.jpg",
+   "file": "Archivo:Gabriel Heinze 2022 Newell's.png",
+   "kind": "page",
+   "orig": [
+    514,
+    654
+   ],
+   "size": [
+    514,
+    654
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Gabriel_Heinze_2022_Newell%27s.png",
+   "artist": "Newell's Old Boys",
+   "license": "CC BY 3.0",
+   "date": "2022-11-28",
+   "desc": "Gabriel Heinze en una conferencia de prensa como director técnico del Club Atlético Newell's Old Boys en 2022."
+  },
+  {
+   "f": "w4.jpg",
+   "file": "File:Gabriel Heinze 5446b.jpg",
+   "kind": "page",
+   "orig": [
+    478,
+    600
+   ],
+   "size": [
+    478,
+    600
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Gabriel_Heinze_5446b.jpg",
+   "artist": "Amarhgil",
+   "license": "Attribution",
+   "date": "2010-11-23",
+   "desc": "Gabriel Heinze"
+  },
+  {
+   "f": "w5.jpg",
+   "file": "File:Gabriel Ivan Heinze.jpg",
+   "kind": "search",
+   "orig": [
+    336,
+    365
+   ],
+   "size": [
+    336,
+    365
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Gabriel_Ivan_Heinze.jpg",
+   "artist": "Natus74",
+   "license": "CC BY-SA 4.0",
+   "date": "2007-06-14",
+   "desc": "Gabriel Heinze solo"
+  },
+  {
+   "f": "w6.jpg",
+   "file": "File:Gabriel Heinze 5445b.jpg",
+   "kind": "search",
+   "orig": [
+    570,
+    700
+   ],
+   "size": [
+    570,
+    700
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Gabriel_Heinze_5445b.jpg",
+   "artist": "Amarhgil",
+   "license": "Attribution",
+   "date": "2010-11-23",
+   "desc": "Gabriel Heinze"
+  }
+ ],
+ "log": [],
+ "candidates": 10
+}

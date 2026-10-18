@@ -1,0 +1,115 @@
+{
+ "id": "marzolini",
+ "items": [
+  {
+   "f": "w1.jpg",
+   "file": "File:Silvioposter.jpg",
+   "kind": "lead",
+   "orig": [
+    384,
+    528
+   ],
+   "size": [
+    384,
+    528
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Silvioposter.jpg",
+   "artist": "DesconocidoUnknown author",
+   "license": "Public domain",
+   "date": "hacia 1966<div style=\"display: none;\">da",
+   "desc": "Silvio Marzolini during his time playing for Argentina national football team. He played for Argentina between 1960 &amp; 1969."
+  },
+  {
+   "f": "w2.jpg",
+   "file": "Archivo:Marzolini boca.jpg",
+   "kind": "page",
+   "orig": [
+    338,
+    400
+   ],
+   "size": [
+    338,
+    400
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Marzolini_boca.jpg",
+   "artist": "DesconocidoUnknown author",
+   "license": "Public domain",
+   "date": "1962",
+   "desc": "Silvio Marzolini during his run on Boca Juniors."
+  },
+  {
+   "f": "w3.jpg",
+   "file": "Archivo:Marzolini maradona 1981.jpg",
+   "kind": "page",
+   "orig": [
+    479,
+    622
+   ],
+   "size": [
+    479,
+    622
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Marzolini_maradona_1981.jpg",
+   "artist": "DesconocidoUnknown author",
+   "license": "Public domain",
+   "date": "1981",
+   "desc": "Former player and then coach, Silvio Marzolini (left) with superstar Diego A. Maradona during their time in Boca Juniors."
+  },
+  {
+   "f": "w4.jpg",
+   "file": "Archivo:Silvio Marzolini (Boca) - El Gráfico 2580.jpg",
+   "kind": "page",
+   "orig": [
+    1411,
+    2000
+   ],
+   "size": [
+    776,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Silvio_Marzolini_(Boca)_-_El_Gr%C3%A1fico_2580.jpg",
+   "artist": "El Gráfico",
+   "license": "Public domain",
+   "date": "",
+   "desc": "El Grafico del 18 de Marzo de 1969. Edicion 2580"
+  },
+  {
+   "f": "w5.jpg",
+   "file": "Archivo:Silvio Marzolini (Ferro) - El Gráfico 2110.jpg",
+   "kind": "page",
+   "orig": [
+    1449,
+    2000
+   ],
+   "size": [
+    797,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Silvio_Marzolini_(Ferro)_-_El_Gr%C3%A1fico_2110.jpg",
+   "artist": "DesconocidoUnknown author",
+   "license": "Public domain",
+   "date": "1960-03-02",
+   "desc": "Silvio Marzolini while playing in Ferro C. Oeste."
+  },
+  {
+   "f": "w6.jpg",
+   "file": "Archivo:Silvio Marzolini (Selección Argentina) - El Gráfico 2601.jpg",
+   "kind": "page",
+   "orig": [
+    1399,
+    2000
+   ],
+   "size": [
+    770,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Silvio_Marzolini_(Selecci%C3%B3n_Argentina)_-_El_Gr%C3%A1fico_2601.jpg",
+   "artist": "El Gráfico",
+   "license": "Public domain",
+   "date": "",
+   "desc": "El Grafico del 12 de Agosto de 1969. Edicion 2601"
+  }
+ ],
+ "log": [],
+ "candidates": 10
+}

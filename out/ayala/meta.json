@@ -1,0 +1,61 @@
+{
+ "id": "ayala",
+ "items": [
+  {
+   "f": "w1.jpg",
+   "file": "File:018_Summer_Youth_Olympics_(30382602628)_(cropped).jpg",
+   "kind": "lead",
+   "orig": [
+    894,
+    1135
+   ],
+   "size": [
+    866,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:018_Summer_Youth_Olympics_(30382602628)_(cropped).jpg",
+   "artist": "Juan Kulichevsky from Argentina",
+   "license": "CC BY-SA 2.0",
+   "date": "2018-08-24 20:25",
+   "desc": "Fotos grupales"
+  },
+  {
+   "f": "w2.jpg",
+   "file": "Archivo:Roberto Ayala y Javier Zanetti - 07FEB2007 - Francia - presidencia-govar.jpg",
+   "kind": "page",
+   "orig": [
+    489,
+    647
+   ],
+   "size": [
+    489,
+    647
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Roberto_Ayala_y_Javier_Zanetti_-_07FEB2007_-_Francia_-_presidencia-govar.jpg",
+   "artist": "DesconocidoUnknown author",
+   "license": "CC BY 2.0",
+   "date": "2007-02-07",
+   "desc": "Roberto Ayala y Javier Zanetti en Francia, en ocasión del encuentro de fútbol entre Argentina y Francia"
+  },
+  {
+   "f": "w3.jpg",
+   "file": "File:Roberto Ayala with the Telstar 18 Futsal (44201074712).jpg",
+   "kind": "search",
+   "orig": [
+    3456,
+    4608
+   ],
+   "size": [
+    825,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Roberto_Ayala_with_the_Telstar_18_Futsal_(44201074712).jpg",
+   "artist": "Juan Kulichevsky from Argentina",
+   "license": "CC BY-SA 2.0",
+   "date": "2018-08-24 20:31",
+   "desc": "Roberto Ayala with the Telstar 18 Futsal"
+  }
+ ],
+ "log": [],
+ "candidates": 3
+}
