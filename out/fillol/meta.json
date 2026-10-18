@@ -1,11 +1,115 @@
 {
  "id": "fillol",
- "items": [],
- "log": [
-  "search fail \"Ubaldo Fillol\" HTTP Error 429: Too Many Requests",
-  "dl fail File:Fillol_01.jpg: HTTP Error 429: Too Many Requests",
-  "dl fail Archivo:Ubaldo Fillol 2006.jpg: HTTP Error 429: Too Many Requests",
-  "dl fail File:Fillol_river.jpg: HTTP Error 429: Too Many Requests"
+ "items": [
+  {
+   "f": "w1.jpg",
+   "file": "File:Fillol_01.jpg",
+   "kind": "lead",
+   "orig": [
+    1080,
+    1441
+   ],
+   "size": [
+    824,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Fillol_01.jpg",
+   "artist": "El Gráfico magazine",
+   "license": "Public domain",
+   "date": "1974",
+   "desc": "Ubaldo Fillol, arquero campeón con la selección de fútbol de Argentina, jugador del River Plate y Racing."
+  },
+  {
+   "f": "w2.jpg",
+   "file": "Archivo:Ubaldo Fillol 2006.jpg",
+   "kind": "page",
+   "orig": [
+    263,
+    418
+   ],
+   "size": [
+    263,
+    418
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Ubaldo_Fillol_2006.jpg",
+   "artist": "Christophe95",
+   "license": "CC BY-SA 3.0",
+   "date": "2006",
+   "desc": "Ubaldo Fillol in 2006"
+  },
+  {
+   "f": "w3.jpg",
+   "file": "File:Fillol_river.jpg",
+   "kind": "lead",
+   "orig": [
+    450,
+    678
+   ],
+   "size": [
+    450,
+    678
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Fillol_river.jpg",
+   "artist": "Unknown authorUnknown author",
+   "license": "Public domain",
+   "date": "circa 1981<div style=\"display: none;\">da",
+   "desc": "Argentine goalkeeper Ubaldo Fillol, regarded as one of the best in his position."
+  },
+  {
+   "f": "w4.jpg",
+   "file": "File:Fillol penal deyna.jpg",
+   "kind": "search",
+   "orig": [
+    1140,
+    537
+   ],
+   "size": [
+    960,
+    452
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Fillol_penal_deyna.jpg",
+   "artist": "Unknown authorUnknown author",
+   "license": "Public domain",
+   "date": "1978-06-14",
+   "desc": "Ubaldo Fillol stopping the penalty shot to Polish player Deyna."
+  },
+  {
+   "f": "w5.jpg",
+   "file": "File:Fillol arco river.jpg",
+   "kind": "search",
+   "orig": [
+    672,
+    900
+   ],
+   "size": [
+    672,
+    900
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Fillol_arco_river.jpg",
+   "artist": "Unknown authorUnknown author",
+   "license": "Public domain",
+   "date": "circa 1978<div style=\"display: none;\">da",
+   "desc": "Ubaldo Fillol stood at the River Plate's goal."
+  },
+  {
+   "f": "w6.jpg",
+   "file": "File:Menotti fillol reunidos.jpg",
+   "kind": "search",
+   "orig": [
+    603,
+    900
+   ],
+   "size": [
+    603,
+    900
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Menotti_fillol_reunidos.jpg",
+   "artist": "Unknown authorUnknown author",
+   "license": "Public domain",
+   "date": "1977",
+   "desc": "Manager of Argentina César Menotti (left) and Ubaldo Fillol."
+  }
  ],
- "candidates": 3
+ "log": [],
+ "candidates": 10
 }

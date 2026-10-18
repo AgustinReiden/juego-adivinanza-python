@@ -3,35 +3,35 @@
  "items": [
   {
    "f": "w1.jpg",
-   "file": "File:Javier Zanetti - Inter Mailand (1).jpg",
+   "file": "File:Metalist-Inter_(2).jpg",
+   "kind": "lead",
+   "orig": [
+    598,
+    900
+   ],
+   "size": [
+    598,
+    900
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Metalist-Inter_(2).jpg",
+   "artist": "Илья Хохлов",
+   "license": "CC BY-SA 3.0",
+   "date": "2014-09-21 19:54:14",
+   "desc": "Javier Zanetti"
+  },
+  {
+   "f": "w2.jpg",
+   "file": "Archivo:Javier Zanetti - Inter Mailand (3).jpg",
    "kind": "page",
    "orig": [
-    2000,
-    3000
+    2112,
+    3168
    ],
    "size": [
     733,
     1100
    ],
-   "page": "https://commons.wikimedia.org/wiki/File:Javier_Zanetti_-_Inter_Mailand_(1).jpg",
-   "artist": "Steindy (talk) 19:52, 28 November 2009 (UTC)",
-   "license": "CC BY-SA 3.0",
-   "date": "2009-08-16",
-   "desc": "Javier Zanetti - F.C. Internazionale Milano"
-  },
-  {
-   "f": "w2.jpg",
-   "file": "File:Javier Zanetti - Inter Mailand (4).jpg",
-   "kind": "page",
-   "orig": [
-    2400,
-    2400
-   ],
-   "size": [
-    960,
-    960
-   ],
-   "page": "https://commons.wikimedia.org/wiki/File:Javier_Zanetti_-_Inter_Mailand_(4).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Javier_Zanetti_-_Inter_Mailand_(3).jpg",
    "artist": "Steindy (talk) 19:52, 28 November 2009 (UTC)",
    "license": "CC BY-SA 3.0",
    "date": "2009-08-16",
@@ -39,32 +39,77 @@
   },
   {
    "f": "w3.jpg",
-   "file": "File:Javier Zanetti et Cristiano Ronaldo.jpg",
+   "file": "Archivo:Javier Zanetti – Portugal vs. Argentina, 9th February 2011 (1).jpg",
    "kind": "page",
    "orig": [
-    3449,
-    2746
+    3710,
+    3710
    ],
    "size": [
     960,
-    764
+    960
    ],
-   "page": "https://commons.wikimedia.org/wiki/File:Javier_Zanetti_et_Cristiano_Ronaldo.jpg",
-   "artist": "Ludovic Péron",
+   "page": "https://commons.wikimedia.org/wiki/File:Javier_Zanetti_%E2%80%93_Portugal_vs._Argentina,_9th_February_2011_(1).jpg",
+   "artist": "Fanny Schertzer",
+   "license": "CC BY 3.0",
+   "date": "2011-02-09 22:44:49",
+   "desc": "\n\n\n\nLa realización de este trabajo fue apoyada por Wikimedia CH.\nPara ver todas las obras que recibieron este apoyo, vea la categoría Supported by Wikimedia CH.\n\n\nالعربية ∙ বাংলা ∙ čeština ∙ Deutsch ∙"
+  },
+  {
+   "f": "w4.jpg",
+   "file": "Archivo:Paseo Javier \"Pupi\" Zanetti, en Remedios de Escalada, donde inició su carrera jugando para Talleres de esa localidad de la provincia de Buenos Aires.jpg",
+   "kind": "page",
+   "orig": [
+    5152,
+    3864
+   ],
+   "size": [
+    960,
+    720
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Paseo_Javier_%22Pupi%22_Zanetti,_en_Remedios_de_Escalada,_donde_inici%C3%B3_su_carrera_jugando_para_Talleres_de_esa_localidad_de_la_provincia_de_Buenos_Aires.jpg",
+   "artist": "Ulises Icardi",
+   "license": "CC BY-SA 4.0",
+   "date": "2020-12-04",
+   "desc": "Paseo Javier \"Pupi\" Zanetti, en Remedios de Escalada, donde inició su carrera jugando para Talleres de esa localidad de la provincia de Buenos Aires."
+  },
+  {
+   "f": "w5.jpg",
+   "file": "Archivo:Zanetti vs CSKA Mosca 2011 - 1.png",
+   "kind": "page",
+   "orig": [
+    797,
+    509
+   ],
+   "size": [
+    797,
+    509
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Zanetti_vs_CSKA_Mosca_2011_-_1.png",
+   "artist": "Майоров Владимир",
    "license": "CC BY-SA 3.0",
-   "date": "2011-02-09 23:17:23",
-   "desc": "Javier Zanetti et Cristiano Ronaldo lors d'un match amical Argentine - Portugal à Genève."
+   "date": "2012-05-16",
+   "desc": "Internazionale and CSKA Moscow captains - Javier Zanetti and Sergei Ignashevich (27.09.2011)"
+  },
+  {
+   "f": "w6.jpg",
+   "file": "File:Javier Zanetti (L), Cristiano Ronaldo (R) – Portugal vs. Argentina, 9th February 2011 (1).jpg",
+   "kind": "page",
+   "orig": [
+    4233,
+    2975
+   ],
+   "size": [
+    960,
+    675
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Javier_Zanetti_(L),_Cristiano_Ronaldo_(R)_%E2%80%93_Portugal_vs._Argentina,_9th_February_2011_(1).jpg",
+   "artist": "Fanny Schertzer",
+   "license": "CC BY 3.0",
+   "date": "2011-02-09 22:18:24",
+   "desc": "\n\n\n\nThe making of this document was supported by Wikimedia CH. (Submit your project!)\nFor all the files concerned, please see the category Supported by Wikimedia CH.\n\n\nالعربية ∙ বাংলা ∙ čeština ∙ Deut"
   }
  ],
- "log": [
-  "search fail \"Javier Zanetti\" HTTP Error 429: Too Many Requests",
-  "dl fail File:Metalist-Inter_(2).jpg: HTTP Error 429: Too Many Requests",
-  "dl fail Archivo:Javier Zanetti - Inter Mailand (3).jpg: HTTP Error 429: Too Many Requests",
-  "dl fail Archivo:Javier Zanetti – Portugal vs. Argentina, 9th February 2011 (1).jpg: HTTP Error 429: Too Many Requests",
-  "dl fail Archivo:Paseo Javier \"Pupi\" Zanetti, en Remedios de Escalada, donde inició su carrera jugando para Talleres de esa localidad de la provincia de Buenos Aires.jpg: HTTP Error 429: Too Many Requests",
-  "dl fail Archivo:Zanetti vs CSKA Mosca 2011 - 1.png: HTTP Error 429: Too Many Requests",
-  "dl fail File:Javier Zanetti (L), Cristiano Ronaldo (R) – Portugal vs. Argentina, 9th February 2011 (1).jpg: HTTP Error 429: Too Many Requests",
-  "dl fail File:Javier Zanetti FC Internazionale 3.jpg: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
- ],
+ "log": [],
  "candidates": 10
 }

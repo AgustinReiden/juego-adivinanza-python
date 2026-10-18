@@ -1,10 +1,115 @@
 {
  "id": "chilavert",
- "items": [],
- "log": [
-  "api fail es:José Luis Chilavert HTTP Error 429: Too Many Requests",
-  "api fail en:José Luis Chilavert HTTP Error 429: Too Many Requests",
-  "search fail \"José Luis Chilavert\" HTTP Error 429: Too Many Requests"
+ "items": [
+  {
+   "f": "w1.jpg",
+   "file": "File:Chilavert_2014.jpg",
+   "kind": "lead",
+   "orig": [
+    1693,
+    2415
+   ],
+   "size": [
+    771,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Chilavert_2014.jpg",
+   "artist": "Prensa TV Pública",
+   "license": "CC BY 2.0",
+   "date": "2014-11-06 22:23:31",
+   "desc": "Paraguayan former footballer José Luis Chilavert during an interview for the Argentine TV show Línea de Tiempo with Matías Martin."
+  },
+  {
+   "f": "w2.jpg",
+   "file": "Archivo:Camisa do Club Atlético Vélez Sarsfield usada pelo goleiro Chilavert, 1996, Acervo do Museu do Futebol - Frente.jpg",
+   "kind": "page",
+   "orig": [
+    3499,
+    4000
+   ],
+   "size": [
+    960,
+    1097
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Camisa_do_Club_Atl%C3%A9tico_V%C3%A9lez_Sarsfield_usada_pelo_goleiro_Chilavert,_1996,_Acervo_do_Museu_do_Futebol_-_Frente.jpg",
+   "artist": "Ciete Silvério",
+   "license": "CC BY-SA 4.0",
+   "date": "2021-06-19",
+   "desc": ""
+  },
+  {
+   "f": "w3.jpg",
+   "file": "Archivo:Camisa do Club Atlético Vélez Sarsfield usada pelo goleiro Chilavert, 1996, Acervo do Museu do Futebol - Verso.jpg",
+   "kind": "page",
+   "orig": [
+    3296,
+    4000
+   ],
+   "size": [
+    906,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Camisa_do_Club_Atl%C3%A9tico_V%C3%A9lez_Sarsfield_usada_pelo_goleiro_Chilavert,_1996,_Acervo_do_Museu_do_Futebol_-_Verso.jpg",
+   "artist": "Ciete Silvério",
+   "license": "CC BY-SA 4.0",
+   "date": "2021-06-19",
+   "desc": ""
+  },
+  {
+   "f": "w4.jpg",
+   "file": "Archivo:Chilavert buzo river.jpg",
+   "kind": "page",
+   "orig": [
+    598,
+    900
+   ],
+   "size": [
+    598,
+    900
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Chilavert_buzo_river.jpg",
+   "artist": "DesconocidoUnknown author",
+   "license": "Public domain",
+   "date": "1988",
+   "desc": "José L. Chilavert posing with the River Plate goalkeeper shirt. Nevertheless, the transfer would not finally carry out."
+  },
+  {
+   "f": "w5.jpg",
+   "file": "Archivo:Chilavert sanlorenzo.jpg",
+   "kind": "page",
+   "orig": [
+    293,
+    316
+   ],
+   "size": [
+    293,
+    316
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Chilavert_sanlorenzo.jpg",
+   "artist": "DesconocidoUnknown author",
+   "license": "Public domain",
+   "date": "1985",
+   "desc": "Goalkeeper José Luis Chilavert while playing for Argentine club San Lorenzo de Almagro"
+  },
+  {
+   "f": "w6.jpg",
+   "file": "Archivo:Fillol chilavert.jpg",
+   "kind": "page",
+   "orig": [
+    1756,
+    2048
+   ],
+   "size": [
+    943,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Fillol_chilavert.jpg",
+   "artist": "DesconocidoUnknown author",
+   "license": "Public domain",
+   "date": "1988",
+   "desc": "Goalkeepers Ubaldo Fillol (left) and José Luis Chilavert, while they were playing for Racing and San Lorenzo respectively."
+  }
  ],
- "candidates": 0
+ "log": [],
+ "candidates": 10
 }

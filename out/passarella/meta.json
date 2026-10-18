@@ -1,0 +1,115 @@
+{
+ "id": "passarella",
+ "items": [
+  {
+   "f": "w1.jpg",
+   "file": "File:Daniel_passarella_en_1985.jpg",
+   "kind": "lead",
+   "orig": [
+    286,
+    465
+   ],
+   "size": [
+    286,
+    465
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Daniel_passarella_en_1985.jpg",
+   "artist": "DesconocidoUnknown author",
+   "license": "Public domain",
+   "date": "1985",
+   "desc": "the footballer"
+  },
+  {
+   "f": "w2.jpg",
+   "file": "Archivo:Elgrafico 3124 luque passarella.jpg",
+   "kind": "page",
+   "orig": [
+    350,
+    460
+   ],
+   "size": [
+    350,
+    460
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Elgrafico_3124_luque_passarella.jpg",
+   "artist": "DesconocidoUnknown author",
+   "license": "Public domain",
+   "date": "1979-08",
+   "desc": "Luque and Passarella"
+  },
+  {
+   "f": "w3.jpg",
+   "file": "Archivo:Elgrafico 3595 passarella.jpg",
+   "kind": "page",
+   "orig": [
+    350,
+    460
+   ],
+   "size": [
+    350,
+    460
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Elgrafico_3595_passarella.jpg",
+   "artist": "DesconocidoUnknown author",
+   "license": "Public domain",
+   "date": "1988-08",
+   "desc": "Daniel Passarella"
+  },
+  {
+   "f": "w4.jpg",
+   "file": "Archivo:Maradona passarella may1985.jpg",
+   "kind": "page",
+   "orig": [
+    584,
+    900
+   ],
+   "size": [
+    584,
+    900
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Maradona_passarella_may1985.jpg",
+   "artist": "DesconocidoUnknown author",
+   "license": "Public domain",
+   "date": "1985-05-19",
+   "desc": "Napoli v Fiorentina, Diego Maradona and Daniel Passarella"
+  },
+  {
+   "f": "w5.jpg",
+   "file": "Archivo:Maradona passarella practica argentina.jpg",
+   "kind": "page",
+   "orig": [
+    1140,
+    745
+   ],
+   "size": [
+    960,
+    627
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Maradona_passarella_practica_argentina.jpg",
+   "artist": "DesconocidoUnknown author",
+   "license": "Public domain",
+   "date": "1986",
+   "desc": "Diego Maradona and Daniel Passarella during a practise."
+  },
+  {
+   "f": "w6.jpg",
+   "file": "Archivo:Passarella joven river.jpg",
+   "kind": "page",
+   "orig": [
+    640,
+    900
+   ],
+   "size": [
+    640,
+    900
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Passarella_joven_river.jpg",
+   "artist": "Humberto Speranza",
+   "license": "Public domain",
+   "date": "1974",
+   "desc": "A young Daniel Passarella in River."
+  }
+ ],
+ "log": [],
+ "candidates": 10
+}

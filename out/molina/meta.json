@@ -1,0 +1,79 @@
+{
+ "id": "molina",
+ "items": [
+  {
+   "f": "w1.jpg",
+   "file": "File:Nahuel_Molina_Argentina_v_Spain_19_July_2026-023.jpg",
+   "kind": "lead",
+   "orig": [
+    3333,
+    5000
+   ],
+   "size": [
+    733,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Nahuel_Molina_Argentina_v_Spain_19_July_2026-023.jpg",
+   "artist": "Bryan Berlin",
+   "license": "CC BY-SA 4.0",
+   "date": "2026-07-19 14:33:03",
+   "desc": "Nahuel Molina during Argentina vs Spain at the 2026 FIFA World Cup Final"
+  },
+  {
+   "f": "w2.jpg",
+   "file": "File:Nahuel Molina WC2022.jpg",
+   "kind": "search",
+   "orig": [
+    309,
+    413
+   ],
+   "size": [
+    309,
+    413
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Nahuel_Molina_WC2022.jpg",
+   "artist": "Hossein Zohrevand",
+   "license": "CC BY 4.0",
+   "date": "2022-11-26",
+   "desc": "2022 FIFA World Cup Match 24, Argentina v Mexico"
+  },
+  {
+   "f": "w3.jpg",
+   "file": "File:Nahuel Molina Argentina v Spain 19 July 2026-247.jpg",
+   "kind": "search",
+   "orig": [
+    5000,
+    3333
+   ],
+   "size": [
+    960,
+    640
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Nahuel_Molina_Argentina_v_Spain_19_July_2026-247.jpg",
+   "artist": "Bryan Berlin",
+   "license": "CC BY-SA 4.0",
+   "date": "2026-07-19 17:50:33",
+   "desc": "Nahuel Molina during Argentina vs Spain at the 2026 FIFA World Cup Final"
+  },
+  {
+   "f": "w4.jpg",
+   "file": "File:Nahuel Molina Argentina v Egypt 7 July 2026-067.jpg",
+   "kind": "search",
+   "orig": [
+    3333,
+    5000
+   ],
+   "size": [
+    733,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Nahuel_Molina_Argentina_v_Egypt_7_July_2026-067.jpg",
+   "artist": "Bryan Berlin",
+   "license": "CC BY-SA 4.0",
+   "date": "2026-07-07 11:34:51",
+   "desc": "Nahuel Molina during Argentina v Egypt at the 2026 FIFA World Cup"
+  }
+ ],
+ "log": [],
+ "candidates": 4
+}
