@@ -6,64 +6,41 @@
    "titles": [],
    "search": [],
    "must": [],
-   "max": 6,
    "bing": [
-    "Sergio Goycochea Italia 90 arquero"
+    "Sergio Goycochea arquero selección argentina 1990"
    ],
    "bing_k": 6,
-   "redo": true,
-   "urls": [
-    "https://www.elgrafico.com.ar/media/cache/pub_news_details_large/media/i/53/61/5361759965795.jpg",
-    "https://www.elgrafico.com.ar/media/cache/pub_news_details_large/media/i/59/4c/594c07d598d84.jpg",
-    "https://www.elgrafico.com.ar/media/cache/pub_news_details_large/media/i/59/4c/594c0819f157a.jpg",
-    "https://www.elgrafico.com.ar/media/cache/pub_news_details_large/media/i/59/4c/594c085838fca.jpg"
-   ]
+   "redo": true
   },
   {
    "id": "olguin",
    "titles": [],
    "search": [],
    "must": [],
-   "max": 6,
    "bing": [
-    "Jorge Olguín Argentina 1978 futbolista"
+    "Jorge Olguín futbolista selección argentina 1978"
    ],
    "bing_k": 6,
    "redo": true
   },
   {
    "id": "sensini",
-   "titles": [
-    "es:Roberto Sensini",
-    "en:Roberto Sensini"
-   ],
+   "titles": [],
    "search": [],
-   "must": [
-    [
-     "sensini"
-    ]
-   ],
-   "max": 6,
+   "must": [],
    "bing": [
-    "Roberto Sensini Argentina 1990"
+    "Roberto Sensini selección argentina futbolista"
    ],
    "bing_k": 6,
    "redo": true
   },
   {
    "id": "ibarra",
-   "titles": [
-    "es:Hugo Benjamín Ibarra"
-   ],
+   "titles": [],
    "search": [],
-   "must": [
-    [
-     "ibarra"
-    ]
-   ],
-   "max": 6,
+   "must": [],
    "bing": [
-    "Hugo Ibarra Boca Juniors lateral"
+    "Hugo Ibarra lateral Boca Juniors futbolista"
    ],
    "bing_k": 6,
    "redo": true
@@ -73,9 +50,8 @@
    "titles": [],
    "search": [],
    "must": [],
-   "max": 6,
    "bing": [
-    "Gino Peruzzi Boca Juniors"
+    "Gino Peruzzi futbolista Boca Juniors"
    ],
    "bing_k": 6,
    "redo": true
@@ -85,9 +61,8 @@
    "titles": [],
    "search": [],
    "must": [],
-   "max": 6,
    "bing": [
-    "Ariel Garcé selección argentina 2010"
+    "Ariel Garcé futbolista selección argentina"
    ],
    "bing_k": 6,
    "redo": true
@@ -97,28 +72,19 @@
    "titles": [],
    "search": [],
    "must": [],
-   "max": 6,
    "bing": [
-    "Federico Fazio selección argentina"
+    "Federico Fazio selección argentina Mundial 2018"
    ],
    "bing_k": 6,
    "redo": true
   },
   {
    "id": "sorin",
-   "titles": [
-    "es:Juan Pablo Sorín",
-    "en:Juan Pablo Sorín"
-   ],
+   "titles": [],
    "search": [],
-   "must": [
-    [
-     "sorin"
-    ]
-   ],
-   "max": 6,
+   "must": [],
    "bing": [
-    "Juan Pablo Sorín selección argentina"
+    "Juan Pablo Sorín futbolista selección argentina"
    ],
    "bing_k": 6,
    "redo": true
@@ -128,9 +94,8 @@
    "titles": [],
    "search": [],
    "must": [],
-   "max": 6,
    "bing": [
-    "Emmanuel Mas Boca Juniors"
+    "Emmanuel Mas futbolista Boca Juniors"
    ],
    "bing_k": 6,
    "redo": true
@@ -140,25 +105,20 @@
    "titles": [],
    "search": [],
    "must": [],
-   "max": 6,
    "bing": [
-    "Ricardo Centurión fiesta video"
+    "Ricardo Centurión borracho",
+    "Ricardo Centurión fiesta noche"
    ],
-   "bing_k": 6,
-   "redo": true,
-   "urls": [
-    "https://elgrafico.com.ar/media/cache/pub_news_details_large/media/i/7b/6a/7b6a9705e22b65bcdab5e9e90229134c0e68879c.jpg",
-    "http://storage.lacapitalmdp.com/2017/02/centu.jpg"
-   ]
+   "bing_k": 4,
+   "redo": true
   },
   {
    "id": "redondo",
    "titles": [],
    "search": [],
    "must": [],
-   "max": 6,
    "bing": [
-    "Fernando Redondo Real Madrid jugador"
+    "Fernando Redondo futbolista Real Madrid"
    ],
    "bing_k": 6,
    "redo": true
@@ -168,9 +128,8 @@
    "titles": [],
    "search": [],
    "must": [],
-   "max": 6,
    "bing": [
-    "Sergio Checho Batista Argentina 1986"
+    "Sergio Checho Batista futbolista 1986"
    ],
    "bing_k": 6,
    "redo": true
@@ -180,9 +139,8 @@
    "titles": [],
    "search": [],
    "must": [],
-   "max": 6,
    "bing": [
-    "Julio Olarticoechea Argentina 1986"
+    "Julio Olarticoechea futbolista 1986"
    ],
    "bing_k": 6,
    "redo": true
@@ -192,9 +150,8 @@
    "titles": [],
    "search": [],
    "must": [],
-   "max": 6,
    "bing": [
-    "Mario Kempes Argentina 1978 festejo"
+    "Mario Kempes Mundial 1978 festejo gol"
    ],
    "bing_k": 6,
    "redo": true
@@ -204,9 +161,8 @@
    "titles": [],
    "search": [],
    "must": [],
-   "max": 6,
    "bing": [
-    "Martín Palermo Boca Juniors festejo gol"
+    "Martín Palermo festejo gol Boca Juniors"
    ],
    "bing_k": 6,
    "redo": true
@@ -216,9 +172,8 @@
    "titles": [],
    "search": [],
    "must": [],
-   "max": 6,
    "bing": [
-    "Rogelio Funes Mori River Plate"
+    "Rogelio Funes Mori River Plate futbolista"
    ],
    "bing_k": 6,
    "redo": true
@@ -228,9 +183,8 @@
    "titles": [],
    "search": [],
    "must": [],
-   "max": 6,
    "bing": [
-    "Rolando Schiavi Boca Juniors"
+    "Rolando Schiavi futbolista Boca Juniors"
    ],
    "bing_k": 6,
    "redo": true
@@ -240,33 +194,8 @@
    "titles": [],
    "search": [],
    "must": [],
-   "max": 6,
    "bing": [
-    "Germán Burgos arquero River Plate"
-   ],
-   "bing_k": 6,
-   "redo": true
-  },
-  {
-   "id": "zabaleta",
-   "titles": [],
-   "search": [],
-   "must": [],
-   "max": 6,
-   "bing": [
-    "Pablo Zabaleta selección argentina"
-   ],
-   "bing_k": 6,
-   "redo": true
-  },
-  {
-   "id": "mouche",
-   "titles": [],
-   "search": [],
-   "must": [],
-   "max": 6,
-   "bing": [
-    "Pablo Mouche Boca Juniors"
+    "Mono Burgos arquero River Plate"
    ],
    "bing_k": 6,
    "redo": true
@@ -276,21 +205,8 @@
    "titles": [],
    "search": [],
    "must": [],
-   "max": 6,
    "bing": [
-    "Chilavert Vélez arquero"
-   ],
-   "bing_k": 6,
-   "redo": true
-  },
-  {
-   "id": "aimar",
-   "titles": [],
-   "search": [],
-   "must": [],
-   "max": 6,
-   "bing": [
-    "Pablo Aimar River Plate jugador"
+    "José Luis Chilavert Vélez arquero"
    ],
    "bing_k": 6,
    "redo": true
@@ -300,9 +216,63 @@
    "titles": [],
    "search": [],
    "must": [],
-   "max": 6,
    "bing": [
-    "Roberto Ayala selección argentina defensor"
+    "Roberto Ayala defensor selección argentina"
+   ],
+   "bing_k": 6,
+   "redo": true
+  },
+  {
+   "id": "mouche",
+   "titles": [],
+   "search": [],
+   "must": [],
+   "bing": [
+    "Pablo Mouche futbolista Boca Juniors"
+   ],
+   "bing_k": 6,
+   "redo": true
+  },
+  {
+   "id": "zabaleta",
+   "titles": [],
+   "search": [],
+   "must": [],
+   "bing": [
+    "Pablo Zabaleta selección argentina futbolista"
+   ],
+   "bing_k": 6,
+   "redo": true
+  },
+  {
+   "id": "ratonibanez",
+   "titles": [],
+   "search": [],
+   "must": [],
+   "bing": [
+    "Ratón Ibáñez San Martín de Tucumán"
+   ],
+   "bing_k": 6,
+   "redo": true
+  },
+  {
+   "id": "bebeacosta",
+   "titles": [],
+   "search": [],
+   "must": [],
+   "bing": [
+    "Bebe Acosta Atlético Tucumán"
+   ],
+   "bing_k": 6,
+   "redo": true
+  },
+  {
+   "id": "aimar",
+   "titles": [],
+   "search": [],
+   "must": [],
+   "bing": [
+    "Pablo Aimar River Plate futbolista"
    ],
    "bing_k": 6,
    "redo": true
@@ -312,7 +282,6 @@
    "titles": [],
    "search": [],
    "must": [],
-   "max": 6,
    "bing": [
     "Claudio Caniggia selección argentina 1990"
    ],

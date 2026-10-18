@@ -143,26 +143,23 @@ def save_img(raw, path, maxside=1100):
 
 
 def bing(q, k, log):
-    """Top-k full-size image URLs (plus thumb fallback) from Bing Images."""
-    url = "https://www.bing.com/images/async?" + urllib.parse.urlencode(
-        {"q": q, "first": 0, "count": 35, "mmasync": 1, "adlt": "moderate"})
+    """Image search through the ddgs package (DuckDuckGo / Bing backends). Returns [(image, thumb, page)]."""
     try:
-        html = get(url, ua=BROWSER_UA, tries=3, gap=1.5).decode("utf-8", "ignore")
+        from ddgs import DDGS
     except Exception as e:
-        log.append(f"bing fail {q}: {e}")
+        log.append(f"ddgs import fail {e}")
         return []
-    import html as H
     out = []
-    for m in re.finditer(r'm="(\{.*?\})"', html):
+    for backend in ("duckduckgo", "auto"):
         try:
-            d = json.loads(H.unescape(m.group(1)))
-        except Exception:
-            continue
-        if d.get("murl"):
-            out.append((d["murl"], d.get("turl"), d.get("purl")))
-        if len(out) >= k * 2:
-            break
-    log.append(f"bing {q}: {len(out)} results")
+            res = DDGS(timeout=20).images(q, region="ar-es", safesearch="moderate", max_results=k * 3, backend=backend)
+            out = [(r.get("image"), r.get("thumbnail"), r.get("url")) for r in res if r.get("image")]
+            log.append(f"ddgs[{backend}] {q}: {len(out)} results; first={[r.get('title','')[:40] for r in res[:3]]}")
+            if out:
+                break
+        except Exception as e:
+            log.append(f"ddgs[{backend}] fail {q}: {e}")
+        time.sleep(3)
     return out
 
 
@@ -170,6 +167,9 @@ def run_job(job, root):
     jid = job["id"]
     d = os.path.join(root, jid)
     os.makedirs(d, exist_ok=True)
+    for f in os.listdir(d):
+        if f.startswith("b") and f.endswith(".jpg"):
+            os.remove(os.path.join(d, f))
     log, meta = [], []
     must = job.get("must") or []
     cands = []
@@ -240,8 +240,8 @@ def run_job(job, root):
                 continue
             try:
                 nb += 1
-                size = save_img(raw, os.path.join(d, f"b{nb}.jpg"))
-                meta.append({"f": f"b{nb}.jpg", "url": murl, "page": purl, "q": q, "size": size})
+                size = save_img(raw, os.path.join(d, f"d{nb}.jpg"))
+                meta.append({"f": f"d{nb}.jpg", "url": murl, "page": purl, "q": q, "size": size})
             except Exception as e:
                 nb -= 1
                 log.append(f"bing img fail {murl}: {e}")
