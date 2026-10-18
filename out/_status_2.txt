@@ -1,1 +1,1 @@
-done 02:12:44 {"sensini": 6, "garce": 6, "mas": 6, "batista": 1, "palermo": 6, "burgos": 1, "chilavert": 6, "caniggia": 6}
+done 02:20:47 {"sensini": 6, "garce": 6, "mas": 6, "batista": 6, "palermo": 6, "burgos": 6, "mouche": 6, "bebeacosta": 6}
