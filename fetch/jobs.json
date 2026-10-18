@@ -2,99 +2,25 @@
  "out": "out",
  "jobs": [
   {
-   "id": "sorin",
-   "titles": [],
-   "search": [],
-   "must": [],
-   "bing": [
-    "Juan Pablo Sorín",
-    "Sorín Argentina 2006 Mundial"
+   "id": "mercado",
+   "titles": [
+    "es:Gabriel Mercado",
+    "en:Gabriel Mercado"
    ],
-   "bing_k": 4,
-   "redo": true
-  },
-  {
-   "id": "olguin",
-   "titles": [],
-   "search": [],
-   "must": [],
-   "bing": [
-    "Jorge Olguín",
-    "Olguín campeón 1978 Argentina"
+   "search": [
+    "\"Gabriel Mercado\""
    ],
-   "bing_k": 4,
-   "redo": true
-  },
-  {
-   "id": "peruzzi",
-   "titles": [],
-   "search": [],
-   "must": [],
-   "bing": [
-    "Gino Peruzzi",
-    "Peruzzi Boca lateral"
+   "must": [
+    [
+     "gabriel",
+     "mercado"
+    ]
    ],
-   "bing_k": 4,
-   "redo": true
-  },
-  {
-   "id": "redondo",
-   "titles": [],
-   "search": [],
-   "must": [],
+   "max": 5,
    "bing": [
-    "Fernando Redondo",
-    "Redondo Real Madrid 2000"
+    "Gabriel Mercado selección argentina"
    ],
-   "bing_k": 4,
-   "redo": true
-  },
-  {
-   "id": "kempes",
-   "titles": [],
-   "search": [],
-   "must": [],
-   "bing": [
-    "Mario Kempes",
-    "Kempes 1978 Argentina gol"
-   ],
-   "bing_k": 4,
-   "redo": true
-  },
-  {
-   "id": "schiavi",
-   "titles": [],
-   "search": [],
-   "must": [],
-   "bing": [
-    "Rolando Schiavi",
-    "Schiavi Boca 2003"
-   ],
-   "bing_k": 4,
-   "redo": true
-  },
-  {
-   "id": "ayala",
-   "titles": [],
-   "search": [],
-   "must": [],
-   "bing": [
-    "Roberto Fabián Ayala",
-    "Ayala Argentina 2006"
-   ],
-   "bing_k": 4,
-   "redo": true
-  },
-  {
-   "id": "caniggia",
-   "titles": [],
-   "search": [],
-   "must": [],
-   "bing": [
-    "Claudio Caniggia",
-    "Caniggia Argentina 1990 Mundial"
-   ],
-   "bing_k": 4,
+   "bing_k": 5,
    "redo": true
   }
  ]
