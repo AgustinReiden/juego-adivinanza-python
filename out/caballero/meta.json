@@ -3,6 +3,24 @@
  "items": [
   {
    "f": "w1.jpg",
+   "file": "File:Wilfredo_Caballero.jpg",
+   "kind": "lead",
+   "orig": [
+    824,
+    1000
+   ],
+   "size": [
+    824,
+    1000
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Wilfredo_Caballero.jpg",
+   "artist": "Кирилл Венедиктов",
+   "license": "CC BY-SA 3.0",
+   "date": "2018-06-26 20:27:56",
+   "desc": "Гол Рохо в концовке выводит Аргентину в плей-офф чемпионата мира"
+  },
+  {
+   "f": "w2.jpg",
    "file": "File:Willy_Caballero_20042025_(1).jpg",
    "kind": "lead",
    "orig": [
@@ -20,7 +38,7 @@
    "desc": "Willy Caballero arriving at Craven Cottage prior to the Premier League match between Fulham and Chelsea on 20 April 2025."
   },
   {
-   "f": "w2.jpg",
+   "f": "w3.jpg",
    "file": "File:Willy Caballero.jpg",
    "kind": "page",
    "orig": [
@@ -38,7 +56,7 @@
    "desc": "Manchester City goalkeeper, Willy Caballero warming up before their Premier League defeat to West Ham United at the Boleyn Ground, October 2014"
   },
   {
-   "f": "w3.jpg",
+   "f": "w4.jpg",
    "file": "File:Willy Caballero 20180106.jpg",
    "kind": "page",
    "orig": [
@@ -54,11 +72,26 @@
    "license": "CC BY-SA 2.0",
    "date": "2018-01-06 18:12",
    "desc": "FA Cup 3rd round 6.1.18"
+  },
+  {
+   "f": "w5.jpg",
+   "file": "File:Wilfredo Caballero 2012.JPG",
+   "kind": "search",
+   "orig": [
+    556,
+    1262
+   ],
+   "size": [
+    485,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Wilfredo_Caballero_2012.JPG",
+   "artist": "Mess",
+   "license": "CC BY-SA 3.0",
+   "date": "2012-08-04",
+   "desc": "Wilfredo Caballero during the friendly match Juventus-Málaga played in Salerno"
   }
  ],
- "log": [
-  "dl fail File:Wilfredo_Caballero.jpg: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)",
-  "dl fail File:Wilfredo Caballero 2012.JPG: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
- ],
+ "log": [],
  "candidates": 5
 }

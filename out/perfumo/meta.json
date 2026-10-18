@@ -1,0 +1,115 @@
+{
+ "id": "perfumo",
+ "items": [
+  {
+   "f": "w1.jpg",
+   "file": "File:Basile_Perfumo_03.png",
+   "kind": "lead",
+   "orig": [
+    1080,
+    1350
+   ],
+   "size": [
+    880,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Basile_Perfumo_03.png",
+   "artist": "El Gráfico",
+   "license": "Public domain",
+   "date": "1967",
+   "desc": "The best defensive duo in Argentine football: A. Basile and R. Perfumo, players from Racing Club de Avellaneda."
+  },
+  {
+   "f": "w2.jpg",
+   "file": "Archivo:PerfumoRacing.jpg",
+   "kind": "page",
+   "orig": [
+    1116,
+    1488
+   ],
+   "size": [
+    825,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:PerfumoRacing.jpg",
+   "artist": "DesconocidoUnknown author",
+   "license": "Public domain",
+   "date": "1968",
+   "desc": "Roberto Perfumo in Racing Club de Avellaneda."
+  },
+  {
+   "f": "w3.jpg",
+   "file": "File:Perfumo_1969.jpeg",
+   "kind": "lead",
+   "orig": [
+    1436,
+    1508
+   ],
+   "size": [
+    960,
+    1008
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Perfumo_1969.jpeg",
+   "artist": "Unknown authorUnknown author",
+   "license": "Public domain",
+   "date": "1969",
+   "desc": "Argentine footballer Roberto Perfumo in 1969"
+  },
+  {
+   "f": "w4.jpg",
+   "file": "File:Perfumo cruyff 1974.jpg",
+   "kind": "page",
+   "orig": [
+    443,
+    330
+   ],
+   "size": [
+    443,
+    330
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Perfumo_cruyff_1974.jpg",
+   "artist": "Unknown authorUnknown author",
+   "license": "Public domain",
+   "date": "1974-06-26",
+   "desc": "Johan Cruyff and Roberto Perfumo, captains of Netherlands and Argentina respectively, greeting before the match in the 1974 FIFA World Cup."
+  },
+  {
+   "f": "w5.jpg",
+   "file": "File:Roberto Perfumo 1975.jpg",
+   "kind": "page",
+   "orig": [
+    696,
+    800
+   ],
+   "size": [
+    696,
+    800
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Roberto_Perfumo_1975.jpg",
+   "artist": "Unknown authorUnknown author",
+   "license": "Public domain",
+   "date": "1975",
+   "desc": "River Plate player Roberto Perfumo in 1975."
+  },
+  {
+   "f": "w6.jpg",
+   "file": "File:Roberto Perfumo.jpg",
+   "kind": "search",
+   "orig": [
+    936,
+    1503
+   ],
+   "size": [
+    685,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Roberto_Perfumo.jpg",
+   "artist": "Unknown authorUnknown author",
+   "license": "Public domain",
+   "date": "1967",
+   "desc": "Perfumo posing for El Grafíco magazine, originally published in November 1967."
+  }
+ ],
+ "log": [],
+ "candidates": 10
+}
