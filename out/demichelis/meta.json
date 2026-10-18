@@ -1,0 +1,97 @@
+{
+ "id": "demichelis",
+ "items": [
+  {
+   "f": "w1.jpg",
+   "file": "File:Demichelis_Man_City_1.jpg",
+   "kind": "lead",
+   "orig": [
+    667,
+    1108
+   ],
+   "size": [
+    662,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Demichelis_Man_City_1.jpg",
+   "artist": "CFCUnofficial (Chelsea Debs)",
+   "license": "CC BY-SA 2.0",
+   "date": "2015-01-31 18:59",
+   "desc": "Chelsea 1 Man City 1"
+  },
+  {
+   "f": "w2.jpg",
+   "file": "Archivo:Demichelis Arg.jpg",
+   "kind": "page",
+   "orig": [
+    355,
+    501
+   ],
+   "size": [
+    355,
+    501
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Demichelis_Arg.jpg",
+   "artist": "André Zehetbauer from Schwerin, Deutschland",
+   "license": "CC BY-SA 2.0",
+   "date": "2009-02-14 15:02",
+   "desc": "Martin Demichelis -beim Warmmachen"
+  },
+  {
+   "f": "w3.jpg",
+   "file": "File:Martin Demichelis (24107132153) (cropped).jpg",
+   "kind": "search",
+   "orig": [
+    1437,
+    2538
+   ],
+   "size": [
+    623,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Martin_Demichelis_(24107132153)_(cropped).jpg",
+   "artist": "joshjdss",
+   "license": "CC BY 2.0",
+   "date": "2016-01-23 20:23",
+   "desc": "Martin Demichelis of Manchester City watches on as Raheem Sterling controls the ball during the game against West Ham."
+  },
+  {
+   "f": "w4.jpg",
+   "file": "File:Martín Demichelis 2012.JPG",
+   "kind": "search",
+   "orig": [
+    400,
+    1000
+   ],
+   "size": [
+    400,
+    1000
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Mart%C3%ADn_Demichelis_2012.JPG",
+   "artist": "Mess",
+   "license": "CC BY-SA 3.0",
+   "date": "2012-08-04",
+   "desc": "Martín Demichelis during the friendly match Juventus-Málaga played in Salerno"
+  },
+  {
+   "f": "w5.jpg",
+   "file": "File:Martín Demichelis (cropped).jpg",
+   "kind": "search",
+   "orig": [
+    314,
+    591
+   ],
+   "size": [
+    314,
+    591
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Mart%C3%ADn_Demichelis_(cropped).jpg",
+   "artist": "One Spor",
+   "license": "CC BY 2.0",
+   "date": "2010-04-11 21:48:02",
+   "desc": "Martín Demichelis"
+  }
+ ],
+ "log": [],
+ "candidates": 5
+}

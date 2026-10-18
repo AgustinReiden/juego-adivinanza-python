@@ -1,0 +1,43 @@
+{
+ "id": "fazio",
+ "items": [
+  {
+   "f": "w1.jpg",
+   "file": "File:Federico_Fazio.jpg",
+   "kind": "lead",
+   "orig": [
+    333,
+    786
+   ],
+   "size": [
+    333,
+    786
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Federico_Fazio.jpg",
+   "artist": "@cfcunofficial (Chelsea Debs) London",
+   "license": "CC BY-SA 2.0",
+   "date": "2017-10-18 20:32:53",
+   "desc": "Chelsea VS. Roma 18 October 2017"
+  },
+  {
+   "f": "w2.jpg",
+   "file": "File:Federico_Fazio_(cropped).jpg",
+   "kind": "lead",
+   "orig": [
+    199,
+    331
+   ],
+   "size": [
+    199,
+    331
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Federico_Fazio_(cropped).jpg",
+   "artist": "@cfcunofficial (Chelsea Debs) London",
+   "license": "CC BY-SA 2.0",
+   "date": "2017-10-18 20:32:53",
+   "desc": "Chelsea VS. Roma 18 October 2017"
+  }
+ ],
+ "log": [],
+ "candidates": 2
+}

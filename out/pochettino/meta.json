@@ -1,0 +1,115 @@
+{
+ "id": "pochettino",
+ "items": [
+  {
+   "f": "w1.jpg",
+   "file": "File:Mauricio_Pochettino_USMNT_v_Belgium_Mar_28_2026-3_(cropped).jpg",
+   "kind": "lead",
+   "orig": [
+    2801,
+    3734
+   ],
+   "size": [
+    825,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Mauricio_Pochettino_USMNT_v_Belgium_Mar_28_2026-3_(cropped).jpg",
+   "artist": "Bryan Berlin",
+   "license": "CC BY-SA 4.0",
+   "date": "2026-03-28 14:28:28",
+   "desc": "Mauricio Pochettino during USMNT v Belgium on March 28 2026 at Mercedes-Benz Stadium in Atlanta, Georgia"
+  },
+  {
+   "f": "w2.jpg",
+   "file": "Archivo:Pochettino 2012.jpg",
+   "kind": "page",
+   "orig": [
+    676,
+    704
+   ],
+   "size": [
+    676,
+    704
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Pochettino_2012.jpg",
+   "artist": "Víctor Gutiérrez Navarro from VALENCIA",
+   "license": "CC BY 2.0",
+   "date": "2012-11-17 20:23",
+   "desc": "Valencia CF - Español 2012 #41"
+  },
+  {
+   "f": "w3.jpg",
+   "file": "File:Mauricio_Pochettino_USMNT_v_Belgium_Mar_28_2026-2.jpg",
+   "kind": "lead",
+   "orig": [
+    3750,
+    5000
+   ],
+   "size": [
+    825,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Mauricio_Pochettino_USMNT_v_Belgium_Mar_28_2026-2.jpg",
+   "artist": "Bryan Berlin",
+   "license": "CC BY-SA 4.0",
+   "date": "2026-03-28 14:28:07",
+   "desc": "Mauricio Pochettino during USMNT v Belgium on March 28 2026 at Mercedes-Benz Stadium in Atlanta, Georgia"
+  },
+  {
+   "f": "w4.jpg",
+   "file": "File:Mauricio Pochettino 2016 (cropped).jpg",
+   "kind": "page",
+   "orig": [
+    303,
+    468
+   ],
+   "size": [
+    303,
+    468
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Mauricio_Pochettino_2016_(cropped).jpg",
+   "artist": "Дмитрий Голубович",
+   "license": "CC BY-SA 3.0",
+   "date": "2016-09-27",
+   "desc": "Mauricio Pochettino coaching Tottenham Hotspur FC in a game against PFC CSKA Moscow."
+  },
+  {
+   "f": "w5.jpg",
+   "file": "File:Mauricio Pochettino USMNT v Belgium Mar 28 2026-55.jpg",
+   "kind": "page",
+   "orig": [
+    3333,
+    5000
+   ],
+   "size": [
+    733,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Mauricio_Pochettino_USMNT_v_Belgium_Mar_28_2026-55.jpg",
+   "artist": "Bryan Berlin",
+   "license": "CC BY-SA 4.0",
+   "date": "2026-03-28 15:30:06",
+   "desc": "Mauricio Pochettino during USMNT v Belgium on March 28 2026 at Mercedes-Benz Stadium in Atlanta, Georgia"
+  },
+  {
+   "f": "w6.jpg",
+   "file": "File:Pochettino.jpg",
+   "kind": "page",
+   "orig": [
+    800,
+    757
+   ],
+   "size": [
+    800,
+    757
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Pochettino.jpg",
+   "artist": "Pedroserafin",
+   "license": "CC0",
+   "date": "2011-05-29",
+   "desc": "RCD Espanyol coach, during a veteran match"
+  }
+ ],
+ "log": [],
+ "candidates": 10
+}

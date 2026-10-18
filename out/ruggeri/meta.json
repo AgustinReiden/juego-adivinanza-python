@@ -1,0 +1,115 @@
+{
+ "id": "ruggeri",
+ "items": [
+  {
+   "f": "w1.jpg",
+   "file": "File:Ruggeri_debut_boca.jpg",
+   "kind": "lead",
+   "orig": [
+    607,
+    900
+   ],
+   "size": [
+    607,
+    900
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Ruggeri_debut_boca.jpg",
+   "artist": "DesconocidoUnknown author",
+   "license": "Public domain",
+   "date": "1980-06-08",
+   "desc": "Oscar Ruggeri in his debut in Primera División vs Newell's OB. Boca won 3-0."
+  },
+  {
+   "f": "w2.jpg",
+   "file": "Archivo:Ruggerimexico86.jpg",
+   "kind": "page",
+   "orig": [
+    381,
+    280
+   ],
+   "size": [
+    381,
+    280
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Ruggerimexico86.jpg",
+   "artist": "Revista El Gráfico",
+   "license": "Public domain",
+   "date": "1986",
+   "desc": "Ruggeri pelea el balón con Rumenigge en la Final de México 1986."
+  },
+  {
+   "f": "w3.jpg",
+   "file": "File:Ruggeri_1986_(cropped).jpg",
+   "kind": "lead",
+   "orig": [
+    288,
+    424
+   ],
+   "size": [
+    288,
+    424
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Ruggeri_1986_(cropped).jpg",
+   "artist": "Unknown authorUnknown author",
+   "license": "CC0",
+   "date": "1986-12-14",
+   "desc": "Oscar Ruggeri con la Toyota Cup en 1986"
+  },
+  {
+   "f": "w4.jpg",
+   "file": "File:Ruggeri boca 1981.jpg",
+   "kind": "search",
+   "orig": [
+    400,
+    467
+   ],
+   "size": [
+    400,
+    467
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Ruggeri_boca_1981.jpg",
+   "artist": "Unknown authorUnknown author",
+   "license": "Public domain",
+   "date": "1981",
+   "desc": "Oscar Ruggeri while playing for Boca Juniors in 1981."
+  },
+  {
+   "f": "w5.jpg",
+   "file": "File:Ruggeri vs rummenigge final.jpg",
+   "kind": "search",
+   "orig": [
+    613,
+    502
+   ],
+   "size": [
+    613,
+    502
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Ruggeri_vs_rummenigge_final.jpg",
+   "artist": "Unknown authorUnknown author",
+   "license": "Public domain",
+   "date": "1986-06-29",
+   "desc": "Oscar Ruggeri vs Karl Rummenigge"
+  },
+  {
+   "f": "w6.jpg",
+   "file": "File:Juvenil gol ruggeri.jpg",
+   "kind": "search",
+   "orig": [
+    733,
+    381
+   ],
+   "size": [
+    733,
+    381
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Juvenil_gol_ruggeri.jpg",
+   "artist": "Unknown authorUnknown author",
+   "license": "Public domain",
+   "date": "1981-02-20",
+   "desc": "Oscar Ruggeri scoring to Venezuela at the Youth championship in Ecuador."
+  }
+ ],
+ "log": [],
+ "candidates": 10
+}
