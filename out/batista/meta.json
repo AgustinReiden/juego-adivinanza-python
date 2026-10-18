@@ -1,0 +1,79 @@
+{
+ "id": "batista",
+ "items": [
+  {
+   "f": "w1.jpg",
+   "file": "File:Argentine_-_Portugal_-_Sergio_Batista.jpg",
+   "kind": "lead",
+   "orig": [
+    2644,
+    3967
+   ],
+   "size": [
+    733,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Argentine_-_Portugal_-_Sergio_Batista.jpg",
+   "artist": "Ludovic Péron",
+   "license": "CC BY-SA 3.0",
+   "date": "2011-02-10 00:25:39",
+   "desc": "Sergio Batista"
+  },
+  {
+   "f": "w2.jpg",
+   "file": "File:Sergio Batista.jpg",
+   "kind": "search",
+   "orig": [
+    365,
+    579
+   ],
+   "size": [
+    365,
+    579
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Sergio_Batista.jpg",
+   "artist": "Christophe95",
+   "license": "CC BY-SA 3.0",
+   "date": "2011",
+   "desc": "Sergio Batista in 2011"
+  },
+  {
+   "f": "w3.jpg",
+   "file": "File:Sérgio Batista Coelho 2.png",
+   "kind": "search",
+   "orig": [
+    625,
+    625
+   ],
+   "size": [
+    625,
+    625
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:S%C3%A9rgio_Batista_Coelho_2.png",
+   "artist": "Célio G. Carvalho Diniz",
+   "license": "CC BY-SA 4.0",
+   "date": "2025-07-17",
+   "desc": "Sérgio Batista Coelho"
+  },
+  {
+   "f": "w4.jpg",
+   "file": "File:Sérgio Batista Coelho.jpg",
+   "kind": "search",
+   "orig": [
+    691,
+    691
+   ],
+   "size": [
+    691,
+    691
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:S%C3%A9rgio_Batista_Coelho.jpg",
+   "artist": "Célio G. Carvalho Diniz",
+   "license": "CC BY-SA 4.0",
+   "date": "2025-07-17",
+   "desc": "Sérgio Batista Coelho"
+  }
+ ],
+ "log": [],
+ "candidates": 4
+}

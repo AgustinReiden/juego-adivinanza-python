@@ -1,0 +1,115 @@
+{
+ "id": "ardiles",
+ "items": [
+  {
+   "f": "w1.jpg",
+   "file": "File:Osvaldo_Ardiles,_Selección_Argentina_1978.jpg",
+   "kind": "lead",
+   "orig": [
+    1051,
+    1505
+   ],
+   "size": [
+    768,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Osvaldo_Ardiles,_Selecci%C3%B3n_Argentina_1978.jpg",
+   "artist": "DesconocidoUnknown author",
+   "license": "Public domain",
+   "date": "1978",
+   "desc": "Osvaldo Ardiles, Campeón del mundo 1978"
+  },
+  {
+   "f": "w2.jpg",
+   "file": "Archivo:Ardiles y Villa -Seleccion Argentina- - El Gráfico 3013.jpg",
+   "kind": "page",
+   "orig": [
+    1490,
+    2000
+   ],
+   "size": [
+    819,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Ardiles_y_Villa_-Seleccion_Argentina-_-_El_Gr%C3%A1fico_3013.jpg",
+   "artist": "El Gráfico",
+   "license": "Public domain",
+   "date": "",
+   "desc": "El Grafico del 05 de Julio de 1977. Edicion 3013"
+  },
+  {
+   "f": "w3.jpg",
+   "file": "Archivo:Instituto Mario Kempes y Osvaldo Ardiles. Nacional 1973.jpg",
+   "kind": "page",
+   "orig": [
+    872,
+    551
+   ],
+   "size": [
+    872,
+    551
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Instituto_Mario_Kempes_y_Osvaldo_Ardiles._Nacional_1973.jpg",
+   "artist": "DesconocidoUnknown author",
+   "license": "Public domain",
+   "date": "1973",
+   "desc": "Kempescy Ardiles en el Nacional 1974 de Prinera División"
+  },
+  {
+   "f": "w4.jpg",
+   "file": "Archivo:Osvaldo Ardiles (1981).jpg",
+   "kind": "page",
+   "orig": [
+    815,
+    1170
+   ],
+   "size": [
+    766,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Osvaldo_Ardiles_(1981).jpg",
+   "artist": "Marcel Antonisse / Anefo",
+   "license": "CC BY-SA 3.0 nl",
+   "date": "1981-09-16",
+   "desc": "Osvaldo Ardiles"
+  },
+  {
+   "f": "w5.jpg",
+   "file": "File:Ardiles villa fa cup.jpg",
+   "kind": "page",
+   "orig": [
+    637,
+    900
+   ],
+   "size": [
+    637,
+    900
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Ardiles_villa_fa_cup.jpg",
+   "artist": "Unknown authorUnknown author",
+   "license": "Public domain",
+   "date": "1981-05",
+   "desc": "Osvaldo Ardiles (left) and Ricardo Villa holding the FA Cup trophy won with Tottenham Hotspur."
+  },
+  {
+   "f": "w6.jpg",
+   "file": "File:Bertoni ardiles kempes.jpg",
+   "kind": "page",
+   "orig": [
+    395,
+    559
+   ],
+   "size": [
+    395,
+    559
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Bertoni_ardiles_kempes.jpg",
+   "artist": "Unknown authorUnknown author",
+   "license": "Public domain",
+   "date": "1981",
+   "desc": "Daniel Bertoni (left), Osvaldo Ardiles (middle) and Mario Kempes with Argentina."
+  }
+ ],
+ "log": [],
+ "candidates": 10
+}
