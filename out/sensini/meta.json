@@ -2,68 +2,69 @@
  "id": "sensini",
  "items": [
   {
-   "f": "b1.jpg",
-   "url": "https://m.media-amazon.com/images/I/91peaFO6O3L._AC_SL1500_.jpg",
-   "page": "https://www.amazon.com/homewill-Area-Rug-Living-Room/dp/B0DRFRVKHF",
-   "q": "Roberto Sensini Argentina 1990",
+   "f": "d1.jpg",
+   "url": "https://i.pinimg.com/736x/6e/00/c1/6e00c1bda313cc7feb2f151d742bd69f.jpg",
+   "page": "https://www.pinterest.com/pin/689895236666998644/",
+   "q": "Roberto Sensini selección argentina futbolista",
    "size": [
-    1100,
+    735,
+    1000
+   ]
+  },
+  {
+   "f": "d2.jpg",
+   "url": "https://i.pinimg.com/736x/b0/ea/e5/b0eae5c2adb3771a6b17fbad4738769c.jpg",
+   "page": "https://br.pinterest.com/pin/31525266133390193/",
+   "q": "Roberto Sensini selección argentina futbolista",
+   "size": [
+    735,
+    1000
+   ]
+  },
+  {
+   "f": "d3.jpg",
+   "url": "https://www.sporting-heroes.net/content/thumbnails/00245/24401-zoom.jpg",
+   "page": "https://www.sporting-heroes.net/football/argentina/roberto-sensini-10042/fifa-copa-del-mundo-1990_a24401/",
+   "q": "Roberto Sensini selección argentina futbolista",
+   "size": [
+    516,
+    720
+   ]
+  },
+  {
+   "f": "d4.jpg",
+   "url": "https://i.pinimg.com/736x/b7/ce/de/b7cedec8c3bef1a1f9967ea2029556bc.jpg",
+   "page": "https://mx.pinterest.com/pin/roberto-sensini--814588651332052968/",
+   "q": "Roberto Sensini selección argentina futbolista",
+   "size": [
+    730,
     1100
    ]
   },
   {
-   "f": "b2.jpg",
-   "url": "https://m.media-amazon.com/images/I/91GSr1-6sxL.jpg",
-   "page": "https://www.bidfta.com/406077/item-detail/31578716",
-   "q": "Roberto Sensini Argentina 1990",
+   "f": "d5.jpg",
+   "url": "https://media.gettyimages.com/id/1239211663/photo/roberto-sensini-of-argentina-during-the-fifa-world-cup-final-match-between-west-germany-and.jpg?s=612x612&w=gi&k=20&c=Kv3xGtdhDUDe3PQA9qtXXVyusRI1idm3C990BbJ17Rk=",
+   "page": "https://www.gettyimages.ie/photos/roberto-sensini",
+   "q": "Roberto Sensini selección argentina futbolista",
    "size": [
-    1100,
-    1100
+    408,
+    612
    ]
   },
   {
-   "f": "b3.jpg",
-   "url": "https://m.media-amazon.com/images/I/91lN035cnsL._AC_SL1500_.jpg",
-   "page": "https://www.amazon.com/Area-Rug-Living-Room-Rugs/dp/B0DLP5MCNF",
-   "q": "Roberto Sensini Argentina 1990",
+   "f": "d6.jpg",
+   "url": "https://alchetron.com/cdn/roberto-sensini-94bbf913-8e84-48eb-8aec-a0adaa70cea-resize-750.jpeg",
+   "page": "https://alchetron.com/Roberto-Sensini",
+   "q": "Roberto Sensini selección argentina futbolista",
    "size": [
-    1100,
-    1100
-   ]
-  },
-  {
-   "f": "b4.jpg",
-   "url": "https://i5.walmartimages.com/seo/9x12-Modern-Multi-Color-Large-Area-Rugs-Living-Room-Bedroom-Rug-Dining-Indoor-Entry-Entryway-Kitchen-Alfombras-para-Salas-8-10-x-12-2_eedc16ba-176d-476a-9727-b186c695ae8e.53711ba483629b6ceabdef4777607cb0.jpeg",
-   "page": "https://www.walmart.com/ip/seort/634987875",
-   "q": "Roberto Sensini Argentina 1990",
-   "size": [
-    1100,
-    1100
-   ]
-  },
-  {
-   "f": "b5.jpg",
-   "url": "https://i5.walmartimages.com/seo/Ofoor-Area-Rugs-for-Living-Room-9-x12-Washable-Rugs-Retro-Large-Area-Rug-Modern-for-Home-Decor-Foldable-Nonslip-Bedroom-Rugs-Gray-Blue_b38a87b6-f6ac-4204-8f97-96527549d3b9.5994628a8053411e377580cdfb000d5a.jpeg",
-   "page": "https://www.walmart.com/ip/Ofoor-Area-Rugs-for-Living-Room-9-x12-Washable-Rugs-Retro-Large-Area-Rug-Modern-for-Home-Decor-Foldable-Nonslip-Bedroom-Rugs-Gray-Blue/5326017901",
-   "q": "Roberto Sensini Argentina 1990",
-   "size": [
-    1100,
-    1100
-   ]
-  },
-  {
-   "f": "b6.jpg",
-   "url": "https://m.media-amazon.com/images/I/91vfXL1+dbL._AC_.jpg",
-   "page": "https://www.amazon.com/Area-Rug-Living-Room-Rugs/dp/B0CYT93FBM",
-   "q": "Roberto Sensini Argentina 1990",
-   "size": [
-    1100,
-    1100
+    534,
+    720
    ]
   }
  ],
  "log": [
-  "bing Roberto Sensini Argentina 1990: 12 results"
+  "ddgs[duckduckgo] fail Roberto Sensini selección argentina futbolista: RequestError: RequestError('error sending request for url (https://duckduckgo.com/?q=Roberto+Sensini+selecci%C3%B3n+argentina+futbolista) > user error: malformed headers')",
+  "ddgs[auto] Roberto Sensini selección argentina futbolista: 18 results; first=['Roberto Sensini | Argentina football tea', 'Roberto Nestor Sensini | Copa do mundo, ', 'Roberto Sensini - FIFA Copa del Mundo 19']"
  ],
- "candidates": 1
+ "candidates": 0
 }

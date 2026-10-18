@@ -2,18 +2,69 @@
  "id": "burgos",
  "items": [
   {
-   "f": "b1.jpg",
-   "url": "https://imgv2-1-f.scribdassets.com/img/document/811370829/original/91bdb6552a/1?v=1",
-   "page": "https://www.scribd.com/document/811370829/donationPayment-OBFlLXXL3E6YQcmoAErug-1",
-   "q": "Germán Burgos arquero River Plate",
+   "f": "d1.jpg",
+   "url": "https://www.mundodeportivo.com/files/og_thumbnail/uploads/2020/05/15/60e7766d5d563.jpeg",
+   "page": "https://www.mundodeportivo.com/futbol/atletico-madrid/20200515/481154895078/el-increible-codazo-del-mono-burgos-que-recordo-river-plate.html",
+   "q": "Mono Burgos arquero River Plate",
    "size": [
-    768,
-    1024
+    1100,
+    619
+   ]
+  },
+  {
+   "f": "d2.jpg",
+   "url": "https://s.libertaddigital.com/2011/06/27/monoburgos.jpg",
+   "page": "https://www.libertaddigital.com/fotos/historicos-river-riverplate-1002588/",
+   "q": "Mono Burgos arquero River Plate",
+   "size": [
+    367,
+    550
+   ]
+  },
+  {
+   "f": "d3.jpg",
+   "url": "https://4.bp.blogspot.com/-nkfjmBGFUxk/XKakLICdUHI/AAAAAAAACI0/a0wHza32eZEHQBr9Twys-QL6i_nOYXttACLcBGAs/w1200-h630-p-k-no-nu/56300111_794853317537043_3850953933421805568_n.jpg",
+   "page": "https://riverysugranhistoria.blogspot.com/2019/04/mono-burgos.html",
+   "q": "Mono Burgos arquero River Plate",
+   "size": [
+    474,
+    249
+   ]
+  },
+  {
+   "f": "d4.jpg",
+   "url": "https://soydelmillo.com/wp-content/uploads/2021/09/E-tiMtvXMAMzdGq-1.jpg",
+   "page": "https://soydelmillo.com/river-en-redes/2021/09/07/a-27-anos-del-debut-de-german-burgos-en-river/",
+   "q": "Mono Burgos arquero River Plate",
+   "size": [
+    1100,
+    792
+   ]
+  },
+  {
+   "f": "d5.jpg",
+   "url": "https://media.diariouno.com.ar/adjuntos/298/imagenes/005/846/0005846085.jpg?0000-00-00-00-00-00",
+   "page": "https://www.diariouno.com.ar/ovacion/futbol/el-deseo-del-mono-burgos-antes-dirigir-river-n577413",
+   "q": "Mono Burgos arquero River Plate",
+   "size": [
+    1100,
+    619
+   ]
+  },
+  {
+   "f": "d6.jpg",
+   "url": "https://i.ytimg.com/vi/CLTGFqj9Ztc/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCmAfsyKKZOgbWMW9GNDvmGPJMCgw",
+   "page": "https://www.youtube.com/shorts/CLTGFqj9Ztc",
+   "q": "Mono Burgos arquero River Plate",
+   "size": [
+    405,
+    720
    ]
   }
  ],
  "log": [
-  "bing Germán Burgos arquero River Plate: 1 results"
+  "ddgs[duckduckgo] fail Mono Burgos arquero River Plate: RequestError: RequestError('error sending request for url (https://duckduckgo.com/?q=Mono+Burgos+arquero+River+Plate) > user error: malformed headers')",
+  "ddgs[auto] Mono Burgos arquero River Plate: 18 results; first=['El ‘increíble codazo’ del ‘Mono’ Burgos ', 'Históricos de River Plate - Libertad Dig', 'RIVER Y SU GRAN HISTORIA: \"MONO\" BURGOS']"
  ],
  "candidates": 0
 }

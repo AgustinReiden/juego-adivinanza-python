@@ -2,18 +2,69 @@
  "id": "batista",
  "items": [
   {
-   "f": "b1.jpg",
-   "url": "https://imagesvc.meredithcorp.io/v3/mm/image?q=60&c=sc&poi=face&w=2000&h=1000&url=https:%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F44%2F2021%2F09%2F13%2Fcreamy-wild-rice-and-mushroom-soup.jpg",
-   "page": "https://www.eatingwell.com/recipe/7917938/creamy-wild-rice-mushroom-soup/",
-   "q": "Sergio Checho Batista Argentina 1986",
+   "f": "d1.jpg",
+   "url": "https://www.sporting-heroes.net/content/thumbnails/00199/19785-zoom.jpg",
+   "page": "https://www.sporting-heroes.net/football/argentina/sergio-batista-10327/fifa-copa-del-mundo-1986_a19785/",
+   "q": "Sergio Checho Batista futbolista 1986",
+   "size": [
+    529,
+    720
+   ]
+  },
+  {
+   "f": "d2.jpg",
+   "url": "https://tn.com.ar/resizer/v2/sergio-checho-batista-fue-un-futbolista-con-un-muy-buen-manejo-de-la-pelota-foto-instagram-chechobatistaok-5JX3AAEDQFCVZH2YH3BK5W3UII.jpg?auth=e10ce542c68a71de14032d2741faa13be4cfd847f949e9108e3723e370d3aa5f&width=767",
+   "page": "https://tn.com.ar/deportes/futbol/2023/11/09/el-dia-que-el-checho-batista-asusto-a-todos-el-choque-con-pedro-monzon-que-casi-le-cuesta-la-vida/",
+   "q": "Sergio Checho Batista futbolista 1986",
+   "size": [
+    767,
+    511
+   ]
+  },
+  {
+   "f": "d3.jpg",
+   "url": "https://i.pinimg.com/originals/c7/a8/15/c7a81523cb2e2b123c3ce6c0a65d8a57.jpg",
+   "page": "https://www.pinterest.com/pin/sergio-daniel-checho-batista-argentina--290482244723786069/",
+   "q": "Sergio Checho Batista futbolista 1986",
+   "size": [
+    1035,
+    1100
+   ]
+  },
+  {
+   "f": "d4.jpg",
+   "url": "https://www.futebolportenho.com.br/wp-content/uploads/2017/11/Batista-01.jpg",
+   "page": "https://www.futebolportenho.com.br/sergio-batista/",
+   "q": "Sergio Checho Batista futbolista 1986",
+   "size": [
+    527,
+    363
+   ]
+  },
+  {
+   "f": "d5.jpg",
+   "url": "https://www.continental.com.ar/adjuntos/1200/continental/2026/01/batista1.jpg",
+   "page": "https://www.continental.com.ar/2026-01-21/checho-batista-y-el-mundial-86-diego-fue-un-lider-muy-positivo-nos-llevo-de-la-mano-a-ganar-el-titulo-148912/",
+   "q": "Sergio Checho Batista futbolista 1986",
    "size": [
     1100,
-    1100
+    617
+   ]
+  },
+  {
+   "f": "d6.jpg",
+   "url": "https://i.ytimg.com/vi/HsIpIgokmvo/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGCcgcigRMA8=&rs=AOn4CLAGKqFz0zTS0DJN7ksNKS11fYCM0g",
+   "page": "https://www.youtube.com/watch?v=HsIpIgokmvo",
+   "q": "Sergio Checho Batista futbolista 1986",
+   "size": [
+    1100,
+    619
    ]
   }
  ],
  "log": [
-  "bing Sergio Checho Batista Argentina 1986: 1 results"
+  "ddgs[duckduckgo] fail Sergio Checho Batista futbolista 1986: RequestError: RequestError('error sending request for url (https://duckduckgo.com/?q=Sergio+Checho+Batista+futbolista+1986) > user error: malformed headers')",
+  "ddgs[auto] Sergio Checho Batista futbolista 1986: 18 results; first=['Sergio Batista - FIFA Copa del Mundo 198', 'El día que el Checho Batista asustó a to', 'Sergio Daniel “Checho” Batista. Argentin']"
  ],
  "candidates": 0
 }
