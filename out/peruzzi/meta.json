@@ -2,19 +2,89 @@
  "id": "peruzzi",
  "items": [
   {
-   "f": "d1.jpg",
-   "url": "https://media.istockphoto.com/id/1277544849/photo/korean-traditional-food-various-shapes-of-half-moon-shaped-rice-cake.jpg?s=170667a&w=0&k=20&c=yOUAZDd-50n6EIxxHsSKtbdRK6Od3tO2zDKXa2OLxFQ=",
-   "page": "https://www.istockphoto.com/photo/korean-traditional-food-various-shapes-of-half-moon-shaped-rice-cake-gm1277544849-376721248",
-   "q": "Gino Peruzzi futbolista Boca Juniors",
+   "f": "d2.jpg",
+   "url": "https://media.gettyimages.com/id/1331121714/photo/gino-peruzzi-of-san-lorenzo-drives-the-ball-during-a-match-between-boca-juniors-and-san.jpg?s=612x612&w=gi&k=20&c=UjzBHi_ICqrYbnhm4mWwS-bdG23EuCqos1lMpQLoZNk=",
+   "page": "https://www.gettyimages.dk/photos/gino-peruzzi-argentina",
+   "q": "Gino Peruzzi",
    "size": [
-    509,
-    339
+    408,
+    612
+   ]
+  },
+  {
+   "f": "d3.jpg",
+   "url": "https://media.gettyimages.com/id/644998556/photo/argentina-football-league-first-division-axion-energy-2016-2017-nclub-atletico-boca-juniors.jpg?s=612x612&w=gi&k=20&c=FczxI7ih_VaKmGzxlv4TBpVjo4ieUK-qmgUF2oZ6yFg=",
+   "page": "https://www.gettyimages.ie/photos/gino-peruzzi-argentina",
+   "q": "Gino Peruzzi",
+   "size": [
+    469,
+    612
+   ]
+  },
+  {
+   "f": "d4.jpg",
+   "url": "https://media.gettyimages.com/id/680131596/photo/gino-peruzzi-of-boca-juniors-looks-on-during-a-match-between-estudiantes-and-boca-juniors-as.jpg?s=612x612&w=gi&k=20&c=zv0ex6bKmKWLLsEG9TsW-WZdfit6CEdnQC-pLszjOt0=",
+   "page": "https://www.gettyimages.dk/photos/gino-peruzzi-argentina",
+   "q": "Gino Peruzzi",
+   "size": [
+    408,
+    612
+   ]
+  },
+  {
+   "f": "d5.jpg",
+   "url": "https://storage.googleapis.com/repositorio-willax-prd/web-willax-assets/files/image/aKMu4jKGiSwykUJT1NclkimqF75saNbQ3i7qhnyM.jpg",
+   "page": "https://willax.pe/deportes/gino-peruzzi-es-jugador-libre-y-surgen-rumores-sobre-un-posible-regreso-a-alianza-lima",
+   "q": "Gino Peruzzi",
+   "size": [
+    600,
+    315
+   ]
+  },
+  {
+   "f": "d6.jpg",
+   "url": "https://media.gettyimages.com/id/880432178/photo/rosario-argentina-gino-peruzzi-of-boca-juniors-drives-the-ball-during-a-match-between-rosario.jpg?s=612x612&w=gi&k=20&c=FPcMnDRzxQkYS-scTm6V5_2b3oaQNk43bDd1YkyzGag=",
+   "page": "https://www.gettyimages.dk/photos/gino-peruzzi-argentina",
+   "q": "Gino Peruzzi",
+   "size": [
+    485,
+    612
+   ]
+  },
+  {
+   "f": "d7.jpg",
+   "url": "https://media.gettyimages.com/id/679281478/photo/gino-peruzzi-argentina.jpg?s=612x612&w=gi&k=20&c=fxKW1FiVWfd4-tJkg9U-mmOSTRdjWpT9W1wfRZgObP4=",
+   "page": "https://www.gettyimages.com/photos/gino-peruzzi-argentina",
+   "q": "Gino Peruzzi",
+   "size": [
+    407,
+    612
+   ]
+  },
+  {
+   "f": "d8.jpg",
+   "url": "https://cdn.futbolperuano.com/sdi/2023/06/04/gino-peruzzi-viajara-para-ser-evaluado-en-argentina-1153664.jpg",
+   "page": "https://www.futbolperuano.com/liga-1/noticias/gino-peruzzi-viajara-para-ser-evaluado-en-argentina-405409",
+   "q": "Gino Peruzzi",
+   "size": [
+    1100,
+    596
+   ]
+  },
+  {
+   "f": "d9.jpg",
+   "url": "https://agdeportes.com/wp-content/uploads/2023/04/¿Por-que-Alianza-Lima-no-convoca-a-Gino-Peruzzi-en-los-partidos-de-la-liga-1_.jpg",
+   "page": "https://agdeportes.com/por-que-alianza-lima-no-convoca-a-gino-peruzzi-en-los-partidos-de-la-liga-1/",
+   "q": "Gino Peruzzi",
+   "size": [
+    474,
+    266
    ]
   }
  ],
  "log": [
-  "ddgs[duckduckgo] fail Gino Peruzzi futbolista Boca Juniors: RequestError: RequestError('error sending request for url (https://duckduckgo.com/?q=Gino+Peruzzi+futbolista+Boca+Juniors) > user error: malformed headers')",
-  "ddgs[auto] Gino Peruzzi futbolista Boca Juniors: 1 results; first=['Korean Traditional Food Various Shapes O']"
+  "ddgs[auto] Gino Peruzzi: 12 results; first=['Gino Peruzzi Argentina Photos and Premiu', 'Gino Peruzzi Argentina Photos and Premiu', 'Gino Peruzzi Argentina Photos and Premiu']",
+  "ddgs[auto] Peruzzi Boca lateral: 12 results; first=['Peruzzi vuelve a la titularidad en Boca ', 'Gino Peruzzi Argentina Photos and Premiu', 'Boca Juniors Gino Peruzzi Photos and Pre']"
  ],
  "candidates": 0
 }
