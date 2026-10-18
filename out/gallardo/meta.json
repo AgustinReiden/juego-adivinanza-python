@@ -1,0 +1,115 @@
+{
+ "id": "gallardo",
+ "items": [
+  {
+   "f": "w1.jpg",
+   "file": "File:Palestino_-_River_Plate_20190424_32.jpg",
+   "kind": "lead",
+   "orig": [
+    2212,
+    2633
+   ],
+   "size": [
+    924,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Palestino_-_River_Plate_20190424_32.jpg",
+   "artist": "Carlos Figueroa Rojas",
+   "license": "CC BY-SA 4.0",
+   "date": "2019-04-24 20:06:19",
+   "desc": "Palestino v River Plate, Estadio Monumental, Macul, Santiago, Región Metropolitana, Chile."
+  },
+  {
+   "f": "w2.jpg",
+   "file": "Archivo:Estatua de Marcelo Gallardo.jpg",
+   "kind": "page",
+   "orig": [
+    3235,
+    4709
+   ],
+   "size": [
+    756,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Estatua_de_Marcelo_Gallardo.jpg",
+   "artist": "LCont5",
+   "license": "CC0",
+   "date": "2025-11-14 17:42:00",
+   "desc": "Estatua de Marcelo Gallardo en las inmediaciones del Estadio Monumental"
+  },
+  {
+   "f": "w3.jpg",
+   "file": "Archivo:Marcelo Gallardo Ecuador 2016.jpg",
+   "kind": "page",
+   "orig": [
+    1088,
+    1400
+   ],
+   "size": [
+    855,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Marcelo_Gallardo_Ecuador_2016.jpg",
+   "artist": "Agencia de Noticias Andes",
+   "license": "CC BY-SA 2.0",
+   "date": "2016-04-28 21:28:38",
+   "desc": "Marcelo Gallardo."
+  },
+  {
+   "f": "w4.jpg",
+   "file": "Archivo:Marcelo Gallardo Nacional.jpg",
+   "kind": "page",
+   "orig": [
+    1365,
+    2048
+   ],
+   "size": [
+    733,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Marcelo_Gallardo_Nacional.jpg",
+   "artist": "jikatu",
+   "license": "CC BY-SA 2.0",
+   "date": "2012-05-20",
+   "desc": "El Muñeco Gallardo, dirigiendo en Nacional"
+  },
+  {
+   "f": "w5.jpg",
+   "file": "File:Marcelo Gallardo in 2014.png",
+   "kind": "page",
+   "orig": [
+    660,
+    697
+   ],
+   "size": [
+    660,
+    697
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Marcelo_Gallardo_in_2014.png",
+   "artist": "Télam",
+   "license": "CC BY 3.0",
+   "date": "2014-10-19",
+   "desc": "Marcelo Gallardo in 2014"
+  },
+  {
+   "f": "w6.jpg",
+   "file": "File:Marcelo Gallardo in 2025.jpg",
+   "kind": "page",
+   "orig": [
+    791,
+    1600
+   ],
+   "size": [
+    544,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Marcelo_Gallardo_in_2025.jpg",
+   "artist": "Crispybeatle",
+   "license": "Public domain",
+   "date": "2025-07-26",
+   "desc": "Marcelo Gallardo in 2025"
+  }
+ ],
+ "log": [],
+ "candidates": 10
+}

@@ -1,0 +1,31 @@
+{
+ "id": "sarmiento",
+ "items": [
+  {
+   "f": "u1.jpg",
+   "url": "https://img.lagaceta.com.ar/fotos/notas/2026/06/29/1200x800_aventura-branelik-danelik-brian-sarmiento-dan-paso-relacion-se-mudan-juntos-1143257-101405.webp",
+   "size": [
+    1100,
+    733
+   ]
+  },
+  {
+   "f": "u2.jpg",
+   "url": "https://img.lagaceta.com.ar/fotos/notas/2026/06/29/aventura-branelik-danelik-brian-sarmiento-dan-paso-relacion-se-mudan-juntos-1143257-101405.png",
+   "size": [
+    1100,
+    786
+   ]
+  },
+  {
+   "f": "u3.jpg",
+   "url": "https://www.cronica.com.ar/files/image/1677/1677627/6a41847baeab6_600_315!.jpg?s=f2acb87036f685bc1690c0e66df5e645&d=1782615600",
+   "size": [
+    600,
+    315
+   ]
+  }
+ ],
+ "log": [],
+ "candidates": 0
+}

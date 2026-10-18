@@ -1,0 +1,115 @@
+{
+ "id": "houseman",
+ "items": [
+  {
+   "f": "w1.jpg",
+   "file": "File:Houseman_argentina.jpg",
+   "kind": "lead",
+   "orig": [
+    350,
+    374
+   ],
+   "size": [
+    350,
+    374
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Houseman_argentina.jpg",
+   "artist": "DesconocidoUnknown author",
+   "license": "Public domain",
+   "date": "1978-06",
+   "desc": "René Houseman during a match of the 1978 FIFA World Cup held in Argentina."
+  },
+  {
+   "f": "w2.jpg",
+   "file": "Archivo:Brindisi y Houseman (Huracán) - El Gráfico 2796.jpg",
+   "kind": "page",
+   "orig": [
+    1482,
+    1975
+   ],
+   "size": [
+    826,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Brindisi_y_Houseman_(Hurac%C3%A1n)_-_El_Gr%C3%A1fico_2796.jpg",
+   "artist": "El Gráfico",
+   "license": "Public domain",
+   "date": "",
+   "desc": "El Grafico del 08 de Mayo de 1973. Edicion 2796"
+  },
+  {
+   "f": "w3.jpg",
+   "file": "File:Houseman_argentina_photo.jpg",
+   "kind": "lead",
+   "orig": [
+    517,
+    799
+   ],
+   "size": [
+    517,
+    799
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Houseman_argentina_photo.jpg",
+   "artist": "Unknown authorUnknown author",
+   "license": "Public domain",
+   "date": "1978",
+   "desc": "Rene Houseman during a photo session of the Argentina national team"
+  },
+  {
+   "f": "w4.jpg",
+   "file": "File:Houseman gambeta.jpg",
+   "kind": "page",
+   "orig": [
+    800,
+    614
+   ],
+   "size": [
+    800,
+    614
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Houseman_gambeta.jpg",
+   "artist": "Unknown authorUnknown author",
+   "license": "Public domain",
+   "date": "1973",
+   "desc": "René Houseman dribbing while playing for Huracán."
+  },
+  {
+   "f": "w5.jpg",
+   "file": "File:Argentina v peru houseman gol.jpg",
+   "kind": "search",
+   "orig": [
+    1140,
+    763
+   ],
+   "size": [
+    960,
+    643
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Argentina_v_peru_houseman_gol.jpg",
+   "artist": "Unknown authorUnknown author",
+   "license": "Public domain",
+   "date": "1978-06-21",
+   "desc": "Goal by Houseman"
+  },
+  {
+   "f": "w6.jpg",
+   "file": "File:Houseman figurita 1980.jpg",
+   "kind": "search",
+   "orig": [
+    262,
+    471
+   ],
+   "size": [
+    262,
+    471
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Houseman_figurita_1980.jpg",
+   "artist": "Unknown authorUnknown author",
+   "license": "Public domain",
+   "date": "1980",
+   "desc": "Deportistas Argentinos y del Mundo football cards (1980)"
+  }
+ ],
+ "log": [],
+ "candidates": 10
+}

@@ -1,0 +1,115 @@
+{
+ "id": "maradona",
+ "items": [
+  {
+   "f": "w1.jpg",
+   "file": "File:Maradona-Mundial_86_con_la_copa.JPG",
+   "kind": "lead",
+   "orig": [
+    1361,
+    1995
+   ],
+   "size": [
+    751,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Maradona-Mundial_86_con_la_copa.JPG",
+   "artist": "DesconocidoUnknown author",
+   "license": "Public domain",
+   "date": "1986-06-29",
+   "desc": "Maradona sostiene la Copa del Mundo de México 1986."
+  },
+  {
+   "f": "w2.jpg",
+   "file": "Archivo:Diego Maradona.jpg",
+   "kind": "page",
+   "orig": [
+    800,
+    533
+   ],
+   "size": [
+    800,
+    533
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Diego_Maradona.jpg",
+   "artist": "Armando Tovar from Mexico City, MX",
+   "license": "CC BY 2.0",
+   "date": "2006-06-24 18:19",
+   "desc": "Diego Maradona viendo por televisón el partido entre Alemania y Suecia por los octavos de final de la Copa Mundial de fútbol 2006. Leipzig, Alemania, junio 2006."
+  },
+  {
+   "f": "w3.jpg",
+   "file": "Archivo:Diego Maradona celebrando la obtención del Torneo Metropolitano de 1981.jpg",
+   "kind": "page",
+   "orig": [
+    1000,
+    760
+   ],
+   "size": [
+    960,
+    730
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Diego_Maradona_celebrando_la_obtenci%C3%B3n_del_Torneo_Metropolitano_de_1981.jpg",
+   "artist": "El Grafico",
+   "license": "Public domain",
+   "date": "1981",
+   "desc": "Diego Maradona celebrando la obtención del Torneo Metropolitano de 1981 en La Bombonera"
+  },
+  {
+   "f": "w4.jpg",
+   "file": "Archivo:Gatti maradona 1980.jpg",
+   "kind": "page",
+   "orig": [
+    236,
+    436
+   ],
+   "size": [
+    236,
+    436
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Gatti_maradona_1980.jpg",
+   "artist": "DesconocidoUnknown author",
+   "license": "Public domain",
+   "date": "1980-11-09",
+   "desc": "Hugo Gatti and Diego Maradona, when Argentinos Jrs. beat Boca Jrs 5-3 at Vélez stadium."
+  },
+  {
+   "f": "w5.jpg",
+   "file": "Archivo:Heber Mastrangelo-Diego Maradona-Fabian Bazan.jpg",
+   "kind": "page",
+   "orig": [
+    768,
+    1024
+   ],
+   "size": [
+    768,
+    1024
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Heber_Mastrangelo-Diego_Maradona-Fabian_Bazan.jpg",
+   "artist": "Profebazan",
+   "license": "CC BY-SA 4.0",
+   "date": "1997-02-12",
+   "desc": "Entrenamiento de Boca Jrs. en Casa Amarilla."
+  },
+  {
+   "f": "w6.jpg",
+   "file": "Archivo:Maradona 2010-1.jpg",
+   "kind": "page",
+   "orig": [
+    532,
+    726
+   ],
+   "size": [
+    532,
+    726
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Maradona_2010-1.jpg",
+   "artist": "Alexandr Mysyakin",
+   "license": "CC BY-SA 3.0",
+   "date": "12.8.2009",
+   "desc": "Diego Maradona"
+  }
+ ],
+ "log": [],
+ "candidates": 10
+}
