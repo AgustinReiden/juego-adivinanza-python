@@ -1,0 +1,1482 @@
+{
+ "out": "out",
+ "jobs": [
+  {
+   "id": "carrizo",
+   "titles": [
+    "es:Amadeo Carrizo",
+    "en:Amadeo Carrizo"
+   ],
+   "search": [
+    "\"Amadeo Carrizo\""
+   ],
+   "must": [
+    [
+     "carrizo"
+    ]
+   ],
+   "max": 8
+  },
+  {
+   "id": "gatti",
+   "titles": [
+    "es:Hugo Gatti",
+    "en:Hugo Gatti"
+   ],
+   "search": [
+    "\"Hugo Gatti\""
+   ],
+   "must": [
+    [
+     "gatti"
+    ]
+   ],
+   "max": 8
+  },
+  {
+   "id": "fillol",
+   "titles": [
+    "es:Ubaldo Fillol",
+    "en:Ubaldo Fillol"
+   ],
+   "search": [
+    "\"Ubaldo Fillol\""
+   ],
+   "must": [
+    [
+     "fillol"
+    ]
+   ],
+   "max": 8
+  },
+  {
+   "id": "goycochea",
+   "titles": [
+    "es:Sergio Goycochea",
+    "en:Sergio Goycochea"
+   ],
+   "search": [
+    "\"Sergio Goycochea\""
+   ],
+   "must": [
+    [
+     "goycochea"
+    ]
+   ],
+   "max": 8
+  },
+  {
+   "id": "burgos",
+   "titles": [
+    "es:Germán Burgos",
+    "en:Germán Burgos"
+   ],
+   "search": [
+    "\"Germán Burgos\""
+   ],
+   "must": [
+    [
+     "burgos"
+    ]
+   ],
+   "max": 8
+  },
+  {
+   "id": "chilavert",
+   "titles": [
+    "es:José Luis Chilavert",
+    "en:José Luis Chilavert"
+   ],
+   "search": [
+    "\"José Luis Chilavert\""
+   ],
+   "must": [
+    [
+     "chilavert"
+    ]
+   ],
+   "max": 8
+  },
+  {
+   "id": "dibu",
+   "titles": [
+    "es:Emiliano Martínez",
+    "en:Emiliano Martínez"
+   ],
+   "search": [
+    "\"Emiliano Martínez\""
+   ],
+   "must": [
+    [
+     "emiliano",
+     "martinez"
+    ],
+    [
+     "dibu"
+    ]
+   ],
+   "max": 8
+  },
+  {
+   "id": "caballero",
+   "titles": [
+    "es:Wilfredo Caballero",
+    "en:Wilfredo Caballero"
+   ],
+   "search": [
+    "\"Wilfredo Caballero\""
+   ],
+   "must": [
+    [
+     "caballero"
+    ]
+   ],
+   "max": 8
+  },
+  {
+   "id": "zanetti",
+   "titles": [
+    "es:Javier Zanetti",
+    "en:Javier Zanetti"
+   ],
+   "search": [
+    "\"Javier Zanetti\""
+   ],
+   "must": [
+    [
+     "zanetti"
+    ]
+   ],
+   "max": 8
+  },
+  {
+   "id": "olguin",
+   "titles": [
+    "es:Jorge Olguín",
+    "en:Jorge Olguín"
+   ],
+   "search": [
+    "\"Jorge Olguín\""
+   ],
+   "must": [
+    [
+     "olguin"
+    ]
+   ],
+   "max": 8
+  },
+  {
+   "id": "sensini",
+   "titles": [
+    "es:Néstor Sensini",
+    "en:Néstor Sensini"
+   ],
+   "search": [
+    "\"Néstor Sensini\""
+   ],
+   "must": [
+    [
+     "sensini"
+    ]
+   ],
+   "max": 8
+  },
+  {
+   "id": "ibarra",
+   "titles": [
+    "es:Hugo Ibarra",
+    "en:Hugo Ibarra"
+   ],
+   "search": [
+    "\"Hugo Ibarra\""
+   ],
+   "must": [
+    [
+     "ibarra"
+    ]
+   ],
+   "max": 8
+  },
+  {
+   "id": "zabaleta",
+   "titles": [
+    "es:Pablo Zabaleta",
+    "en:Pablo Zabaleta"
+   ],
+   "search": [
+    "\"Pablo Zabaleta\""
+   ],
+   "must": [
+    [
+     "zabaleta"
+    ]
+   ],
+   "max": 8
+  },
+  {
+   "id": "montiel",
+   "titles": [
+    "es:Gonzalo Montiel",
+    "en:Gonzalo Montiel"
+   ],
+   "search": [
+    "\"Gonzalo Montiel\""
+   ],
+   "must": [
+    [
+     "montiel"
+    ]
+   ],
+   "max": 8
+  },
+  {
+   "id": "molina",
+   "titles": [
+    "es:Nahuel Molina",
+    "en:Nahuel Molina"
+   ],
+   "search": [
+    "\"Nahuel Molina\""
+   ],
+   "must": [
+    [
+     "molina"
+    ]
+   ],
+   "max": 8
+  },
+  {
+   "id": "peruzzi",
+   "titles": [
+    "es:Gino Peruzzi",
+    "en:Gino Peruzzi"
+   ],
+   "search": [
+    "\"Gino Peruzzi\""
+   ],
+   "must": [
+    [
+     "peruzzi"
+    ]
+   ],
+   "max": 8
+  },
+  {
+   "id": "perfumo",
+   "titles": [
+    "es:Roberto Perfumo",
+    "en:Roberto Perfumo"
+   ],
+   "search": [
+    "\"Roberto Perfumo\""
+   ],
+   "must": [
+    [
+     "perfumo"
+    ]
+   ],
+   "max": 8
+  },
+  {
+   "id": "passarella",
+   "titles": [
+    "es:Daniel Passarella",
+    "en:Daniel Passarella"
+   ],
+   "search": [
+    "\"Daniel Passarella\""
+   ],
+   "must": [
+    [
+     "passarella"
+    ]
+   ],
+   "max": 8
+  },
+  {
+   "id": "brown",
+   "titles": [
+    "es:José Luis Brown",
+    "en:José Luis Brown"
+   ],
+   "search": [
+    "\"José Luis Brown\""
+   ],
+   "must": [
+    [
+     "brown"
+    ]
+   ],
+   "max": 8
+  },
+  {
+   "id": "ruggeri",
+   "titles": [
+    "es:Oscar Ruggeri",
+    "en:Oscar Ruggeri"
+   ],
+   "search": [
+    "\"Oscar Ruggeri\""
+   ],
+   "must": [
+    [
+     "ruggeri"
+    ]
+   ],
+   "max": 8
+  },
+  {
+   "id": "ayala",
+   "titles": [
+    "es:Roberto Ayala",
+    "en:Roberto Ayala"
+   ],
+   "search": [
+    "\"Roberto Ayala\""
+   ],
+   "must": [
+    [
+     "ayala"
+    ]
+   ],
+   "max": 8
+  },
+  {
+   "id": "samuel",
+   "titles": [
+    "es:Walter Samuel",
+    "en:Walter Samuel"
+   ],
+   "search": [
+    "\"Walter Samuel\""
+   ],
+   "must": [
+    [
+     "walter",
+     "samuel"
+    ],
+    [
+     "samuel"
+    ]
+   ],
+   "max": 8
+  },
+  {
+   "id": "pochettino",
+   "titles": [
+    "es:Mauricio Pochettino",
+    "en:Mauricio Pochettino"
+   ],
+   "search": [
+    "\"Mauricio Pochettino\""
+   ],
+   "must": [
+    [
+     "pochettino"
+    ]
+   ],
+   "max": 8
+  },
+  {
+   "id": "heinze",
+   "titles": [
+    "es:Gabriel Heinze",
+    "en:Gabriel Heinze"
+   ],
+   "search": [
+    "\"Gabriel Heinze\""
+   ],
+   "must": [
+    [
+     "heinze"
+    ]
+   ],
+   "max": 8
+  },
+  {
+   "id": "schiavi",
+   "titles": [
+    "es:Rolando Schiavi",
+    "en:Rolando Schiavi"
+   ],
+   "search": [
+    "\"Rolando Schiavi\""
+   ],
+   "must": [
+    [
+     "schiavi"
+    ]
+   ],
+   "max": 8
+  },
+  {
+   "id": "demichelis",
+   "titles": [
+    "es:Martín Demichelis",
+    "en:Martín Demichelis"
+   ],
+   "search": [
+    "\"Martín Demichelis\""
+   ],
+   "must": [
+    [
+     "demichelis"
+    ]
+   ],
+   "max": 8
+  },
+  {
+   "id": "garay",
+   "titles": [
+    "es:Ezequiel Garay",
+    "en:Ezequiel Garay"
+   ],
+   "search": [
+    "\"Ezequiel Garay\""
+   ],
+   "must": [
+    [
+     "garay"
+    ]
+   ],
+   "max": 8
+  },
+  {
+   "id": "otamendi",
+   "titles": [
+    "es:Nicolás Otamendi",
+    "en:Nicolás Otamendi"
+   ],
+   "search": [
+    "\"Nicolás Otamendi\""
+   ],
+   "must": [
+    [
+     "otamendi"
+    ]
+   ],
+   "max": 8
+  },
+  {
+   "id": "romero",
+   "titles": [
+    "es:Cristian Romero",
+    "en:Cristian Romero"
+   ],
+   "search": [
+    "\"Cristian Romero\""
+   ],
+   "must": [
+    [
+     "cristian",
+     "romero"
+    ],
+    [
+     "cuti"
+    ]
+   ],
+   "max": 8
+  },
+  {
+   "id": "lisandro",
+   "titles": [
+    "es:Lisandro Martínez",
+    "en:Lisandro Martínez"
+   ],
+   "search": [
+    "\"Lisandro Martínez\""
+   ],
+   "must": [
+    [
+     "lisandro"
+    ]
+   ],
+   "max": 8
+  },
+  {
+   "id": "garce",
+   "titles": [
+    "es:Ariel Garcé",
+    "en:Ariel Garcé"
+   ],
+   "search": [
+    "\"Ariel Garcé\""
+   ],
+   "must": [
+    [
+     "garce"
+    ]
+   ],
+   "max": 8
+  },
+  {
+   "id": "fazio",
+   "titles": [
+    "es:Federico Fazio",
+    "en:Federico Fazio"
+   ],
+   "search": [
+    "\"Federico Fazio\""
+   ],
+   "must": [
+    [
+     "fazio"
+    ]
+   ],
+   "max": 8
+  },
+  {
+   "id": "marzolini",
+   "titles": [
+    "es:Silvio Marzolini",
+    "en:Silvio Marzolini"
+   ],
+   "search": [
+    "\"Silvio Marzolini\""
+   ],
+   "must": [
+    [
+     "marzolini"
+    ]
+   ],
+   "max": 8
+  },
+  {
+   "id": "tarantini",
+   "titles": [
+    "es:Alberto Tarantini",
+    "en:Alberto Tarantini"
+   ],
+   "search": [
+    "\"Alberto Tarantini\""
+   ],
+   "must": [
+    [
+     "tarantini"
+    ]
+   ],
+   "max": 8
+  },
+  {
+   "id": "olarticoechea",
+   "titles": [
+    "es:Julio Olarticoechea",
+    "en:Julio Olarticoechea"
+   ],
+   "search": [
+    "\"Julio Olarticoechea\""
+   ],
+   "must": [
+    [
+     "olarticoechea"
+    ]
+   ],
+   "max": 8
+  },
+  {
+   "id": "sorin",
+   "titles": [
+    "es:Juan Pablo Sorín",
+    "en:Juan Pablo Sorín"
+   ],
+   "search": [
+    "\"Juan Pablo Sorín\""
+   ],
+   "must": [
+    [
+     "sorin"
+    ]
+   ],
+   "max": 8
+  },
+  {
+   "id": "rojo",
+   "titles": [
+    "es:Marcos Rojo",
+    "en:Marcos Rojo"
+   ],
+   "search": [
+    "\"Marcos Rojo\""
+   ],
+   "must": [
+    [
+     "rojo"
+    ]
+   ],
+   "max": 8
+  },
+  {
+   "id": "tagliafico",
+   "titles": [
+    "es:Nicolás Tagliafico",
+    "en:Nicolás Tagliafico"
+   ],
+   "search": [
+    "\"Nicolás Tagliafico\""
+   ],
+   "must": [
+    [
+     "tagliafico"
+    ]
+   ],
+   "max": 8
+  },
+  {
+   "id": "acuna",
+   "titles": [
+    "es:Marcos Acuña",
+    "en:Marcos Acuña"
+   ],
+   "search": [
+    "\"Marcos Acuña\""
+   ],
+   "must": [
+    [
+     "acuna"
+    ]
+   ],
+   "max": 8
+  },
+  {
+   "id": "mas",
+   "titles": [
+    "es:Emmanuel Mas",
+    "en:Emmanuel Mas"
+   ],
+   "search": [
+    "\"Emmanuel Mas\""
+   ],
+   "must": [
+    [
+     "emmanuel",
+     "mas"
+    ],
+    [
+     "emanuel",
+     "mas"
+    ]
+   ],
+   "max": 8
+  },
+  {
+   "id": "rattin",
+   "titles": [
+    "es:Antonio Rattín",
+    "en:Antonio Rattín"
+   ],
+   "search": [
+    "\"Antonio Rattín\""
+   ],
+   "must": [
+    [
+     "rattin"
+    ]
+   ],
+   "max": 8
+  },
+  {
+   "id": "gallego",
+   "titles": [
+    "es:Américo Gallego",
+    "en:Américo Gallego"
+   ],
+   "search": [
+    "\"Américo Gallego\""
+   ],
+   "must": [
+    [
+     "gallego"
+    ]
+   ],
+   "max": 8
+  },
+  {
+   "id": "batista",
+   "titles": [
+    "es:Sergio Batista",
+    "en:Sergio Batista"
+   ],
+   "search": [
+    "\"Sergio Batista\""
+   ],
+   "must": [
+    [
+     "batista"
+    ]
+   ],
+   "max": 8
+  },
+  {
+   "id": "redondo",
+   "titles": [
+    "es:Fernando Redondo",
+    "en:Fernando Redondo"
+   ],
+   "search": [
+    "\"Fernando Redondo\""
+   ],
+   "must": [
+    [
+     "redondo"
+    ]
+   ],
+   "max": 8
+  },
+  {
+   "id": "simeone",
+   "titles": [
+    "es:Diego Simeone",
+    "en:Diego Simeone"
+   ],
+   "search": [
+    "\"Diego Simeone\""
+   ],
+   "must": [
+    [
+     "simeone"
+    ]
+   ],
+   "max": 8
+  },
+  {
+   "id": "mascherano",
+   "titles": [
+    "es:Javier Mascherano",
+    "en:Javier Mascherano"
+   ],
+   "search": [
+    "\"Javier Mascherano\""
+   ],
+   "must": [
+    [
+     "mascherano"
+    ]
+   ],
+   "max": 8
+  },
+  {
+   "id": "paredes",
+   "titles": [
+    "es:Leandro Paredes",
+    "en:Leandro Paredes"
+   ],
+   "search": [
+    "\"Leandro Paredes\""
+   ],
+   "must": [
+    [
+     "paredes"
+    ]
+   ],
+   "max": 8
+  },
+  {
+   "id": "bebeacosta",
+   "titles": [
+    "es:Guillermo Acosta (futbolista)",
+    "en:Guillermo Acosta (futbolista)",
+    "es:Guillermo Acosta"
+   ],
+   "search": [
+    "\"Guillermo Acosta\""
+   ],
+   "must": [
+    [
+     "guillermo",
+     "acosta"
+    ],
+    [
+     "bebe",
+     "acosta"
+    ]
+   ],
+   "max": 8,
+   "urls": [
+    "https://img.lagaceta.com.ar/fotos/notas/2018/12/26/793785_201812252105590000003.jpg",
+    "https://img.lagaceta.com.ar/fotos/notas/2018/12/26/793785_201812252105590000001.jpg",
+    "https://img.lagaceta.com.ar/fotos/notas/2018/12/26/793785_201812252105590000002.jpg",
+    "https://img.lagaceta.com.ar/fotos/notas/2018/12/26/970x646_793785_201812252105590000003.webp"
+   ]
+  },
+  {
+   "id": "ardiles",
+   "titles": [
+    "es:Osvaldo Ardiles",
+    "en:Osvaldo Ardiles"
+   ],
+   "search": [
+    "\"Osvaldo Ardiles\""
+   ],
+   "must": [
+    [
+     "ardiles"
+    ]
+   ],
+   "max": 8
+  },
+  {
+   "id": "burruchaga",
+   "titles": [
+    "es:Jorge Burruchaga",
+    "en:Jorge Burruchaga"
+   ],
+   "search": [
+    "\"Jorge Burruchaga\""
+   ],
+   "must": [
+    [
+     "burruchaga"
+    ]
+   ],
+   "max": 8
+  },
+  {
+   "id": "veron",
+   "titles": [
+    "es:Juan Sebastián Verón",
+    "en:Juan Sebastián Verón"
+   ],
+   "search": [
+    "\"Juan Sebastián Verón\""
+   ],
+   "must": [
+    [
+     "veron"
+    ]
+   ],
+   "max": 8
+  },
+  {
+   "id": "cambiasso",
+   "titles": [
+    "es:Esteban Cambiasso",
+    "en:Esteban Cambiasso"
+   ],
+   "search": [
+    "\"Esteban Cambiasso\""
+   ],
+   "must": [
+    [
+     "cambiasso"
+    ]
+   ],
+   "max": 8
+  },
+  {
+   "id": "depaul",
+   "titles": [
+    "es:Rodrigo De Paul",
+    "en:Rodrigo De Paul"
+   ],
+   "search": [
+    "\"Rodrigo De Paul\""
+   ],
+   "must": [
+    [
+     "de",
+     "paul"
+    ],
+    [
+     "depaul"
+    ]
+   ],
+   "max": 8
+  },
+  {
+   "id": "enzo",
+   "titles": [
+    "es:Enzo Fernández",
+    "en:Enzo Fernández"
+   ],
+   "search": [
+    "\"Enzo Fernández\""
+   ],
+   "must": [
+    [
+     "enzo",
+     "fernandez"
+    ]
+   ],
+   "max": 8
+  },
+  {
+   "id": "macallister",
+   "titles": [
+    "es:Alexis Mac Allister",
+    "en:Alexis Mac Allister"
+   ],
+   "search": [
+    "\"Alexis Mac Allister\""
+   ],
+   "must": [
+    [
+     "allister"
+    ]
+   ],
+   "max": 8
+  },
+  {
+   "id": "sarmiento",
+   "titles": [
+    "es:Brian Sarmiento",
+    "en:Brian Sarmiento"
+   ],
+   "search": [
+    "\"Brian Sarmiento\""
+   ],
+   "must": [
+    [
+     "brian",
+     "sarmiento"
+    ]
+   ],
+   "max": 8,
+   "urls": [
+    "https://img.lagaceta.com.ar/fotos/notas/2026/06/29/1200x800_aventura-branelik-danelik-brian-sarmiento-dan-paso-relacion-se-mudan-juntos-1143257-101405.webp",
+    "https://img.lagaceta.com.ar/fotos/notas/2026/06/29/aventura-branelik-danelik-brian-sarmiento-dan-paso-relacion-se-mudan-juntos-1143257-101405.png",
+    "https://www.cronica.com.ar/files/image/1677/1677627/6a41847baeab6_600_315!.jpg?s=f2acb87036f685bc1690c0e66df5e645&d=1782615600"
+   ]
+  },
+  {
+   "id": "pedernera",
+   "titles": [
+    "es:Adolfo Pedernera",
+    "en:Adolfo Pedernera"
+   ],
+   "search": [
+    "\"Adolfo Pedernera\""
+   ],
+   "must": [
+    [
+     "pedernera"
+    ]
+   ],
+   "max": 8
+  },
+  {
+   "id": "bochini",
+   "titles": [
+    "es:Ricardo Bochini",
+    "en:Ricardo Bochini"
+   ],
+   "search": [
+    "\"Ricardo Bochini\""
+   ],
+   "must": [
+    [
+     "bochini"
+    ]
+   ],
+   "max": 8
+  },
+  {
+   "id": "maradona",
+   "titles": [
+    "es:Diego Maradona",
+    "en:Diego Maradona"
+   ],
+   "search": [
+    "\"Diego Maradona\""
+   ],
+   "must": [
+    [
+     "maradona"
+    ]
+   ],
+   "max": 8
+  },
+  {
+   "id": "francescoli",
+   "titles": [
+    "es:Enzo Francescoli",
+    "en:Enzo Francescoli"
+   ],
+   "search": [
+    "\"Enzo Francescoli\""
+   ],
+   "must": [
+    [
+     "francescoli"
+    ]
+   ],
+   "max": 8
+  },
+  {
+   "id": "riquelme",
+   "titles": [
+    "es:Juan Román Riquelme",
+    "en:Juan Román Riquelme"
+   ],
+   "search": [
+    "\"Juan Román Riquelme\""
+   ],
+   "must": [
+    [
+     "riquelme"
+    ]
+   ],
+   "max": 8
+  },
+  {
+   "id": "gallardo",
+   "titles": [
+    "es:Marcelo Gallardo",
+    "en:Marcelo Gallardo"
+   ],
+   "search": [
+    "\"Marcelo Gallardo\""
+   ],
+   "must": [
+    [
+     "gallardo"
+    ]
+   ],
+   "max": 8
+  },
+  {
+   "id": "aimar",
+   "titles": [
+    "es:Pablo Aimar",
+    "en:Pablo Aimar"
+   ],
+   "search": [
+    "\"Pablo Aimar\""
+   ],
+   "must": [
+    [
+     "aimar"
+    ]
+   ],
+   "max": 8
+  },
+  {
+   "id": "centurion",
+   "titles": [
+    "es:Ricardo Centurión",
+    "en:Ricardo Centurión"
+   ],
+   "search": [
+    "\"Ricardo Centurión\""
+   ],
+   "must": [
+    [
+     "centurion"
+    ]
+   ],
+   "max": 8,
+   "urls": [
+    "https://cdn.diariojornada.com.ar/imagenes/2017/2/15/79482F636656684378335141687771623662566951673D3D.jpg",
+    "https://www.ellitoral.com/images/2022/05/05/JyW8Y1kiR_1300x655__1.jpg"
+   ]
+  },
+  {
+   "id": "houseman",
+   "titles": [
+    "es:René Houseman",
+    "en:René Houseman"
+   ],
+   "search": [
+    "\"René Houseman\""
+   ],
+   "must": [
+    [
+     "houseman"
+    ]
+   ],
+   "max": 8
+  },
+  {
+   "id": "bertoni",
+   "titles": [
+    "es:Daniel Bertoni",
+    "en:Daniel Bertoni"
+   ],
+   "search": [
+    "\"Daniel Bertoni\""
+   ],
+   "must": [
+    [
+     "bertoni"
+    ]
+   ],
+   "max": 8
+  },
+  {
+   "id": "caniggia",
+   "titles": [
+    "es:Claudio Caniggia",
+    "en:Claudio Caniggia"
+   ],
+   "search": [
+    "\"Claudio Caniggia\""
+   ],
+   "must": [
+    [
+     "caniggia"
+    ]
+   ],
+   "max": 8
+  },
+  {
+   "id": "ortega",
+   "titles": [
+    "es:Ariel Ortega",
+    "en:Ariel Ortega"
+   ],
+   "search": [
+    "\"Ariel Ortega\""
+   ],
+   "must": [
+    [
+     "ortega"
+    ]
+   ],
+   "max": 8
+  },
+  {
+   "id": "guillermo",
+   "titles": [
+    "es:Guillermo Barros Schelotto",
+    "en:Guillermo Barros Schelotto"
+   ],
+   "search": [
+    "\"Guillermo Barros Schelotto\""
+   ],
+   "must": [
+    [
+     "barros",
+     "schelotto"
+    ],
+    [
+     "guillermo"
+    ]
+   ],
+   "max": 8
+  },
+  {
+   "id": "messi",
+   "titles": [
+    "es:Lionel Messi",
+    "en:Lionel Messi"
+   ],
+   "search": [
+    "\"Lionel Messi\""
+   ],
+   "must": [
+    [
+     "messi"
+    ]
+   ],
+   "max": 8
+  },
+  {
+   "id": "dybala",
+   "titles": [
+    "es:Paulo Dybala",
+    "en:Paulo Dybala"
+   ],
+   "search": [
+    "\"Paulo Dybala\""
+   ],
+   "must": [
+    [
+     "dybala"
+    ]
+   ],
+   "max": 8
+  },
+  {
+   "id": "mouche",
+   "titles": [
+    "es:Pablo Mouche",
+    "en:Pablo Mouche"
+   ],
+   "search": [
+    "\"Pablo Mouche\""
+   ],
+   "must": [
+    [
+     "mouche"
+    ]
+   ],
+   "max": 8
+  },
+  {
+   "id": "labruna",
+   "titles": [
+    "es:Ángel Labruna",
+    "en:Ángel Labruna"
+   ],
+   "search": [
+    "\"Ángel Labruna\""
+   ],
+   "must": [
+    [
+     "labruna"
+    ]
+   ],
+   "max": 8
+  },
+  {
+   "id": "distefano",
+   "titles": [
+    "es:Alfredo Di Stéfano",
+    "en:Alfredo Di Stéfano"
+   ],
+   "search": [
+    "\"Alfredo Di Stéfano\""
+   ],
+   "must": [
+    [
+     "stefano"
+    ]
+   ],
+   "max": 8
+  },
+  {
+   "id": "kempes",
+   "titles": [
+    "es:Mario Kempes",
+    "en:Mario Kempes"
+   ],
+   "search": [
+    "\"Mario Kempes\""
+   ],
+   "must": [
+    [
+     "kempes"
+    ]
+   ],
+   "max": 8
+  },
+  {
+   "id": "bianchi",
+   "titles": [
+    "es:Carlos Bianchi",
+    "en:Carlos Bianchi"
+   ],
+   "search": [
+    "\"Carlos Bianchi\""
+   ],
+   "must": [
+    [
+     "bianchi"
+    ]
+   ],
+   "max": 8
+  },
+  {
+   "id": "batistuta",
+   "titles": [
+    "es:Gabriel Batistuta",
+    "en:Gabriel Batistuta"
+   ],
+   "search": [
+    "\"Gabriel Batistuta\""
+   ],
+   "must": [
+    [
+     "batistuta"
+    ]
+   ],
+   "max": 8
+  },
+  {
+   "id": "palermo",
+   "titles": [
+    "es:Martín Palermo",
+    "en:Martín Palermo"
+   ],
+   "search": [
+    "\"Martín Palermo\""
+   ],
+   "must": [
+    [
+     "palermo"
+    ]
+   ],
+   "max": 8
+  },
+  {
+   "id": "lautaro",
+   "titles": [
+    "es:Lautaro Martínez",
+    "en:Lautaro Martínez"
+   ],
+   "search": [
+    "\"Lautaro Martínez\""
+   ],
+   "must": [
+    [
+     "lautaro"
+    ]
+   ],
+   "max": 8
+  },
+  {
+   "id": "funesmori",
+   "titles": [
+    "es:Rogelio Funes Mori",
+    "en:Rogelio Funes Mori"
+   ],
+   "search": [
+    "\"Rogelio Funes Mori\""
+   ],
+   "must": [
+    [
+     "funes"
+    ]
+   ],
+   "max": 8
+  },
+  {
+   "id": "sivori",
+   "titles": [
+    "es:Omar Sívori",
+    "en:Omar Sívori"
+   ],
+   "search": [
+    "\"Omar Sívori\""
+   ],
+   "must": [
+    [
+     "sivori"
+    ]
+   ],
+   "max": 8
+  },
+  {
+   "id": "ramondiaz",
+   "titles": [
+    "es:Ramón Díaz",
+    "en:Ramón Díaz"
+   ],
+   "search": [
+    "\"Ramón Díaz\""
+   ],
+   "must": [
+    [
+     "ramon",
+     "diaz"
+    ]
+   ],
+   "max": 8
+  },
+  {
+   "id": "dimaria",
+   "titles": [
+    "es:Ángel Di María",
+    "en:Ángel Di María"
+   ],
+   "search": [
+    "\"Ángel Di María\""
+   ],
+   "must": [
+    [
+     "di",
+     "maria"
+    ],
+    [
+     "dimaria"
+    ]
+   ],
+   "max": 8
+  },
+  {
+   "id": "tevez",
+   "titles": [
+    "es:Carlos Tevez",
+    "en:Carlos Tevez"
+   ],
+   "search": [
+    "\"Carlos Tevez\""
+   ],
+   "must": [
+    [
+     "tevez"
+    ]
+   ],
+   "max": 8
+  },
+  {
+   "id": "aguero",
+   "titles": [
+    "es:Sergio Agüero",
+    "en:Sergio Agüero"
+   ],
+   "search": [
+    "\"Sergio Agüero\""
+   ],
+   "must": [
+    [
+     "aguero"
+    ]
+   ],
+   "max": 8
+  },
+  {
+   "id": "julian",
+   "titles": [
+    "es:Julián Álvarez",
+    "en:Julián Álvarez"
+   ],
+   "search": [
+    "\"Julián Álvarez\""
+   ],
+   "must": [
+    [
+     "julian",
+     "alvarez"
+    ]
+   ],
+   "max": 8
+  },
+  {
+   "id": "higuain",
+   "titles": [
+    "es:Gonzalo Higuaín",
+    "en:Gonzalo Higuaín"
+   ],
+   "search": [
+    "\"Gonzalo Higuaín\""
+   ],
+   "must": [
+    [
+     "higuain"
+    ]
+   ],
+   "max": 8
+  },
+  {
+   "id": "ratonibanez",
+   "titles": [
+    "es:Gustavo Ibáñez",
+    "en:Gustavo Ibáñez"
+   ],
+   "search": [
+    "\"Gustavo Ibáñez\""
+   ],
+   "must": [
+    [
+     "gustavo",
+     "ibanez"
+    ],
+    [
+     "raton"
+    ]
+   ],
+   "max": 8,
+   "urls": [
+    "https://viapais.com.ar/resizer/v2/GVQWCNJRGU4GIMJTMUZTEYJWHE.jpg",
+    "https://web-viapais.lilax.io/resizer/v2/HBSTAYJZG43DGOBVGYYDOZTFG4.jpg",
+    "https://web-viapais.lilax.io/resizer/v2/GFRDCOLBMQZGCYJTMRTDSMBVGM.jpg"
+   ]
+  }
+ ],
+ "files": [
+  {
+   "url": "https://github.com/opencv/opencv_zoo/raw/main/models/face_detection_yunet/face_detection_yunet_2023mar.onnx",
+   "path": "_models/yunet.onnx"
+  }
+ ]
+}

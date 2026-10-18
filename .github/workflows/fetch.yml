@@ -1,0 +1,28 @@
+name: fetch-photos
+on:
+  push:
+    branches: [tmp-fotos-subasta]
+    paths: ['fetch/jobs.json', 'fetch/fetch.py', '.github/workflows/fetch.yml']
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: fetch-photos
+  cancel-in-progress: true
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - name: heartbeat
+        run: |
+          git config user.name "photo-bot"
+          git config user.email "photo-bot@users.noreply.github.com"
+          mkdir -p out && echo "runner up $(date -u +%T)" > out/_heartbeat.txt
+          git add out && git commit -q -m "heartbeat" && git push -q origin HEAD:tmp-fotos-subasta
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install pillow
+      - run: python fetch/fetch.py
