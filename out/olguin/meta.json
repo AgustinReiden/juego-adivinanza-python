@@ -2,19 +2,89 @@
  "id": "olguin",
  "items": [
   {
-   "f": "d1.jpg",
-   "url": "https://live.staticflickr.com/65535/51361418617_b1e9f06b78_b.jpg",
-   "page": "https://www.flickr.com/photos/193573032@N04/51361418617/",
-   "q": "Jorge Olguín futbolista selección argentina 1978",
+   "f": "d2.jpg",
+   "url": "https://www.radioudec.cl/wp-content/uploads/2020/11/jorge-Olguin.jpg",
+   "page": "https://www.radioudec.cl/jorge-olguin-en-lunes-cinematograficos-de-corcudec-es-posible-hacer-una-buena-pelicula-de-terror/",
+   "q": "Jorge Olguín",
    "size": [
-    1024,
-    768
+    1100,
+    734
+   ]
+  },
+  {
+   "f": "d3.jpg",
+   "url": "https://img.lahora.cl/upload/2023/01/17161D574C43456D14160F55544947791F1617185746447616.jpeg",
+   "page": "https://lahora.cl/entretencion/2023/01/10/jorge-olguin-revela-el-trailer-de-su-pelicula-analogos/",
+   "q": "Jorge Olguín",
+   "size": [
+    1100,
+    733
+   ]
+  },
+  {
+   "f": "d4.jpg",
+   "url": "https://cfstorage.sfo3.cdn.digitaloceanspaces.com/speakers/webp/2021/jorge-olguin.webp",
+   "page": "https://www.congresofuturo.cl/expositores/jorge-olguin",
+   "q": "Jorge Olguín",
+   "size": [
+    250,
+    250
+   ]
+  },
+  {
+   "f": "d5.jpg",
+   "url": "https://i.ytimg.com/vi/RqbfkFOmiQQ/maxresdefault.jpg",
+   "page": "https://www.youtube.com/watch?v=RqbfkFOmiQQ",
+   "q": "Jorge Olguín",
+   "size": [
+    1100,
+    619
+   ]
+  },
+  {
+   "f": "d6.jpg",
+   "url": "https://cinedegenerolatinoamericano.com/wp-content/uploads/2023/01/jorge-olguin-analogos.jpg",
+   "page": "https://cinedegenerolatinoamericano.com/noticias/se-conocio-el-trailer-de-analogos-lo-nuevo-de-jorge-olguin-2023-01-11",
+   "q": "Jorge Olguín",
+   "size": [
+    1080,
+    787
+   ]
+  },
+  {
+   "f": "d7.jpg",
+   "url": "https://www.rionegro.com.ar/wp-content/uploads/2022/11/ssssssssssssssss.jpg",
+   "page": "https://www.rionegro.com.ar/deportes/futbol/jorge-olguin-en-exclusiva-con-rio-negro-palabra-de-campeon-del-mundo-2590636/",
+   "q": "Jorge Olguín",
+   "size": [
+    1097,
+    734
+   ]
+  },
+  {
+   "f": "d8.jpg",
+   "url": "https://lumiererosario.gob.ar/web/wp-content/uploads/2025/05/Entrevista-Olguin-gestor.png",
+   "page": "https://lumiererosario.gob.ar/web/agenda/dia-9-entrevista-abierta-seba-de-caro-conversa-con-jorge-olguin-funcion-homenaje-a-sangre-eterna/",
+   "q": "Jorge Olguín",
+   "size": [
+    1100,
+    733
+   ]
+  },
+  {
+   "f": "d9.jpg",
+   "url": "https://www.mundopeliculas.tv/wp-content/uploads/2024/06/jorge-olguin-director.jpeg",
+   "page": "https://www.mundopeliculas.tv/2024/06/17/kalkutun-juicio-de-los-brujos-jorge-olguin/",
+   "q": "Jorge Olguín",
+   "size": [
+    1100,
+    733
    ]
   }
  ],
  "log": [
-  "ddgs[duckduckgo] fail Jorge Olguín futbolista selección argentina 1978: RequestError: RequestError('error sending request for url (https://duckduckgo.com/?q=Jorge+Olgu%C3%ADn+futbolista+selecci%C3%B3n+argentina+1978) > user error: malformed headers')",
-  "ddgs[auto] Jorge Olguín futbolista selección argentina 1978: 1 results; first=['POTB 4368 at Tillamook, OR. | Tristan Ja']"
+  "ddgs[auto] Jorge Olguín: 12 results; first=['Jorge Olguín en Lunes Cinematográficos d', 'Jorgue Olguín revela el tráiler de su pe', 'Jorge Olguín | CONGRESO FUTURO']",
+  "ddgs[auto] Olguín campeón 1978 Argentina: 12 results; first=['Jorge Olguín, en exclusiva con «Río Negr', '#SaludoAlbiceleste 🇦🇷 Hoy cumple años Jo', '📸SELECCIÓN DE ARGENTINA 📅06/06/1978 🆚Sel']"
  ],
  "candidates": 0
 }

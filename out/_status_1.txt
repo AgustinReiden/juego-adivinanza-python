@@ -1,1 +1,1 @@
-done 02:20:44 {"olguin": 1, "peruzzi": 1, "sorin": 6, "redondo": 6, "kempes": 6, "schiavi": 6, "ayala": 6, "ratonibanez": 6, "caniggia": 1}
+done 02:23:38 {"olguin": 8, "kempes": 8, "caniggia": 8}
