@@ -1,0 +1,97 @@
+{
+ "id": "batistuta",
+ "items": [
+  {
+   "f": "w1.jpg",
+   "file": "File:Omar_Batistuta_(2).jpg",
+   "kind": "lead",
+   "orig": [
+    400,
+    600
+   ],
+   "size": [
+    400,
+    600
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Omar_Batistuta_(2).jpg",
+   "artist": "Roberto Vicario",
+   "license": "CC BY-SA 3.0",
+   "date": "Fecha desconocida",
+   "desc": "Gabriel Omar Batistuta (Avellaneda, 1º febbraio 1969) è un dirigente sportivo, allenatore di calcio ed ex calciatore argentino, di ruolo attaccante. (from it.wp)"
+  },
+  {
+   "f": "w2.jpg",
+   "file": "Archivo:Omar Batistuta.jpg",
+   "kind": "page",
+   "orig": [
+    400,
+    600
+   ],
+   "size": [
+    400,
+    600
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Omar_Batistuta.jpg",
+   "artist": "Roberto Vicario",
+   "license": "CC BY-SA 3.0",
+   "date": "Fecha desconocida",
+   "desc": "Gabriel Omar Batistuta (Avellaneda, 1º febbraio 1969) è un dirigente sportivo, allenatore di calcio ed ex calciatore argentino, di ruolo attaccante. (from it.wp)"
+  },
+  {
+   "f": "w3.jpg",
+   "file": "File:Gabriel batistuta.jpg",
+   "kind": "search",
+   "orig": [
+    375,
+    500
+   ],
+   "size": [
+    375,
+    500
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Gabriel_batistuta.jpg",
+   "artist": "",
+   "license": "Public domain",
+   "date": "",
+   "desc": ""
+  },
+  {
+   "f": "w4.jpg",
+   "file": "File:Gabriel Batistuta en interview avec Florent Torchut.jpg",
+   "kind": "search",
+   "orig": [
+    4256,
+    2832
+   ],
+   "size": [
+    960,
+    639
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Gabriel_Batistuta_en_interview_avec_Florent_Torchut.jpg",
+   "artist": "Florent Torchut",
+   "license": "CC BY-SA 4.0",
+   "date": "2012-02-13",
+   "desc": "Interview de Florent Torchut avec Gabriel Batistuta pour France Football en février 2012 à Santa Fé (Argentine)."
+  },
+  {
+   "f": "w5.jpg",
+   "file": "File:Batistuta y Franco.png",
+   "kind": "search",
+   "orig": [
+    806,
+    759
+   ],
+   "size": [
+    806,
+    759
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Batistuta_y_Franco.png",
+   "artist": "Unknown",
+   "license": "Public domain",
+   "date": "1988-10-19",
+   "desc": "Gabriel Batistuta y Darío Franco celebrating the victory"
+  }
+ ],
+ "log": [],
+ "candidates": 5
+}

@@ -1,0 +1,115 @@
+{
+ "id": "distefano",
+ "items": [
+  {
+   "f": "w1.jpg",
+   "file": "File:Di_stefano_argentina_(cropped).jpg",
+   "kind": "lead",
+   "orig": [
+    349,
+    455
+   ],
+   "size": [
+    349,
+    455
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Di_stefano_argentina_(cropped).jpg",
+   "artist": "DesconocidoUnknown author",
+   "license": "Public domain",
+   "date": "1947",
+   "desc": "Alfredo Di Stéfano with the Argentina national team."
+  },
+  {
+   "f": "w2.jpg",
+   "file": "Archivo:Alfredo Di Stefano River Plate.jpg",
+   "kind": "page",
+   "orig": [
+    540,
+    733
+   ],
+   "size": [
+    540,
+    733
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Alfredo_Di_Stefano_River_Plate.jpg",
+   "artist": "DesconocidoUnknown author",
+   "license": "Public domain",
+   "date": "entre 1945 y 1949<div style=\"display: no",
+   "desc": "River Plate player Alfredo Di Stefano."
+  },
+  {
+   "f": "w3.jpg",
+   "file": "Archivo:Alfredo Di Stéfano with Spain Team in Rome, 1959.jpg",
+   "kind": "page",
+   "orig": [
+    666,
+    983
+   ],
+   "size": [
+    666,
+    983
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Alfredo_Di_St%C3%A9fano_with_Spain_Team_in_Rome,_1959.jpg",
+   "artist": "Cordon Press",
+   "license": "Public domain",
+   "date": "1959-02-28",
+   "desc": "Rome (Italy), Olympic Stadium, February 28, 1959. Argentine-born footballer Alfredo Di Stéfano, Spanish naturalized, leave the pitch during the friendly game between Italy and Spain (1-1)."
+  },
+  {
+   "f": "w4.jpg",
+   "file": "Archivo:Alfredo di Stefano - panoramio.jpg",
+   "kind": "page",
+   "orig": [
+    3216,
+    4288
+   ],
+   "size": [
+    825,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Alfredo_di_Stefano_-_panoramio.jpg",
+   "artist": "Mister No",
+   "license": "CC BY 3.0",
+   "date": "Tomada el 11 de abril de 2012",
+   "desc": "Alfredo di Stefano"
+  },
+  {
+   "f": "w5.jpg",
+   "file": "Archivo:Di stefano real madrid cf (cropped).png",
+   "kind": "page",
+   "orig": [
+    386,
+    551
+   ],
+   "size": [
+    386,
+    551
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Di_stefano_real_madrid_cf_(cropped).png",
+   "artist": "DesconocidoUnknown author",
+   "license": "Public domain",
+   "date": "1959",
+   "desc": "Alfredo Di Stefano while playing at Real Madrid CF."
+  },
+  {
+   "f": "w6.jpg",
+   "file": "Archivo:Mcu Alfredo Di Stefano.jpg",
+   "kind": "page",
+   "orig": [
+    271,
+    400
+   ],
+   "size": [
+    271,
+    400
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Mcu_Alfredo_Di_Stefano.jpg",
+   "artist": "Unknown, \n\nderivative work: Amarhgil",
+   "license": "Public domain",
+   "date": "1947",
+   "desc": "Alfredo Di Stefano in Argentina national team"
+  }
+ ],
+ "log": [],
+ "candidates": 10
+}

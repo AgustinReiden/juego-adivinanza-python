@@ -1,0 +1,115 @@
+{
+ "id": "dimaria",
+ "items": [
+  {
+   "f": "w1.jpg",
+   "file": "File:NIG-ARG_(5).jpg",
+   "kind": "lead",
+   "orig": [
+    532,
+    762
+   ],
+   "size": [
+    532,
+    762
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:NIG-ARG_(5).jpg",
+   "artist": "Кирилл Венедиктов",
+   "license": "CC BY-SA 3.0",
+   "date": "2018-06-26 20:50:47",
+   "desc": "Гол Рохо в концовке выводит Аргентину в плей-офф чемпионата мира"
+  },
+  {
+   "f": "w2.jpg",
+   "file": "Archivo:Angel Di Maria – Portugal vs. Argentina, 9th February 2011 (cropped).jpg",
+   "kind": "page",
+   "orig": [
+    2561,
+    3423
+   ],
+   "size": [
+    823,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Angel_Di_Maria_%E2%80%93_Portugal_vs._Argentina,_9th_February_2011_(cropped).jpg",
+   "artist": "Fanny Schertzer",
+   "license": "CC BY 3.0",
+   "date": "2011-02-09 22:26:14",
+   "desc": "\n\n\n\nLa realización de este trabajo fue apoyada por Wikimedia CH.\nPara ver todas las obras que recibieron este apoyo, vea la categoría Supported by Wikimedia CH.\n\n\nالعربية ∙ বাংলা ∙ čeština ∙ Deutsch ∙"
+  },
+  {
+   "f": "w3.jpg",
+   "file": "Archivo:Di maria - Milano.jpg",
+   "kind": "page",
+   "orig": [
+    438,
+    618
+   ],
+   "size": [
+    438,
+    618
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Di_maria_-_Milano.jpg",
+   "artist": "Jan S0L0",
+   "license": "CC BY-SA 2.0",
+   "date": "2010-10-19",
+   "desc": "di maria"
+  },
+  {
+   "f": "w4.jpg",
+   "file": "Archivo:Ángel Di María.jpg",
+   "kind": "page",
+   "orig": [
+    448,
+    794
+   ],
+   "size": [
+    448,
+    794
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:%C3%81ngel_Di_Mar%C3%ADa.jpg",
+   "artist": "José Goulão from Lisbon, Portugal",
+   "license": "CC BY-SA 2.0",
+   "date": "2007-09-15 22:52",
+   "desc": "Ángel Di María, 15. September 2007, Benfica vs. Naval"
+  },
+  {
+   "f": "w5.jpg",
+   "file": "Archivo:Ángel Di María - ARG v CAN - 2024-07-09 (cropped).jpg",
+   "kind": "page",
+   "orig": [
+    398,
+    531
+   ],
+   "size": [
+    398,
+    531
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:%C3%81ngel_Di_Mar%C3%ADa_-_ARG_v_CAN_-_2024-07-09_(cropped).jpg",
+   "artist": "Sebas",
+   "license": "CC BY 3.0",
+   "date": "Tomada el 9 de julio de 2024",
+   "desc": "Ángel Di María, quien sería reemplazado por Nicolás González, abandonando el campo de juego al minuto 78 ante Canadá en las semifinales de la Copa América 2024."
+  },
+  {
+   "f": "w6.jpg",
+   "file": "File:Angel Di María vs Michael Dawson.jpg",
+   "kind": "page",
+   "orig": [
+    2560,
+    1712
+   ],
+   "size": [
+    960,
+    642
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Angel_Di_Mar%C3%ADa_vs_Michael_Dawson.jpg",
+   "artist": "Jan S0L0",
+   "license": "CC BY-SA 2.0",
+   "date": "2011-04-05 22:29:40",
+   "desc": "Angel Di María of Real Madrid defended by Michael Dawson of Tottenham Hotspur. Benoît Assou-Ekotto to the left, Emmanuel Adebayor to the right."
+  }
+ ],
+ "log": [],
+ "candidates": 10
+}

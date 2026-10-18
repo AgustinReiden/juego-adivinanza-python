@@ -1,0 +1,117 @@
+{
+ "id": "julian",
+ "items": [
+  {
+   "f": "w1.jpg",
+   "file": "File:Julian_Alvarez_Argentina_v_Spain_19_July_2026-052_(cropped).jpg",
+   "kind": "lead",
+   "orig": [
+    2446,
+    3748
+   ],
+   "size": [
+    718,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Julian_Alvarez_Argentina_v_Spain_19_July_2026-052_(cropped).jpg",
+   "artist": "Bryan Berlin",
+   "license": "CC BY-SA 4.0",
+   "date": "2026-07-19 14:57:52",
+   "desc": "Julian Alvarez during Argentina vs Spain at the 2026 FIFA World Cup Final"
+  },
+  {
+   "f": "w2.jpg",
+   "file": "File:Arg vs mex julianalvarez ochoa y messi (cropped).jpg",
+   "kind": "page",
+   "orig": [
+    337,
+    385
+   ],
+   "size": [
+    337,
+    385
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Arg_vs_mex_julianalvarez_ochoa_y_messi_(cropped).jpg",
+   "artist": "Hossein Zohrevand",
+   "license": "CC BY 4.0",
+   "date": "2022-11-26",
+   "desc": "2022 FIFA World Cup November 26 , Argentina v Mexico"
+  },
+  {
+   "f": "w3.jpg",
+   "file": "File:Argentina national football team - 2 - 2022 (Julián Álvarez).jpg",
+   "kind": "page",
+   "orig": [
+    269,
+    380
+   ],
+   "size": [
+    269,
+    380
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Argentina_national_football_team_-_2_-_2022_(Juli%C3%A1n_%C3%81lvarez).jpg",
+   "artist": "Argentina.gob.ar",
+   "license": "CC BY 4.0",
+   "date": "2022-03-24",
+   "desc": "Argentina's national football team in March 2022."
+  },
+  {
+   "f": "w4.jpg",
+   "file": "File:Julian Alvarez Argentina v Spain 19 July 2026-173.jpg",
+   "kind": "page",
+   "orig": [
+    3333,
+    5000
+   ],
+   "size": [
+    733,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Julian_Alvarez_Argentina_v_Spain_19_July_2026-173.jpg",
+   "artist": "Bryan Berlin",
+   "license": "CC BY-SA 4.0",
+   "date": "2026-07-19 16:40:55",
+   "desc": "Julian Alvarez during Argentina vs Spain at the 2026 FIFA World Cup Final"
+  },
+  {
+   "f": "w5.jpg",
+   "file": "File:Julián Álvarez (footballer) 2023.jpg",
+   "kind": "page",
+   "orig": [
+    503,
+    735
+   ],
+   "size": [
+    503,
+    735
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Juli%C3%A1n_%C3%81lvarez_(footballer)_2023.jpg",
+   "artist": "pantkiewicz",
+   "license": "CC BY-SA 2.0",
+   "date": "2023-07-23 21:04:56",
+   "desc": "Tokyo National Stadium"
+  },
+  {
+   "f": "w6.jpg",
+   "file": "File:Julián Álvarez.jpg",
+   "kind": "search",
+   "orig": [
+    844,
+    1274
+   ],
+   "size": [
+    729,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Juli%C3%A1n_%C3%81lvarez.jpg",
+   "artist": "Gaetano Gallino",
+   "license": "Public domain",
+   "date": "Editado en 1971",
+   "desc": ""
+  }
+ ],
+ "log": [
+  "disambiguation es:Julián Álvarez"
+ ],
+ "candidates": 10
+}
