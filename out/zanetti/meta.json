@@ -1,0 +1,70 @@
+{
+ "id": "zanetti",
+ "items": [
+  {
+   "f": "w1.jpg",
+   "file": "File:Javier Zanetti - Inter Mailand (1).jpg",
+   "kind": "page",
+   "orig": [
+    2000,
+    3000
+   ],
+   "size": [
+    733,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Javier_Zanetti_-_Inter_Mailand_(1).jpg",
+   "artist": "Steindy (talk) 19:52, 28 November 2009 (UTC)",
+   "license": "CC BY-SA 3.0",
+   "date": "2009-08-16",
+   "desc": "Javier Zanetti - F.C. Internazionale Milano"
+  },
+  {
+   "f": "w2.jpg",
+   "file": "File:Javier Zanetti - Inter Mailand (4).jpg",
+   "kind": "page",
+   "orig": [
+    2400,
+    2400
+   ],
+   "size": [
+    960,
+    960
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Javier_Zanetti_-_Inter_Mailand_(4).jpg",
+   "artist": "Steindy (talk) 19:52, 28 November 2009 (UTC)",
+   "license": "CC BY-SA 3.0",
+   "date": "2009-08-16",
+   "desc": "Javier Zanetti - F.C. Internazionale Milano"
+  },
+  {
+   "f": "w3.jpg",
+   "file": "File:Javier Zanetti et Cristiano Ronaldo.jpg",
+   "kind": "page",
+   "orig": [
+    3449,
+    2746
+   ],
+   "size": [
+    960,
+    764
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Javier_Zanetti_et_Cristiano_Ronaldo.jpg",
+   "artist": "Ludovic Péron",
+   "license": "CC BY-SA 3.0",
+   "date": "2011-02-09 23:17:23",
+   "desc": "Javier Zanetti et Cristiano Ronaldo lors d'un match amical Argentine - Portugal à Genève."
+  }
+ ],
+ "log": [
+  "search fail \"Javier Zanetti\" HTTP Error 429: Too Many Requests",
+  "dl fail File:Metalist-Inter_(2).jpg: HTTP Error 429: Too Many Requests",
+  "dl fail Archivo:Javier Zanetti - Inter Mailand (3).jpg: HTTP Error 429: Too Many Requests",
+  "dl fail Archivo:Javier Zanetti – Portugal vs. Argentina, 9th February 2011 (1).jpg: HTTP Error 429: Too Many Requests",
+  "dl fail Archivo:Paseo Javier \"Pupi\" Zanetti, en Remedios de Escalada, donde inició su carrera jugando para Talleres de esa localidad de la provincia de Buenos Aires.jpg: HTTP Error 429: Too Many Requests",
+  "dl fail Archivo:Zanetti vs CSKA Mosca 2011 - 1.png: HTTP Error 429: Too Many Requests",
+  "dl fail File:Javier Zanetti (L), Cristiano Ronaldo (R) – Portugal vs. Argentina, 9th February 2011 (1).jpg: HTTP Error 429: Too Many Requests",
+  "dl fail File:Javier Zanetti FC Internazionale 3.jpg: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+ ],
+ "candidates": 10
+}

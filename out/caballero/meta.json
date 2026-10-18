@@ -1,0 +1,64 @@
+{
+ "id": "caballero",
+ "items": [
+  {
+   "f": "w1.jpg",
+   "file": "File:Willy_Caballero_20042025_(1).jpg",
+   "kind": "lead",
+   "orig": [
+    488,
+    680
+   ],
+   "size": [
+    488,
+    680
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Willy_Caballero_20042025_(1).jpg",
+   "artist": "Timmy96",
+   "license": "CC0",
+   "date": "2025-04-20 12:33:25",
+   "desc": "Willy Caballero arriving at Craven Cottage prior to the Premier League match between Fulham and Chelsea on 20 April 2025."
+  },
+  {
+   "f": "w2.jpg",
+   "file": "File:Willy Caballero.jpg",
+   "kind": "page",
+   "orig": [
+    1082,
+    1523
+   ],
+   "size": [
+    782,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Willy_Caballero.jpg",
+   "artist": "Egghead06",
+   "license": "CC BY-SA 4.0",
+   "date": "2014-10-25 11:58:43",
+   "desc": "Manchester City goalkeeper, Willy Caballero warming up before their Premier League defeat to West Ham United at the Boleyn Ground, October 2014"
+  },
+  {
+   "f": "w3.jpg",
+   "file": "File:Willy Caballero 20180106.jpg",
+   "kind": "page",
+   "orig": [
+    489,
+    643
+   ],
+   "size": [
+    489,
+    643
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Willy_Caballero_20180106.jpg",
+   "artist": "@cfcunofficial (Chelsea Debs) London from London, UK",
+   "license": "CC BY-SA 2.0",
+   "date": "2018-01-06 18:12",
+   "desc": "FA Cup 3rd round 6.1.18"
+  }
+ ],
+ "log": [
+  "dl fail File:Wilfredo_Caballero.jpg: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)",
+  "dl fail File:Wilfredo Caballero 2012.JPG: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+ ],
+ "candidates": 5
+}

@@ -1,0 +1,145 @@
+{
+ "id": "gatti",
+ "items": [
+  {
+   "f": "w1.jpg",
+   "file": "File:Hugo_gatti_boca.jpg",
+   "kind": "lead",
+   "orig": [
+    858,
+    1024
+   ],
+   "size": [
+    858,
+    1024
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Hugo_gatti_boca.jpg",
+   "artist": "DesconocidoUnknown author",
+   "license": "Public domain",
+   "date": "hacia 1977<div style=\"display: none;\">da",
+   "desc": "Argentine goalkeeper Hugo Gatti while playing for Boca Juniors."
+  },
+  {
+   "f": "w2.jpg",
+   "file": "Archivo:Gatti (Boca) - El Gráfico 2953.jpg",
+   "kind": "page",
+   "orig": [
+    1450,
+    2000
+   ],
+   "size": [
+    798,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Gatti_(Boca)_-_El_Gr%C3%A1fico_2953.jpg",
+   "artist": "El Gráfico",
+   "license": "Public domain",
+   "date": "",
+   "desc": "El Grafico del 12 de Mayo de 1976. Edicion 2953"
+  },
+  {
+   "f": "w3.jpg",
+   "file": "File:Goles 1025 gatti carrizo.jpg",
+   "kind": "search",
+   "orig": [
+    820,
+    1147
+   ],
+   "size": [
+    786,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Goles_1025_gatti_carrizo.jpg",
+   "artist": "Unknown authorUnknown author",
+   "license": "Public domain",
+   "date": "1968",
+   "desc": "Hugo Gatti (left) and Amadeo Carrizo, goalkeepers of River Plate."
+  },
+  {
+   "f": "w4.jpg",
+   "file": "File:Gatti elonga barro.jpg",
+   "kind": "search",
+   "orig": [
+    1132,
+    743
+   ],
+   "size": [
+    960,
+    630
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Gatti_elonga_barro.jpg",
+   "artist": "Norberto Mosteirin.",
+   "license": "Public domain",
+   "date": "1987",
+   "desc": "Goalkeeper Hugo Gatti warming up in the mud"
+  },
+  {
+   "f": "w5.jpg",
+   "file": "File:Mastrangelo gatti cocco 1975.jpg",
+   "kind": "search",
+   "orig": [
+    1360,
+    1159
+   ],
+   "size": [
+    960,
+    818
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Mastrangelo_gatti_cocco_1975.jpg",
+   "artist": "Unknown authorUnknown author",
+   "license": "Public domain",
+   "date": "1975-03-26",
+   "desc": "Players of Unión, fltr: Ernesto Mastrángelo, Hugo Gatti, Victorio Cocco."
+  },
+  {
+   "f": "w6.jpg",
+   "file": "File:Hugo gatti votando.jpg",
+   "kind": "search",
+   "orig": [
+    1140,
+    756
+   ],
+   "size": [
+    960,
+    637
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Hugo_gatti_votando.jpg",
+   "artist": "Unknown authorUnknown author",
+   "license": "Public domain",
+   "date": "1983-10-30",
+   "desc": "Hugo Gatti"
+  },
+  {
+   "f": "w7.jpg",
+   "file": "File:Navarro montoya y gatti.jpg",
+   "kind": "search",
+   "orig": [
+    1140,
+    750
+   ],
+   "size": [
+    960,
+    632
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Navarro_montoya_y_gatti.jpg",
+   "artist": "Unknown authorUnknown author",
+   "license": "Public domain",
+   "date": "1988",
+   "desc": "Goalkeepers of Boca Juniors, C.F. Navarro Montoya (left) and Hugo Gatti."
+  }
+ ],
+ "log": [
+  "dl fail Archivo:Hugo Gatti 2.jpg: HTTP Error 429: Too many requests (f061ab2)",
+  "dl fail Archivo:Hugo Orlando Gatti votando en 1983.png: HTTP Error 429: Too Many Requests",
+  "dl fail File:Hugo_gatti_en_1987.jpg: HTTP Error 429: Too Many Requests",
+  "dl fail File:Fillol y Gatti -Selección argentina- - El Gráfico 3025.jpg: HTTP Error 429: Too Many Requests",
+  "dl fail File:Gatti maradona 1980.jpg: HTTP Error 429: Too Many Requests",
+  "dl fail File:Brindisi maradona gatti.jpg: HTTP Error 429: Too Many Requests",
+  "dl fail File:Rattin v gatti 1967.jpg: HTTP Error 429: Too Many Requests",
+  "dl fail File:Sa gatti festejo boca.jpg: HTTP Error 429: Too Many Requests",
+  "dl fail File:La Raulito y Gatti.jpg: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)",
+  "dl fail File:Ramondiaz v gatti 1982.jpg: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)",
+  "dl fail File:Hugo gatti 1967.jpg: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+ ],
+ "candidates": 18
+}

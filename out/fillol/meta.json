@@ -1,0 +1,11 @@
+{
+ "id": "fillol",
+ "items": [],
+ "log": [
+  "search fail \"Ubaldo Fillol\" HTTP Error 429: Too Many Requests",
+  "dl fail File:Fillol_01.jpg: HTTP Error 429: Too Many Requests",
+  "dl fail Archivo:Ubaldo Fillol 2006.jpg: HTTP Error 429: Too Many Requests",
+  "dl fail File:Fillol_river.jpg: HTTP Error 429: Too Many Requests"
+ ],
+ "candidates": 3
+}

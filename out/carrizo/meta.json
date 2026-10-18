@@ -1,0 +1,156 @@
+{
+ "id": "carrizo",
+ "items": [
+  {
+   "f": "w1.jpg",
+   "file": "File:Amadeocarrizo_1961.jpeg",
+   "kind": "lead",
+   "orig": [
+    535,
+    637
+   ],
+   "size": [
+    535,
+    637
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Amadeocarrizo_1961.jpeg",
+   "artist": "DesconocidoUnknown author",
+   "license": "Public domain",
+   "date": "1961",
+   "desc": "Legendary Argentine football goalkeeper Amadeo Carrizo in 1961."
+  },
+  {
+   "f": "w2.jpg",
+   "file": "Archivo:Amadeo Carrizo (River) - El Gráfico 1842.jpg",
+   "kind": "page",
+   "orig": [
+    1468,
+    2000
+   ],
+   "size": [
+    807,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Amadeo_Carrizo_(River)_-_El_Gr%C3%A1fico_1842.jpg",
+   "artist": "El Gráfico",
+   "license": "Public domain",
+   "date": "",
+   "desc": "El Grafico del 26 de Noviembre de 1954. Edicion 1842"
+  },
+  {
+   "f": "w3.jpg",
+   "file": "Archivo:Amadeo Carrizo (River) - El Gráfico 2147.jpg",
+   "kind": "page",
+   "orig": [
+    1412,
+    1984
+   ],
+   "size": [
+    783,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Amadeo_Carrizo_(River)_-_El_Gr%C3%A1fico_2147.jpg",
+   "artist": "El Gráfico",
+   "license": "Public domain",
+   "date": "",
+   "desc": "El Grafico del 16 de Noviembre de 1960. Edicion 2147"
+  },
+  {
+   "f": "w4.jpg",
+   "file": "Archivo:Carrizo y Yashin - El Gráfico 2575.jpg",
+   "kind": "page",
+   "orig": [
+    1422,
+    1992
+   ],
+   "size": [
+    785,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Carrizo_y_Yashin_-_El_Gr%C3%A1fico_2575.jpg",
+   "artist": "El Gráfico",
+   "license": "Public domain",
+   "date": "",
+   "desc": "El Grafico del 11 de Febrero de 1969. Edicion 2575"
+  },
+  {
+   "f": "w5.jpg",
+   "file": "File:AmadeoCarrizo.jpg",
+   "kind": "lead",
+   "orig": [
+    770,
+    1124
+   ],
+   "size": [
+    754,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:AmadeoCarrizo.jpg",
+   "artist": "Unknown authorUnknown author",
+   "license": "Public domain",
+   "date": "between 1945 and 1968<div style=\"display",
+   "desc": "River Plate player Amadeo Carrizo. El Gráfico."
+  },
+  {
+   "f": "w6.jpg",
+   "file": "File:Amadeo carrizo figurita 1965.jpg",
+   "kind": "search",
+   "orig": [
+    400,
+    400
+   ],
+   "size": [
+    400,
+    400
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Amadeo_carrizo_figurita_1965.jpg",
+   "artist": "Unknown authorUnknown author",
+   "license": "Public domain",
+   "date": "1965",
+   "desc": "Amadeo card"
+  },
+  {
+   "f": "w7.jpg",
+   "file": "File:Amadeo carrizo figurita fulbito.jpg",
+   "kind": "search",
+   "orig": [
+    222,
+    227
+   ],
+   "size": [
+    222,
+    227
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Amadeo_carrizo_figurita_fulbito.jpg",
+   "artist": "Unknown authorUnknown author",
+   "license": "Public domain",
+   "date": "1959",
+   "desc": "Amadeo"
+  },
+  {
+   "f": "w8.jpg",
+   "file": "File:Agustin cejas y amadeo carrizo.jpg",
+   "kind": "search",
+   "orig": [
+    619,
+    900
+   ],
+   "size": [
+    619,
+    900
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Agustin_cejas_y_amadeo_carrizo.jpg",
+   "artist": "Unknown authorUnknown author",
+   "license": "Public domain",
+   "date": "1964",
+   "desc": "Agustín M. Cejas (left) and Amadeo Carrizo, Argentine goalkeepers."
+  }
+ ],
+ "log": [
+  "dl fail File:Luis Gallo, Amadeo Carrizo, Miguel Marín 1966.jpg: HTTP Error 429: Too Many Requests",
+  "dl fail File:Carrizo river figurita 1958.jpg: HTTP Error 429: Too Many Requests",
+  "dl fail File:Carrizo yashin saludo.jpg: HTTP Error 429: Too Many Requests",
+  "dl fail File:Amadeo Carrizo (cropped).jpg: HTTP Error 429: Too many requests (f061ab2)"
+ ],
+ "candidates": 17
+}

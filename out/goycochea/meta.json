@@ -1,0 +1,65 @@
+{
+ "id": "goycochea",
+ "items": [
+  {
+   "f": "w1.jpg",
+   "file": "File:Goycochea tv host 2015.jpg",
+   "kind": "search",
+   "orig": [
+    1248,
+    1492
+   ],
+   "size": [
+    920,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Goycochea_tv_host_2015.jpg",
+   "artist": "Prensa TV Pública Argentina",
+   "license": "CC BY 2.0",
+   "date": "2015-07-05 15:54:13",
+   "desc": "Sergio Goycochea in the Argentine TV"
+  },
+  {
+   "f": "w2.jpg",
+   "file": "File:Sergio Goycochea (1).jpg",
+   "kind": "search",
+   "orig": [
+    3504,
+    2336
+   ],
+   "size": [
+    960,
+    640
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Sergio_Goycochea_(1).jpg",
+   "artist": "Tecnópolis  Argentina",
+   "license": "CC BY 2.0",
+   "date": "2011-07-19 17:20:37",
+   "desc": "Sergio Goycochea"
+  },
+  {
+   "f": "w3.jpg",
+   "file": "File:Sergio Goycochea.jpg",
+   "kind": "search",
+   "orig": [
+    2088,
+    2312
+   ],
+   "size": [
+    960,
+    1063
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Sergio_Goycochea.jpg",
+   "artist": "Tecnópolis  Argentina",
+   "license": "CC BY 2.0",
+   "date": "2011-07-19 17:20:37",
+   "desc": "Sergio Goycochea"
+  }
+ ],
+ "log": [
+  "api fail es:Sergio Goycochea HTTP Error 429: Too Many Requests",
+  "api fail en:Sergio Goycochea HTTP Error 429: Too Many Requests",
+  "dl fail File:ANDRES FELIPE CASTILLO HENAO Y SERGIO GOYCOCHEA.jpg: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+ ],
+ "candidates": 4
+}

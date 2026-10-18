@@ -1,0 +1,10 @@
+{
+ "id": "chilavert",
+ "items": [],
+ "log": [
+  "api fail es:José Luis Chilavert HTTP Error 429: Too Many Requests",
+  "api fail en:José Luis Chilavert HTTP Error 429: Too Many Requests",
+  "search fail \"José Luis Chilavert\" HTTP Error 429: Too Many Requests"
+ ],
+ "candidates": 0
+}
