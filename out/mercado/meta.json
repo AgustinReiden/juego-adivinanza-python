@@ -1,0 +1,95 @@
+{
+ "id": "mercado",
+ "items": [
+  {
+   "f": "w1.jpg",
+   "file": "File:FRA-ARG_(16)_(cropped).jpg",
+   "kind": "lead",
+   "orig": [
+    193,
+    315
+   ],
+   "size": [
+    193,
+    315
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:FRA-ARG_(16)_(cropped).jpg",
+   "artist": "Антон Зайцев",
+   "license": "CC BY-SA 3.0",
+   "date": "2018-07-02 22:33:14",
+   "desc": "Gabriel Mercado"
+  },
+  {
+   "f": "w2.jpg",
+   "file": "File:Gabriel Mercado.jpg",
+   "kind": "search",
+   "orig": [
+    476,
+    564
+   ],
+   "size": [
+    476,
+    564
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Gabriel_Mercado.jpg",
+   "artist": "Agencia de Noticias ANDES",
+   "license": "CC BY-SA 2.0",
+   "date": "2016-04-28 19:32",
+   "desc": "Gabriel Mercado"
+  },
+  {
+   "f": "d1.jpg",
+   "url": "https://c8.alamy.com/comp/2D6121C/argentinas-gabriel-mercado-2D6121C.jpg",
+   "page": "https://www.alamy.com/argentinas-gabriel-mercado-image382339592.html",
+   "q": "Gabriel Mercado selección argentina",
+   "size": [
+    871,
+    1100
+   ]
+  },
+  {
+   "f": "d2.jpg",
+   "url": "https://images.clarin.com/2018/06/12/H1HIggAlm_720x0__1.jpg",
+   "page": "https://agenciafe.com/nota/296747-Las-fotos-oficiales-de-los-23-jugadores-de-la-Seleccin-Argentina",
+   "q": "Gabriel Mercado selección argentina",
+   "size": [
+    720,
+    720
+   ]
+  },
+  {
+   "f": "d3.jpg",
+   "url": "https://lu17.com/download/multimedia.normal.8279348b96c14aa1.VEwyQ0pDTkZXNUdaVkRTTEo2NklCUE0zR01fbm9ybWFsLndlYnA=.webp",
+   "page": "https://lu17.com/contenido/54938/hoy-cumple-anos-el-madrynense-gabriel-mercado",
+   "q": "Gabriel Mercado selección argentina",
+   "size": [
+    474,
+    255
+   ]
+  },
+  {
+   "f": "d4.jpg",
+   "url": "https://tn.com.ar/resizer/v2/seleccion-argentina-gabriel-mercado-metio-sin-querer-el-2-1-ante-francia-RAJ7I4J4SXFSNHKQVYCPL7CCUA.jpg?auth=6a21337c803417ea09f93f93f27aefecbd74a1b67b2796a62ce830b9f97bbfe2&width=767",
+   "page": "https://tn.com.ar/deportes/seleccion-argentina/seleccion-argentina-gabriel-mercado-metio-sin-querer-el-2-1-ante-francia_879441/",
+   "q": "Gabriel Mercado selección argentina",
+   "size": [
+    767,
+    430
+   ]
+  },
+  {
+   "f": "d5.jpg",
+   "url": "https://media.gettyimages.com/id/694066880/photo/gabriel-mercado-of-argentina-celebrates-after-scoring-a-goal-during-the-brazil-global-tour.jpg?s=612x612&w=gi&k=20&c=6DK2un8ewdCWl3z707-Fi4YIC6_CVB472VKzHB8M0b8=",
+   "page": "https://www.gettyimages.ie/photos/gabriel-mercado",
+   "q": "Gabriel Mercado selección argentina",
+   "size": [
+    457,
+    612
+   ]
+  }
+ ],
+ "log": [
+  "ddgs[auto] Gabriel Mercado selección argentina: 15 results; first=[\"Argentina's Gabriel Mercado Stock Photo \", 'Las fotos oficiales de los 23 jugadores ', 'HOY CUMPLE AÑOS EL MADRYNENSE GABRIEL ME']"
+ ],
+ "candidates": 2
+}

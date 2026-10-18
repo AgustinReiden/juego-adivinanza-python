@@ -1,1 +1,1 @@
-done 02:23:30 {"sorin": 8, "redondo": 8, "ayala": 8}
+done 02:27:00 {"mercado": 7}
