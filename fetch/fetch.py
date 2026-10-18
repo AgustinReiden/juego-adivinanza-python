@@ -150,7 +150,7 @@ def bing(q, k, log):
         log.append(f"ddgs import fail {e}")
         return []
     out = []
-    for backend in ("duckduckgo", "auto"):
+    for backend in ("auto", "bing"):
         try:
             res = DDGS(timeout=20).images(q, region="ar-es", safesearch="moderate", max_results=k * 3, backend=backend)
             out = [(r.get("image"), r.get("thumbnail"), r.get("url")) for r in res if r.get("image")]
@@ -221,10 +221,11 @@ def run_job(job, root):
                          "desc": re.sub("<[^>]+>", "", em.get("ImageDescription", {}).get("value", ""))[:200]})
         except Exception as e:
             log.append(f"dl fail {t}: {e}")
-    nb = 0
+    nb = len([f for f in os.listdir(d) if f.startswith("d") and f.endswith(".jpg")])
+    nb0 = nb
     for q in job.get("bing", []):
         for murl, turl, purl in bing(q, job.get("bing_k", 6), log):
-            if nb >= job.get("bing_k", 6) * len(job.get("bing", [])):
+            if nb - nb0 >= job.get("bing_k", 6) * len(job.get("bing", [])):
                 break
             raw = None
             for u in (murl, turl):
