@@ -1,8 +1,69 @@
 {
  "id": "sensini",
- "items": [],
+ "items": [
+  {
+   "f": "b1.jpg",
+   "url": "https://m.media-amazon.com/images/I/91peaFO6O3L._AC_SL1500_.jpg",
+   "page": "https://www.amazon.com/homewill-Area-Rug-Living-Room/dp/B0DRFRVKHF",
+   "q": "Roberto Sensini Argentina 1990",
+   "size": [
+    1100,
+    1100
+   ]
+  },
+  {
+   "f": "b2.jpg",
+   "url": "https://m.media-amazon.com/images/I/91GSr1-6sxL.jpg",
+   "page": "https://www.bidfta.com/406077/item-detail/31578716",
+   "q": "Roberto Sensini Argentina 1990",
+   "size": [
+    1100,
+    1100
+   ]
+  },
+  {
+   "f": "b3.jpg",
+   "url": "https://m.media-amazon.com/images/I/91lN035cnsL._AC_SL1500_.jpg",
+   "page": "https://www.amazon.com/Area-Rug-Living-Room-Rugs/dp/B0DLP5MCNF",
+   "q": "Roberto Sensini Argentina 1990",
+   "size": [
+    1100,
+    1100
+   ]
+  },
+  {
+   "f": "b4.jpg",
+   "url": "https://i5.walmartimages.com/seo/9x12-Modern-Multi-Color-Large-Area-Rugs-Living-Room-Bedroom-Rug-Dining-Indoor-Entry-Entryway-Kitchen-Alfombras-para-Salas-8-10-x-12-2_eedc16ba-176d-476a-9727-b186c695ae8e.53711ba483629b6ceabdef4777607cb0.jpeg",
+   "page": "https://www.walmart.com/ip/seort/634987875",
+   "q": "Roberto Sensini Argentina 1990",
+   "size": [
+    1100,
+    1100
+   ]
+  },
+  {
+   "f": "b5.jpg",
+   "url": "https://i5.walmartimages.com/seo/Ofoor-Area-Rugs-for-Living-Room-9-x12-Washable-Rugs-Retro-Large-Area-Rug-Modern-for-Home-Decor-Foldable-Nonslip-Bedroom-Rugs-Gray-Blue_b38a87b6-f6ac-4204-8f97-96527549d3b9.5994628a8053411e377580cdfb000d5a.jpeg",
+   "page": "https://www.walmart.com/ip/Ofoor-Area-Rugs-for-Living-Room-9-x12-Washable-Rugs-Retro-Large-Area-Rug-Modern-for-Home-Decor-Foldable-Nonslip-Bedroom-Rugs-Gray-Blue/5326017901",
+   "q": "Roberto Sensini Argentina 1990",
+   "size": [
+    1100,
+    1100
+   ]
+  },
+  {
+   "f": "b6.jpg",
+   "url": "https://m.media-amazon.com/images/I/91vfXL1+dbL._AC_.jpg",
+   "page": "https://www.amazon.com/Area-Rug-Living-Room-Rugs/dp/B0CYT93FBM",
+   "q": "Roberto Sensini Argentina 1990",
+   "size": [
+    1100,
+    1100
+   ]
+  }
+ ],
  "log": [
-  "missing es:Néstor Sensini"
+  "bing Roberto Sensini Argentina 1990: 12 results"
  ],
  "candidates": 1
 }
