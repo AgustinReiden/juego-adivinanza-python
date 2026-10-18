@@ -93,24 +93,6 @@
   },
   {
    "f": "w6.jpg",
-   "file": "File:Amadeo carrizo figurita 1965.jpg",
-   "kind": "search",
-   "orig": [
-    400,
-    400
-   ],
-   "size": [
-    400,
-    400
-   ],
-   "page": "https://commons.wikimedia.org/wiki/File:Amadeo_carrizo_figurita_1965.jpg",
-   "artist": "Unknown authorUnknown author",
-   "license": "Public domain",
-   "date": "1965",
-   "desc": "Amadeo card"
-  },
-  {
-   "f": "w7.jpg",
    "file": "File:Amadeo carrizo figurita fulbito.jpg",
    "kind": "search",
    "orig": [
@@ -126,31 +108,8 @@
    "license": "Public domain",
    "date": "1959",
    "desc": "Amadeo"
-  },
-  {
-   "f": "w8.jpg",
-   "file": "File:Agustin cejas y amadeo carrizo.jpg",
-   "kind": "search",
-   "orig": [
-    619,
-    900
-   ],
-   "size": [
-    619,
-    900
-   ],
-   "page": "https://commons.wikimedia.org/wiki/File:Agustin_cejas_y_amadeo_carrizo.jpg",
-   "artist": "Unknown authorUnknown author",
-   "license": "Public domain",
-   "date": "1964",
-   "desc": "Agustín M. Cejas (left) and Amadeo Carrizo, Argentine goalkeepers."
   }
  ],
- "log": [
-  "dl fail File:Luis Gallo, Amadeo Carrizo, Miguel Marín 1966.jpg: HTTP Error 429: Too Many Requests",
-  "dl fail File:Carrizo river figurita 1958.jpg: HTTP Error 429: Too Many Requests",
-  "dl fail File:Carrizo yashin saludo.jpg: HTTP Error 429: Too Many Requests",
-  "dl fail File:Amadeo Carrizo (cropped).jpg: HTTP Error 429: Too many requests (f061ab2)"
- ],
- "candidates": 17
+ "log": [],
+ "candidates": 10
 }

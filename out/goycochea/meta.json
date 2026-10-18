@@ -3,8 +3,26 @@
  "items": [
   {
    "f": "w1.jpg",
-   "file": "File:Goycochea tv host 2015.jpg",
-   "kind": "search",
+   "file": "File:Premios_Martín_Fierro_Federal_-_Sheraton_Hotel_~_San_Miguel_de_Tucumán,_Argentina_(sábado_12_de_abril_de_2025)_(76366).jpg",
+   "kind": "lead",
+   "orig": [
+    1066,
+    1600
+   ],
+   "size": [
+    733,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Premios_Mart%C3%ADn_Fierro_Federal_-_Sheraton_Hotel_~_San_Miguel_de_Tucum%C3%A1n,_Argentina_(s%C3%A1bado_12_de_abril_de_2025)_(76366).jpg",
+   "artist": "Tubby3",
+   "license": "CC BY-SA 4.0",
+   "date": "2025-04-12",
+   "desc": "Premios Martín Fierro Federal - Sheraton Hotel, San Miguel de Tucumán, Argentina (sábado 12 de abril de 2025)."
+  },
+  {
+   "f": "w2.jpg",
+   "file": "File:Goycochea_tv_host_2015.jpg",
+   "kind": "lead",
    "orig": [
     1248,
     1492
@@ -18,24 +36,6 @@
    "license": "CC BY 2.0",
    "date": "2015-07-05 15:54:13",
    "desc": "Sergio Goycochea in the Argentine TV"
-  },
-  {
-   "f": "w2.jpg",
-   "file": "File:Sergio Goycochea (1).jpg",
-   "kind": "search",
-   "orig": [
-    3504,
-    2336
-   ],
-   "size": [
-    960,
-    640
-   ],
-   "page": "https://commons.wikimedia.org/wiki/File:Sergio_Goycochea_(1).jpg",
-   "artist": "Tecnópolis  Argentina",
-   "license": "CC BY 2.0",
-   "date": "2011-07-19 17:20:37",
-   "desc": "Sergio Goycochea"
   },
   {
    "f": "w3.jpg",
@@ -54,12 +54,26 @@
    "license": "CC BY 2.0",
    "date": "2011-07-19 17:20:37",
    "desc": "Sergio Goycochea"
+  },
+  {
+   "f": "w4.jpg",
+   "file": "File:Sergio Goycochea (1).jpg",
+   "kind": "search",
+   "orig": [
+    3504,
+    2336
+   ],
+   "size": [
+    960,
+    640
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Sergio_Goycochea_(1).jpg",
+   "artist": "Tecnópolis  Argentina",
+   "license": "CC BY 2.0",
+   "date": "2011-07-19 17:20:37",
+   "desc": "Sergio Goycochea"
   }
  ],
- "log": [
-  "api fail es:Sergio Goycochea HTTP Error 429: Too Many Requests",
-  "api fail en:Sergio Goycochea HTTP Error 429: Too Many Requests",
-  "dl fail File:ANDRES FELIPE CASTILLO HENAO Y SERGIO GOYCOCHEA.jpg: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
- ],
+ "log": [],
  "candidates": 4
 }

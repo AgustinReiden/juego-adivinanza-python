@@ -1,10 +1,115 @@
 {
  "id": "dibu",
- "items": [],
- "log": [
-  "api fail es:Emiliano Martínez HTTP Error 429: Too Many Requests",
-  "api fail en:Emiliano Martínez HTTP Error 429: Too Many Requests",
-  "search fail \"Emiliano Martínez\" HTTP Error 429: Too Many Requests"
+ "items": [
+  {
+   "f": "w1.jpg",
+   "file": "File:Emiliano_Martinez_Argentina_v_Egypt_7_July_2026-093_(cropped).jpg",
+   "kind": "lead",
+   "orig": [
+    2239,
+    2915
+   ],
+   "size": [
+    845,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Emiliano_Martinez_Argentina_v_Egypt_7_July_2026-093_(cropped).jpg",
+   "artist": "Bryan Berlin",
+   "license": "CC BY-SA 4.0",
+   "date": "2026-07-07 11:56:33",
+   "desc": "Emiliano Martinez during Argentina v Egypt at the 2026 FIFA World Cup"
+  },
+  {
+   "f": "w2.jpg",
+   "file": "Archivo:1 Emiliano Martínez 2018 (cropped).jpg",
+   "kind": "page",
+   "orig": [
+    1092,
+    1468
+   ],
+   "size": [
+    818,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:1_Emiliano_Mart%C3%ADnez_2018_(cropped).jpg",
+   "artist": "Chensiyuan",
+   "license": "CC BY-SA 4.0",
+   "date": "2018-07-28 20:35:59",
+   "desc": "Emiliano Martínez Arsenal v PSG 2018 International Champions Cup Singapore National Stadium"
+  },
+  {
+   "f": "w3.jpg",
+   "file": "Archivo:Argentina vs mexico atajada dibu.jpg",
+   "kind": "page",
+   "orig": [
+    800,
+    532
+   ],
+   "size": [
+    800,
+    532
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Argentina_vs_mexico_atajada_dibu.jpg",
+   "artist": "Hossein Zohrevand",
+   "license": "CC BY 4.0",
+   "date": "2022-11-26",
+   "desc": "Argentina (2) v Mexico (0)"
+  },
+  {
+   "f": "w4.jpg",
+   "file": "Archivo:Dibu Martínez - ARG v CAN - 2024-07-09 (cropped).jpg",
+   "kind": "page",
+   "orig": [
+    517,
+    689
+   ],
+   "size": [
+    517,
+    689
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Dibu_Mart%C3%ADnez_-_ARG_v_CAN_-_2024-07-09_(cropped).jpg",
+   "artist": "Sebas",
+   "license": "CC BY 3.0",
+   "date": "Tomada el<span typeof=\"mw:Entity\"> </spa",
+   "desc": "Dibu Martínez, guardameta de Argetina, ante Canadá en las semifinales de la Copa América 2024."
+  },
+  {
+   "f": "w5.jpg",
+   "file": "File:Emiliano_Martinez_Argentina_v_Spain_19_July_2026-269.jpg",
+   "kind": "lead",
+   "orig": [
+    3333,
+    5000
+   ],
+   "size": [
+    733,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Emiliano_Martinez_Argentina_v_Spain_19_July_2026-269.jpg",
+   "artist": "Bryan Berlin",
+   "license": "CC BY-SA 4.0",
+   "date": "2026-07-19 18:21:53",
+   "desc": "Emiliano Martinez during Argentina vs Spain at the 2026 FIFA World Cup Final"
+  },
+  {
+   "f": "w6.jpg",
+   "file": "File:Emiliano Martínez vs Colombia, 1-2-2022.jpg",
+   "kind": "page",
+   "orig": [
+    471,
+    530
+   ],
+   "size": [
+    471,
+    530
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Emiliano_Mart%C3%ADnez_vs_Colombia,_1-2-2022.jpg",
+   "artist": "jmmuguerza",
+   "license": "CC BY-SA 3.0",
+   "date": "2022-02-01",
+   "desc": "Argentina 1 - Colombia 0. Eliminatorias para el Mundial de Qatar 2022. Estadio Mario Alberto Kempes, Córdoba, Argentina"
+  }
  ],
- "candidates": 0
+ "log": [],
+ "candidates": 10
 }
