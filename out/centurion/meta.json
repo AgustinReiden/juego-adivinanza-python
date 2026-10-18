@@ -2,40 +2,27 @@
  "id": "centurion",
  "items": [
   {
-   "f": "w1.jpg",
-   "file": "File:RicardoCenturion.jpg",
-   "kind": "lead",
-   "orig": [
-    951,
-    883
-   ],
+   "f": "b1.jpg",
+   "url": "https://www.hiveworkshop.com/data/xfmg/thumbnail/44/44234-5987be7070e341817e30f92ab237e66b.jpg?1615551865",
+   "page": "https://www.hiveworkshop.com/media/blood-knight-tabard.44234/",
+   "q": "Ricardo Centurión fiesta video",
    "size": [
-    951,
-    883
-   ],
-   "page": "https://commons.wikimedia.org/wiki/File:RicardoCenturion.jpg",
-   "artist": "Presidencia de la Nación",
-   "license": "CC BY-SA 2.0",
-   "date": "2014-12-16",
-   "desc": "La presidenta Cristina Fernández recibe al plantel de Racing, ganador de la temporada."
-  },
-  {
-   "f": "u1.jpg",
-   "url": "https://cdn.diariojornada.com.ar/imagenes/2017/2/15/79482F636656684378335141687771623662566951673D3D.jpg",
-   "size": [
-    960,
-    541
+    300,
+    300
    ]
   },
   {
    "f": "u2.jpg",
-   "url": "https://www.ellitoral.com/images/2022/05/05/JyW8Y1kiR_1300x655__1.jpg",
+   "url": "http://storage.lacapitalmdp.com/2017/02/centu.jpg",
    "size": [
-    1100,
-    554
+    720,
+    403
    ]
   }
  ],
- "log": [],
- "candidates": 1
+ "log": [
+  "bing Ricardo Centurión fiesta video: 1 results",
+  "url fail https://elgrafico.com.ar/media/cache/pub_news_details_large/media/i/7b/6a/7b6a9705e22b65bcdab5e9e90229134c0e68879c.jpg: HTTP Error 521: <none>"
+ ],
+ "candidates": 0
 }
