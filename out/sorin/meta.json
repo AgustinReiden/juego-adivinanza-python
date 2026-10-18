@@ -2,68 +2,69 @@
  "id": "sorin",
  "items": [
   {
-   "f": "b1.jpg",
-   "url": "https://minenito.com/wp-content/uploads/2024/05/minenito-ninos-j-18.webp",
-   "page": "https://minenito.com/nombres/ninos/juan/",
-   "q": "Juan Pablo Sorín selección argentina",
+   "f": "d1.jpg",
+   "url": "https://recipecakes.com/wp-content/uploads/2025/07/Ultimate_BBQ_Meat_Platter__Smoky_Juicy__Loaded_1.png",
+   "page": "https://recipecakes.com/ultimate-bbq-meat-platter-smoky-juicy-irresistible/",
+   "q": "Juan Pablo Sorín futbolista selección argentina",
    "size": [
     1024,
     1024
    ]
   },
   {
-   "f": "b2.jpg",
-   "url": "https://i.pinimg.com/originals/bd/af/2b/bdaf2b04bcdca2c890f83b9b50e1a6a7.jpg",
-   "page": "https://storage.googleapis.com/gtsqmvkuavgva/de-donde-viene-el-nombre-juan.html",
-   "q": "Juan Pablo Sorín selección argentina",
+   "f": "d2.jpg",
+   "url": "https://i.pinimg.com/originals/ff/fd/28/fffd280026a1c8229e5f50f62c7d9649.png",
+   "page": "https://in.pinterest.com/pin/ultimate-bbq-meat-platter-a-grillers-dream-feast-in-2025--374572894026471836/",
+   "q": "Juan Pablo Sorín futbolista selección argentina",
+   "size": [
+    629,
+    1100
+   ]
+  },
+  {
+   "f": "d3.jpg",
+   "url": "https://recipecakes.com/wp-content/uploads/2025/07/Ultimate_BBQ_Meat_Platter__Smoky_Juicy__Loaded_2.png",
+   "page": "https://recipecakes.com/ultimate-bbq-meat-platter-smoky-juicy-irresistible/",
+   "q": "Juan Pablo Sorín futbolista selección argentina",
+   "size": [
+    1024,
+    1024
+   ]
+  },
+  {
+   "f": "d4.jpg",
+   "url": "https://grillerhood.com/wp-content/uploads/2025/06/2_meat-platter-ideas-bbq.webp",
+   "page": "https://grillerhood.com/meat-platter-ideas-bbq/",
+   "q": "Juan Pablo Sorín futbolista selección argentina",
    "size": [
     1100,
-    825
+    629
    ]
   },
   {
-   "f": "b3.jpg",
-   "url": "https://img.freepik.com/premium-vector/juan-name-logo-design-juan-name-elegant-font-gold-crown-with-feather-vector-format_1075459-4715.jpg?w=2000",
-   "page": "https://veri-art.net/juan-soto-coloring-page/",
-   "q": "Juan Pablo Sorín selección argentina",
+   "f": "d5.jpg",
+   "url": "https://i.pinimg.com/originals/b6/a4/91/b6a49106cbaf5ab4925623584350e1dc.jpg",
+   "page": "https://storage.googleapis.com/djskuhchyrolie/bbq-platters-ideas.html",
+   "q": "Juan Pablo Sorín futbolista selección argentina",
    "size": [
-    1100,
-    825
+    1084,
+    1084
    ]
   },
   {
-   "f": "b4.jpg",
-   "url": "https://i.ytimg.com/vi/cXIABzT-5hc/maxresdefault.jpg",
-   "page": "https://flsoo.moonlakefarm.com/significado-de-juan-de-dios-juan-significado-biblico-y-origen-de-este-nombre-en-la-biblia/",
-   "q": "Juan Pablo Sorín selección argentina",
+   "f": "d6.jpg",
+   "url": "https://i.pinimg.com/originals/a5/55/07/a55507842f976b00bbe74b45ba4f4e26.jpg",
+   "page": "https://www.pinterest.com/pin/477240891764305309/",
+   "q": "Juan Pablo Sorín futbolista selección argentina",
    "size": [
-    1100,
-    619
-   ]
-  },
-  {
-   "f": "b5.jpg",
-   "url": "https://w0.peakpx.com/wallpaper/230/235/HD-wallpaper-juan-blue-lines-background-with-names-juan-name-male-names-juan-greeting-card-line-art-with-juan-name.jpg",
-   "page": "https://storage.googleapis.com/dufrhmtscumcqe/name-for-boy-juan.html",
-   "q": "Juan Pablo Sorín selección argentina",
-   "size": [
-    474,
-    296
-   ]
-  },
-  {
-   "f": "b6.jpg",
-   "url": "https://i.pinimg.com/originals/3a/f3/b8/3af3b86a5cdf71112f38d212ab099c64.jpg",
-   "page": "https://fity.club/lists/suggestions/significado-del-nombre-juan/",
-   "q": "Juan Pablo Sorín selección argentina",
-   "size": [
-    538,
-    700
+    777,
+    960
    ]
   }
  ],
  "log": [
-  "bing Juan Pablo Sorín selección argentina: 12 results"
+  "ddgs[duckduckgo] fail Juan Pablo Sorín futbolista selección argentina: RequestError: RequestError('error sending request for url (https://duckduckgo.com/?q=Juan+Pablo+Sor%C3%ADn+futbolista+selecci%C3%B3n+argentina) > user error: malformed headers')",
+  "ddgs[auto] Juan Pablo Sorín futbolista selección argentina: 18 results; first=['Ultimate BBQ Meat Platter: Smoky, Juicy ', 'Pin by La Vay Ullie on Influencers Style', 'Ultimate BBQ Meat Platter: Smoky, Juicy ']"
  ],
- "candidates": 1
+ "candidates": 0
 }

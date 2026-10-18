@@ -2,18 +2,69 @@
  "id": "schiavi",
  "items": [
   {
-   "f": "b1.jpg",
-   "url": "https://66.media.tumblr.com/58a328cabb807c644c6adf85ea9b1d8f/tumblr_ojes5fLvyU1w26636o1_640.jpg",
-   "page": "https://laatihmoll.tumblr.com/post/155524485673/the-ddlg-agreement-made-by-me-a-long-time-ago",
-   "q": "Rolando Schiavi Boca Juniors",
+   "f": "d1.jpg",
+   "url": "https://a.ltrbxd.com/resized/film-poster/1/1/8/5/0/2/2/1185022-practical-magic-2-0-230-0-345-crop.jpg?v=459d03483e",
+   "page": "https://letterboxd.com/film/practical-magic-2/",
+   "q": "Rolando Schiavi futbolista Boca Juniors",
    "size": [
-    640,
-    931
+    230,
+    345
+   ]
+  },
+  {
+   "f": "d2.jpg",
+   "url": "https://i.ebayimg.com/images/g/aJcAAOSwfdhePFYh/s-l400.jpg",
+   "page": "https://www.ebay.com/itm/223896333545",
+   "q": "Rolando Schiavi futbolista Boca Juniors",
+   "size": [
+    279,
+    400
+   ]
+  },
+  {
+   "f": "d3.jpg",
+   "url": "https://images.justwatch.com/poster/338804598/s166/practical-magic-2.jpg",
+   "page": "https://www.justwatch.com/us/movie/practical-magic-2",
+   "q": "Rolando Schiavi futbolista Boca Juniors",
+   "size": [
+    166,
+    236
+   ]
+  },
+  {
+   "f": "d4.jpg",
+   "url": "https://www.seekertune.com/cdn-cgi/image/w=280,format=webp/https://images.seekertune.com/movies/posters/practical-magic-2-2026.webp",
+   "page": "https://www.seekertune.com/movies/practical-magic-2-2026/",
+   "q": "Rolando Schiavi futbolista Boca Juniors",
+   "size": [
+    280,
+    420
+   ]
+  },
+  {
+   "f": "d5.jpg",
+   "url": "https://www.movieinsider.com/images/practical-magic-2/placeholders/m23002_200x300_c99232828b4fa44adffe6cec5a140dcfe10a0506.png",
+   "page": "https://www.movieinsider.com/m23002/practical-magic-2",
+   "q": "Rolando Schiavi futbolista Boca Juniors",
+   "size": [
+    200,
+    300
+   ]
+  },
+  {
+   "f": "d6.jpg",
+   "url": "https://i.ebayimg.com/images/g/4~IAAOSwCphmTo20/s-l400.jpg",
+   "page": "https://www.ebay.com/itm/315386190041",
+   "q": "Rolando Schiavi futbolista Boca Juniors",
+   "size": [
+    300,
+    400
    ]
   }
  ],
  "log": [
-  "bing Rolando Schiavi Boca Juniors: 1 results"
+  "ddgs[duckduckgo] fail Rolando Schiavi futbolista Boca Juniors: RequestError: RequestError('error sending request for url (https://duckduckgo.com/?q=Rolando+Schiavi+futbolista+Boca+Juniors) > user error: malformed headers')",
+  "ddgs[auto] Rolando Schiavi futbolista Boca Juniors: 18 results; first=['Practical Magic 2 (2026) directed by Sus', 'Practical Magic MAGNET 2\"x3\" Refrigerato', 'Practical Magic 2 streaming: where to wa']"
  ],
  "candidates": 0
 }

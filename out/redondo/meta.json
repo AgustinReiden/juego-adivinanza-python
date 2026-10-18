@@ -2,68 +2,69 @@
  "id": "redondo",
  "items": [
   {
-   "f": "b1.jpg",
-   "url": "https://www.inspiredspaces.com.au/wp-content/uploads/color-wheel-1364825482ggt-1.jpg",
-   "page": "https://ar.inspiredpencil.com/pictures-2023/color-wheel-complementary-colors-interior-design",
-   "q": "Fernando Redondo Real Madrid jugador",
+   "f": "d1.jpg",
+   "url": "https://pbs.twimg.com/media/CCIRamZUgAAxw8F.png",
+   "page": "https://fity.club/lists/suggestions/hadouken-vs-rasengan/",
+   "q": "Fernando Redondo futbolista Real Madrid",
+   "size": [
+    600,
+    598
+   ]
+  },
+  {
+   "f": "d2.jpg",
+   "url": "https://sportshub.cbsistatic.com/i/2021/09/15/895658f0-b76e-411a-9217-6e26cb97df9a/reincarnated-as-a-slime-season-2-veldora-kamehameha-hadouken-dragon-ball-street-fighter.jpg",
+   "page": "https://ar.inspiredpencil.com/pictures-2023/hadouken-vs-kamehameha",
+   "q": "Fernando Redondo futbolista Real Madrid",
    "size": [
     1100,
-    1030
+    576
    ]
   },
   {
-   "f": "b2.jpg",
-   "url": "https://image.wordlayouts.com/wp-content/uploads/2024/11/color-wheel-chart-01-10-86eqgvhj9-colored-1.png?strip=all&lossy=0&quality=90&webp=90&sharp=1&w=1152&ssl=1",
-   "page": "https://www.wordlayouts.com/template/color-theory-wheel-chart/",
-   "q": "Fernando Redondo Real Madrid jugador",
+   "f": "d3.jpg",
+   "url": "https://cdn.openart.ai/stable_diffusion/93ab7197f71e4eb9c66ae52922601901c82bfd14_2000x2000.webp",
+   "page": "https://ar.inspiredpencil.com/pictures-2023/hadouken-vs-kamehameha",
+   "q": "Fernando Redondo futbolista Real Madrid",
    "size": [
-    850,
-    1100
+    474,
+    237
    ]
   },
   {
-   "f": "b3.jpg",
-   "url": "https://www.toutes-les-couleurs.com/en/images/color-wheel.webp",
-   "page": "https://storage.googleapis.com/gq8b6cjrcuh4/fantasy-color-wheel.html",
-   "q": "Fernando Redondo Real Madrid jugador",
+   "f": "d4.jpg",
+   "url": "https://i.kym-cdn.com/photos/images/original/000/542/428/d23.jpg",
+   "page": "https://ar.inspiredpencil.com/pictures-2023/hadouken-vs-kamehameha",
+   "q": "Fernando Redondo futbolista Real Madrid",
    "size": [
-    1024,
-    1024
+    709,
+    499
    ]
   },
   {
-   "f": "b4.jpg",
-   "url": "https://i.pinimg.com/originals/a9/7e/48/a97e4821d393dbd987f73171ad2bea51.png",
-   "page": "https://www.pinterest.com/pin/12-colors-on-wheel-explained--1004584260612240269/",
-   "q": "Fernando Redondo Real Madrid jugador",
-   "size": [
-    1000,
-    1000
-   ]
-  },
-  {
-   "f": "b5.jpg",
-   "url": "https://weallsew.com/wp-content/uploads/sites/4/2017/02/Color-Wheel-Basics-Full-RYB-color-wheel.jpg",
-   "page": "https://weallsew.com/color-wheel-basics/",
-   "q": "Fernando Redondo Real Madrid jugador",
+   "f": "d5.jpg",
+   "url": "https://i.pinimg.com/originals/93/49/a3/9349a3eefadd229d6c9ab77506946a06.jpg",
+   "page": "https://ar.inspiredpencil.com/pictures-2023/kamehameha-vs-hadouken",
+   "q": "Fernando Redondo futbolista Real Madrid",
    "size": [
     1100,
-    1100
+    778
    ]
   },
   {
-   "f": "b6.jpg",
-   "url": "https://image.wordlayouts.com/wp-content/uploads/2024/06/color-wheel-chart-05-86ep9wn85-01.png?strip=all&lossy=0&quality=90&webp=90&sharp=1&w=1152&ssl=1",
-   "page": "https://www.wordlayouts.com/template/tri-model-color-wheel-chart/",
-   "q": "Fernando Redondo Real Madrid jugador",
+   "f": "d6.jpg",
+   "url": "https://64.media.tumblr.com/tumblr_maw2vnMJSf1qh9vsio1_1280.jpg",
+   "page": "https://superjohnnyworld.tumblr.com/post/32248892527/kamehameha-vs-hadouken",
+   "q": "Fernando Redondo futbolista Real Madrid",
    "size": [
-    850,
-    1100
+    900,
+    635
    ]
   }
  ],
  "log": [
-  "bing Fernando Redondo Real Madrid jugador: 12 results"
+  "ddgs[duckduckgo] fail Fernando Redondo futbolista Real Madrid: RequestError: RequestError('error sending request for url (https://duckduckgo.com/?q=Fernando+Redondo+futbolista+Real+Madrid) > user error: malformed headers')",
+  "ddgs[auto] Fernando Redondo futbolista Real Madrid: 18 results; first=['Hadouken Vs Rasengan Naruto Hadouken By ', 'Hadouken Vs Kamehameha', 'Hadouken Vs Kamehameha']"
  ],
  "candidates": 0
 }
