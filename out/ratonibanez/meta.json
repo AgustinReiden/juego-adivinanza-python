@@ -1,0 +1,49 @@
+{
+ "id": "ratonibanez",
+ "items": [
+  {
+   "f": "w1.jpg",
+   "file": "File:Gustavo Ibáñez Rondizzoni.jpg",
+   "kind": "search",
+   "orig": [
+    2303,
+    2689
+   ],
+   "size": [
+    942,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Gustavo_Ib%C3%A1%C3%B1ez_Rondizzoni.jpg",
+   "artist": "Socialmediacgr",
+   "license": "CC0",
+   "date": "2025-02-19",
+   "desc": "Gustavo Ibáñez Rondizzoni"
+  },
+  {
+   "f": "u1.jpg",
+   "url": "https://viapais.com.ar/resizer/v2/GVQWCNJRGU4GIMJTMUZTEYJWHE.jpg",
+   "size": [
+    1100,
+    1100
+   ]
+  },
+  {
+   "f": "u2.jpg",
+   "url": "https://web-viapais.lilax.io/resizer/v2/HBSTAYJZG43DGOBVGYYDOZTFG4.jpg",
+   "size": [
+    1100,
+    841
+   ]
+  },
+  {
+   "f": "u3.jpg",
+   "url": "https://web-viapais.lilax.io/resizer/v2/GFRDCOLBMQZGCYJTMRTDSMBVGM.jpg",
+   "size": [
+    1100,
+    701
+   ]
+  }
+ ],
+ "log": [],
+ "candidates": 1
+}

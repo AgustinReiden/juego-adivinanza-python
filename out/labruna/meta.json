@@ -1,0 +1,115 @@
+{
+ "id": "labruna",
+ "items": [
+  {
+   "f": "w1.jpg",
+   "file": "File:Angel_Labruna_1940.jpg",
+   "kind": "lead",
+   "orig": [
+    1244,
+    1636
+   ],
+   "size": [
+    836,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Angel_Labruna_1940.jpg",
+   "artist": "DesconocidoUnknown author",
+   "license": "Public domain",
+   "date": "1940-09-20",
+   "desc": "River Plate left insider, Angel Labruna."
+  },
+  {
+   "f": "w2.jpg",
+   "file": "Archivo:Angel labruna 1939.jpg",
+   "kind": "page",
+   "orig": [
+    1140,
+    867
+   ],
+   "size": [
+    960,
+    730
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Angel_labruna_1939.jpg",
+   "artist": "DesconocidoUnknown author",
+   "license": "Public domain",
+   "date": "1939",
+   "desc": "A young Angel Labruna."
+  },
+  {
+   "f": "w3.jpg",
+   "file": "Archivo:Angelitolabruna.jpg",
+   "kind": "page",
+   "orig": [
+    643,
+    448
+   ],
+   "size": [
+    643,
+    448
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Angelitolabruna.jpg",
+   "artist": "DesconocidoUnknown author",
+   "license": "Public domain",
+   "date": "1953",
+   "desc": "Angel Labruna jugando un partido para River Plate ante Boca Juniors."
+  },
+  {
+   "f": "w4.jpg",
+   "file": "Archivo:Araguez vs labruna 1945.jpg",
+   "kind": "page",
+   "orig": [
+    794,
+    900
+   ],
+   "size": [
+    794,
+    900
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Araguez_vs_labruna_1945.jpg",
+   "artist": "Ricardo Alfieri",
+   "license": "Public domain",
+   "date": "1945-11-25",
+   "desc": "River (2) vs Chacarita (0), Manuel Araguez following Angel Labruna."
+  },
+  {
+   "f": "w5.jpg",
+   "file": "Archivo:Cábala de Labruna River Plate.jpg",
+   "kind": "page",
+   "orig": [
+    800,
+    557
+   ],
+   "size": [
+    800,
+    557
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:C%C3%A1bala_de_Labruna_River_Plate.jpg",
+   "artist": "Ricardo Alfieri",
+   "license": "Public domain",
+   "date": "1945",
+   "desc": "La cábala de Ángel Labruna. Antes de cada partido, luego de sacarse la foto con el equipo, tomaba la pelota y se dirigía a marcar un gol con el arco vacío."
+  },
+  {
+   "f": "w6.jpg",
+   "file": "Archivo:De la mata labruna platense.jpg",
+   "kind": "page",
+   "orig": [
+    487,
+    510
+   ],
+   "size": [
+    487,
+    510
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:De_la_mata_labruna_platense.jpg",
+   "artist": "DesconocidoUnknown author",
+   "license": "Public domain",
+   "date": "1961",
+   "desc": "Vicente de la Mata (first from left, coach) and Angel Labruna (first from right) during their tenure on C.A. Platense, the last club Labruna played for in Argentina."
+  }
+ ],
+ "log": [],
+ "candidates": 10
+}

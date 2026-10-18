@@ -1,0 +1,115 @@
+{
+ "id": "aguero",
+ "items": [
+  {
+   "f": "w1.jpg",
+   "file": "File:Agüero_in_2018.jpg",
+   "kind": "lead",
+   "orig": [
+    666,
+    1000
+   ],
+   "size": [
+    666,
+    1000
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Ag%C3%BCero_in_2018.jpg",
+   "artist": "Кирилл Венедиктов",
+   "license": "CC BY-SA 3.0",
+   "date": "2018-06-26 20:50:47",
+   "desc": "Гол Рохо в концовке выводит Аргентину в плей-офф чемпионата мира"
+  },
+  {
+   "f": "w2.jpg",
+   "file": "Archivo:2017 FRIENDLY MATCH RUSSIA v ARGENTINA - Sergio Agüero.jpg",
+   "kind": "page",
+   "orig": [
+    1384,
+    1808
+   ],
+   "size": [
+    842,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:2017_FRIENDLY_MATCH_RUSSIA_v_ARGENTINA_-_Sergio_Ag%C3%BCero.jpg",
+   "artist": "Voltmetro",
+   "license": "CC BY-SA 4.0",
+   "date": "2017-11-11 17:30:42",
+   "desc": "A friendly match between Russia and Argentina in Moscow, Luzhniki stadium, on November 11, 2017."
+  },
+  {
+   "f": "w3.jpg",
+   "file": "Archivo:Aguero Athletico.jpg",
+   "kind": "page",
+   "orig": [
+    504,
+    686
+   ],
+   "size": [
+    504,
+    686
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Aguero_Athletico.jpg",
+   "artist": "Jan S0L0",
+   "license": "CC BY-SA 3.0",
+   "date": "2012-02-19",
+   "desc": "Sergio delshad aguero playing for Athletico Madrid."
+  },
+  {
+   "f": "w4.jpg",
+   "file": "Archivo:Aguero Independiente 2005.jpg",
+   "kind": "page",
+   "orig": [
+    248,
+    583
+   ],
+   "size": [
+    248,
+    583
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Aguero_Independiente_2005.jpg",
+   "artist": "Adannoes",
+   "license": "CC BY-SA 4.0",
+   "date": "2005-01-16",
+   "desc": "Sergio Kun Agüero, Independiente. Mar del Plata, 2005."
+  },
+  {
+   "f": "w5.jpg",
+   "file": "Archivo:Kun Agüero vs West Ham.png",
+   "kind": "page",
+   "orig": [
+    1347,
+    2143
+   ],
+   "size": [
+    692,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Kun_Ag%C3%BCero_vs_West_Ham.png",
+   "artist": "joshjdss",
+   "license": "CC BY 2.0",
+   "date": "2016-01-23",
+   "desc": "Sérgio Agüero atuando contra o West Ham"
+  },
+  {
+   "f": "w6.jpg",
+   "file": "Archivo:Sergio Aguero 69784.jpg",
+   "kind": "page",
+   "orig": [
+    314,
+    521
+   ],
+   "size": [
+    314,
+    521
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Sergio_Aguero_69784.jpg",
+   "artist": "Голубович Дмитрий",
+   "license": "CC BY-SA 3.0",
+   "date": "2014-10-21",
+   "desc": "Sergio Aguero playing for Manchester City in a Champions League clash against CSKA Moscow on 21 October 2014."
+  }
+ ],
+ "log": [],
+ "candidates": 10
+}

@@ -1,0 +1,115 @@
+{
+ "id": "bianchi",
+ "items": [
+  {
+   "f": "w1.jpg",
+   "file": "File:Carlos_Bianchi_2012.jpg",
+   "kind": "lead",
+   "orig": [
+    504,
+    675
+   ],
+   "size": [
+    504,
+    675
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Carlos_Bianchi_2012.jpg",
+   "artist": "Gobierno de la Ciudad de Buenos Aires from Ciudad Autónoma de Buenos Aires, Argentina",
+   "license": "CC BY 4.0",
+   "date": "2012-12-04",
+   "desc": "Baires. Diciembre 4 de 2012. El jefe de Gobierno de la Ciudad de Buenos Aires, Mauricio Macri, participó hoy del acto en el cual la Legislatura  declaró Personalidad Destacada del Deporte al futbolist"
+  },
+  {
+   "f": "w2.jpg",
+   "file": "Archivo:Carlos Bianchi y Correa (Vélez) - El Gráfico 2793.jpg",
+   "kind": "page",
+   "orig": [
+    1525,
+    2000
+   ],
+   "size": [
+    839,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Carlos_Bianchi_y_Correa_(V%C3%A9lez)_-_El_Gr%C3%A1fico_2793.jpg",
+   "artist": "El Gráfico",
+   "license": "Public domain",
+   "date": "",
+   "desc": "El Grafico del 17 de Abril de 1973. Edicion 2793"
+  },
+  {
+   "f": "w3.jpg",
+   "file": "Archivo:Carlos bianchi panini card.jpg",
+   "kind": "page",
+   "orig": [
+    330,
+    474
+   ],
+   "size": [
+    330,
+    474
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Carlos_bianchi_panini_card.jpg",
+   "artist": "DesconocidoUnknown author",
+   "license": "Public domain",
+   "date": "1976",
+   "desc": "Bianchi in Reims, #109 card"
+  },
+  {
+   "f": "w4.jpg",
+   "file": "Archivo:Carlos bianchi psg panini.jpg",
+   "kind": "page",
+   "orig": [
+    383,
+    478
+   ],
+   "size": [
+    383,
+    478
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Carlos_bianchi_psg_panini.jpg",
+   "artist": "DesconocidoUnknown author",
+   "license": "Public domain",
+   "date": "1979",
+   "desc": "Bianchi in the PSG #254 card."
+  },
+  {
+   "f": "w5.jpg",
+   "file": "File:Bianchi_velez.jpg",
+   "kind": "lead",
+   "orig": [
+    297,
+    436
+   ],
+   "size": [
+    297,
+    436
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Bianchi_velez.jpg",
+   "artist": "Unknown authorUnknown author",
+   "license": "Public domain",
+   "date": "circa 1970<div style=\"display: none;\">da",
+   "desc": "Carlos Bianchi while playing for Vélez Sársfield."
+  },
+  {
+   "f": "w6.jpg",
+   "file": "File:Carlos bianchi reims panini.jpg",
+   "kind": "page",
+   "orig": [
+    834,
+    1200
+   ],
+   "size": [
+    764,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Carlos_bianchi_reims_panini.jpg",
+   "artist": "Unknown authorUnknown author",
+   "license": "Public domain",
+   "date": "circa 1975<div style=\"display: none;\">da",
+   "desc": "Carlos Bianchi in Reims, Panini"
+  }
+ ],
+ "log": [],
+ "candidates": 10
+}
