@@ -1,0 +1,41 @@
+{
+ "id": "centurion",
+ "items": [
+  {
+   "f": "w1.jpg",
+   "file": "File:RicardoCenturion.jpg",
+   "kind": "lead",
+   "orig": [
+    951,
+    883
+   ],
+   "size": [
+    951,
+    883
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:RicardoCenturion.jpg",
+   "artist": "Presidencia de la Nación",
+   "license": "CC BY-SA 2.0",
+   "date": "2014-12-16",
+   "desc": "La presidenta Cristina Fernández recibe al plantel de Racing, ganador de la temporada."
+  },
+  {
+   "f": "u1.jpg",
+   "url": "https://cdn.diariojornada.com.ar/imagenes/2017/2/15/79482F636656684378335141687771623662566951673D3D.jpg",
+   "size": [
+    960,
+    541
+   ]
+  },
+  {
+   "f": "u2.jpg",
+   "url": "https://www.ellitoral.com/images/2022/05/05/JyW8Y1kiR_1300x655__1.jpg",
+   "size": [
+    1100,
+    554
+   ]
+  }
+ ],
+ "log": [],
+ "candidates": 1
+}

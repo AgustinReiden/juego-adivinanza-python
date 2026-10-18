@@ -1,0 +1,115 @@
+{
+ "id": "messi",
+ "items": [
+  {
+   "f": "w1.jpg",
+   "file": "File:Leo_Messi_Argentina_v_Egypt_7_July_2026-1.jpg",
+   "kind": "lead",
+   "orig": [
+    3333,
+    5000
+   ],
+   "size": [
+    733,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Leo_Messi_Argentina_v_Egypt_7_July_2026-1.jpg",
+   "artist": "Bryan Berlin",
+   "license": "CC BY-SA 4.0",
+   "date": "Tomada el 7 de julio de 2026, 11:58:26",
+   "desc": "Lionel Messi during Argentina v Egypt at the 2026 FIFA World Cup"
+  },
+  {
+   "f": "w2.jpg",
+   "file": "Archivo:2026 Lionel Messi (cropped).jpg",
+   "kind": "page",
+   "orig": [
+    808,
+    1074
+   ],
+   "size": [
+    808,
+    1074
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:2026_Lionel_Messi_(cropped).jpg",
+   "artist": "The White House",
+   "license": "Public domain",
+   "date": "2026-03-05 18:21:28",
+   "desc": "President Donald J. Trump delivers remarks at an event honoring Inter Miami CF’s Major League Soccer 2025 championship, Thursday, March 5, 2026, in the East Room of the White House. (Official White Ho"
+  },
+  {
+   "f": "w3.jpg",
+   "file": "Archivo:Argentina vs mexico messi vs alvarado.jpg",
+   "kind": "page",
+   "orig": [
+    533,
+    798
+   ],
+   "size": [
+    533,
+    798
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Argentina_vs_mexico_messi_vs_alvarado.jpg",
+   "artist": "Hossein Zohrevand",
+   "license": "CC BY 4.0",
+   "date": "2022-11-26",
+   "desc": "2022 FIFA World Cup Match 24, Argentina v Mexico"
+  },
+  {
+   "f": "w4.jpg",
+   "file": "Archivo:CINvMIA 2023-08-23 - Lionel Messi, Tata Martino (PXL 20230824 010525464) (Messi crop).jpg",
+   "kind": "page",
+   "orig": [
+    831,
+    1126
+   ],
+   "size": [
+    812,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:CINvMIA_2023-08-23_-_Lionel_Messi,_Tata_Martino_(PXL_20230824_010525464)_(Messi_crop).jpg",
+   "artist": "Hayden Schiff",
+   "license": "CC BY 4.0",
+   "date": "2023-08-23 21:05:25",
+   "desc": "Taken at the 2023 U.S. Open Cup semifinal between FC Cincinnati and Inter Miami CF at TQL Stadium in Cincinnati, Ohio on August 23, 2023"
+  },
+  {
+   "f": "w5.jpg",
+   "file": "Archivo:Casa y barrio de la infancia de Lionel Messi - Rosario (Santa Fe) 03.jpg",
+   "kind": "page",
+   "orig": [
+    4640,
+    3472
+   ],
+   "size": [
+    960,
+    718
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Casa_y_barrio_de_la_infancia_de_Lionel_Messi_-_Rosario_(Santa_Fe)_03.jpg",
+   "artist": "TitiNicola",
+   "license": "CC BY-SA 4.0",
+   "date": "2021-09-18 17:01:26",
+   "desc": "Casa y barrio de la infancia de Lionel Messi - Rosario (Santa Fe)"
+  },
+  {
+   "f": "w6.jpg",
+   "file": "Archivo:Cristiano Ronaldo (L), Lionel Messi (R) – Portugal vs. Argentina, 9th February 2011 (1).jpg",
+   "kind": "page",
+   "orig": [
+    5313,
+    3841
+   ],
+   "size": [
+    960,
+    694
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Cristiano_Ronaldo_(L),_Lionel_Messi_(R)_%E2%80%93_Portugal_vs._Argentina,_9th_February_2011_(1).jpg",
+   "artist": "Fanny Schertzer",
+   "license": "CC BY 3.0",
+   "date": "2011-02-09 22:07:21",
+   "desc": "لیونل مسی و کریستیانو رونالدو قبل از بازی دوستانه بین پرتغال و آرژانتین در ژنو، سوییس، ۹ فوریه ۲۰۱۱"
+  }
+ ],
+ "log": [],
+ "candidates": 10
+}

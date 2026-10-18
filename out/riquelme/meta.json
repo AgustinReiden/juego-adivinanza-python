@@ -1,0 +1,115 @@
+{
+ "id": "riquelme",
+ "items": [
+  {
+   "f": "w1.jpg",
+   "file": "File:Juan_Román_Riquelme_-_2019.jpg",
+   "kind": "lead",
+   "orig": [
+    413,
+    569
+   ],
+   "size": [
+    413,
+    569
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Juan_Rom%C3%A1n_Riquelme_-_2019.jpg",
+   "artist": "Todo Noticias",
+   "license": "CC BY 3.0",
+   "date": "2019-09-17",
+   "desc": "Juan Román Riquelme en 2019."
+  },
+  {
+   "f": "w2.jpg",
+   "file": "Archivo:Argentina Brasil - Gol de Riquelme.jpg",
+   "kind": "page",
+   "orig": [
+    800,
+    599
+   ],
+   "size": [
+    800,
+    599
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Argentina_Brasil_-_Gol_de_Riquelme.jpg",
+   "artist": "chumsdock cheng",
+   "license": "CC BY-SA 2.0",
+   "date": "2008-08-19",
+   "desc": "Penalty kick by Riquelme"
+  },
+  {
+   "f": "w3.jpg",
+   "file": "Archivo:JR Riquelme.jpg",
+   "kind": "page",
+   "orig": [
+    1236,
+    1648
+   ],
+   "size": [
+    825,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:JR_Riquelme.jpg",
+   "artist": "es:User:Sking",
+   "license": "CC BY-SA 3.0",
+   "date": "2005-10",
+   "desc": "Juan Román Riquelme"
+  },
+  {
+   "f": "w4.jpg",
+   "file": "Archivo:Juan Riquelme beim Audi Cup.jpg",
+   "kind": "page",
+   "orig": [
+    915,
+    1119
+   ],
+   "size": [
+    899,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Juan_Riquelme_beim_Audi_Cup.jpg",
+   "artist": "Chivista de Wikipedia en alemán 23:26, 30. Jul. 2009 (CEST",
+   "license": "CC BY-SA 3.0",
+   "date": "2009-07-29",
+   "desc": "argentinischer Fußballspieler, Boca Juniors"
+  },
+  {
+   "f": "w5.jpg",
+   "file": "Archivo:Riquelme 2009.jpg",
+   "kind": "page",
+   "orig": [
+    482,
+    1066
+   ],
+   "size": [
+    482,
+    1066
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Riquelme_2009.jpg",
+   "artist": "Diegotóteles",
+   "license": "CC BY-SA 3.0",
+   "date": "11 de marzo de 2009, 09:01:45 (según los",
+   "desc": "Juan Román Riquelme, día de entrenamiento (Casa Amarilla, Boca Juniors)"
+  },
+  {
+   "f": "w6.jpg",
+   "file": "Archivo:Riquelme boca vs espanyol 2011.jpg",
+   "kind": "page",
+   "orig": [
+    2592,
+    3872
+   ],
+   "size": [
+    736,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Riquelme_boca_vs_espanyol_2011.jpg",
+   "artist": "Xavier Rondón Medina",
+   "license": "CC BY-SA 2.0",
+   "date": "2011-07-27 21:37:42",
+   "desc": "Juan R. Riquelme."
+  }
+ ],
+ "log": [],
+ "candidates": 6
+}

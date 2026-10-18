@@ -1,0 +1,115 @@
+{
+ "id": "bochini",
+ "items": [
+  {
+   "f": "w1.jpg",
+   "file": "File:Ricardo_Bochini.jpg",
+   "kind": "lead",
+   "orig": [
+    800,
+    816
+   ],
+   "size": [
+    800,
+    816
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Ricardo_Bochini.jpg",
+   "artist": "DesconocidoUnknown author",
+   "license": "Public domain",
+   "date": "1989",
+   "desc": "Ricardo Bochini posa con réplicas de los trofeos obtenidos por su club, Independiente."
+  },
+  {
+   "f": "w2.jpg",
+   "file": "Archivo:Bertoni bochini copa.jpg",
+   "kind": "page",
+   "orig": [
+    589,
+    900
+   ],
+   "size": [
+    589,
+    900
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Bertoni_bochini_copa.jpg",
+   "artist": "DesconocidoUnknown author",
+   "license": "Public domain",
+   "date": "1973",
+   "desc": "Daniel Bertoni (left) and Ricardo Bochini with the Intercontinental Cup trophy."
+  },
+  {
+   "f": "w3.jpg",
+   "file": "Archivo:Bochini 1986 El Gráfico.jpg",
+   "kind": "page",
+   "orig": [
+    571,
+    800
+   ],
+   "size": [
+    571,
+    800
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Bochini_1986_El_Gr%C3%A1fico.jpg",
+   "artist": "El Gráfico",
+   "license": "Public domain",
+   "date": "1986",
+   "desc": "Ricardo Bochini cumple 500 partidos con Independiente. Tapa de El Gráfico, Nº 3502."
+  },
+  {
+   "f": "w4.jpg",
+   "file": "Archivo:Bochini bertoni.jpg",
+   "kind": "page",
+   "orig": [
+    673,
+    547
+   ],
+   "size": [
+    673,
+    547
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Bochini_bertoni.jpg",
+   "artist": "DesconocidoUnknown author",
+   "license": "Public domain",
+   "date": "hacia 1975<div style=\"display: none;\">da",
+   "desc": "Ricardo Bochini and Daniel Bertoni."
+  },
+  {
+   "f": "w5.jpg",
+   "file": "Archivo:Burruchaga trossero bochini copa.jpg",
+   "kind": "page",
+   "orig": [
+    382,
+    382
+   ],
+   "size": [
+    382,
+    382
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Burruchaga_trossero_bochini_copa.jpg",
+   "artist": "DesconocidoUnknown author",
+   "license": "Public domain",
+   "date": "1984",
+   "desc": "Jorge Burruchaga (7), Enzo Trossero and Ricardo Bochini holding the Copa Libertadores trophy won by Independiente v. Gremio."
+  },
+  {
+   "f": "w6.jpg",
+   "file": "Archivo:Maradona y Bochini.jpg",
+   "kind": "page",
+   "orig": [
+    2292,
+    1590
+   ],
+   "size": [
+    960,
+    666
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Maradona_y_Bochini.jpg",
+   "artist": "DesconocidoUnknown author",
+   "license": "CC BY 2.0",
+   "date": "2007-12-20",
+   "desc": "Diego Armando Maradona junto a Ricardo Bochini"
+  }
+ ],
+ "log": [],
+ "candidates": 10
+}

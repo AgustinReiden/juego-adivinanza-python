@@ -1,0 +1,115 @@
+{
+ "id": "caniggia",
+ "items": [
+  {
+   "f": "w1.jpg",
+   "file": "File:Caniggia_sonriente_1988.jpg",
+   "kind": "lead",
+   "orig": [
+    800,
+    1227
+   ],
+   "size": [
+    717,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Caniggia_sonriente_1988.jpg",
+   "artist": "Héctor Maffuche (credited)",
+   "license": "Public domain",
+   "date": "1988",
+   "desc": "A young Claudio Caniggia during a session photo for El Gráfico"
+  },
+  {
+   "f": "w2.jpg",
+   "file": "Archivo:Caniggia river.jpg",
+   "kind": "page",
+   "orig": [
+    292,
+    374
+   ],
+   "size": [
+    292,
+    374
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Caniggia_river.jpg",
+   "artist": "DesconocidoUnknown author",
+   "license": "Public domain",
+   "date": "hacia 1987<div style=\"display: none;\">da",
+   "desc": "Claudio Caniggia while playing for River Plate."
+  },
+  {
+   "f": "w3.jpg",
+   "file": "File:Caniggia atalanta.jpg",
+   "kind": "page",
+   "orig": [
+    241,
+    257
+   ],
+   "size": [
+    241,
+    257
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Caniggia_atalanta.jpg",
+   "artist": "Ago76",
+   "license": "CC BY-SA 4.0",
+   "date": "1999",
+   "desc": "Claudio Caniggia during his tenure on Italian club Atalanta."
+  },
+  {
+   "f": "w4.jpg",
+   "file": "File:Caniggia verona.jpg",
+   "kind": "page",
+   "orig": [
+    873,
+    900
+   ],
+   "size": [
+    873,
+    900
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Caniggia_verona.jpg",
+   "artist": "Unknown authorUnknown author",
+   "license": "Public domain",
+   "date": "1988",
+   "desc": "Claudio Caniggia playing for Hellas Verona FC"
+  },
+  {
+   "f": "w5.jpg",
+   "file": "File:ClaudioPaulCaniggia.jpg",
+   "kind": "search",
+   "orig": [
+    224,
+    349
+   ],
+   "size": [
+    224,
+    349
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:ClaudioPaulCaniggia.jpg",
+   "artist": "Ago76",
+   "license": "CC BY-SA 4.0",
+   "date": "",
+   "desc": "Claudio Paul Caniggia, Atalanta 1999-2000"
+  },
+  {
+   "f": "w6.jpg",
+   "file": "File:Domingo Cirigliano, Claudio Caniggia y Alirio Granadillo.jpg",
+   "kind": "search",
+   "orig": [
+    2048,
+    1536
+   ],
+   "size": [
+    960,
+    720
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Domingo_Cirigliano,_Claudio_Caniggia_y_Alirio_Granadillo.jpg",
+   "artist": "Aligf1968",
+   "license": "CC BY-SA 4.0",
+   "date": "2012-02-28 07:22:59",
+   "desc": "Entrenamiento de la Seleccion de Venezuela en España"
+  }
+ ],
+ "log": [],
+ "candidates": 10
+}

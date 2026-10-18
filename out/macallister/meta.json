@@ -1,0 +1,115 @@
+{
+ "id": "macallister",
+ "items": [
+  {
+   "f": "w1.jpg",
+   "file": "File:Alexis_Mac_Allister_Argentina_v_Spain_19_July_2026-162_(cropped).jpg",
+   "kind": "lead",
+   "orig": [
+    2673,
+    3749
+   ],
+   "size": [
+    785,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Alexis_Mac_Allister_Argentina_v_Spain_19_July_2026-162_(cropped).jpg",
+   "artist": "Bryan Berlin",
+   "license": "CC BY-SA 4.0",
+   "date": "2026-07-19 16:37:52",
+   "desc": "Alexis Mac Allister during Argentina vs Spain at the 2026 FIFA World Cup Final"
+  },
+  {
+   "f": "w2.jpg",
+   "file": "Archivo:Alexis Mac Allister 04012026 (3).jpg",
+   "kind": "page",
+   "orig": [
+    2200,
+    3332
+   ],
+   "size": [
+    726,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Alexis_Mac_Allister_04012026_(3).jpg",
+   "artist": "Timmy96",
+   "license": "CC0",
+   "date": "2026-01-04 15:48:41",
+   "desc": "The ongoing match between Fulham and Liverpool."
+  },
+  {
+   "f": "w3.jpg",
+   "file": "File:Alexis Mac Allister WC 2022.jpg",
+   "kind": "page",
+   "orig": [
+    720,
+    1222
+   ],
+   "size": [
+    648,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Alexis_Mac_Allister_WC_2022.jpg",
+   "artist": "Hossein Zohrevand",
+   "license": "CC BY 4.0",
+   "date": "2022-12-03 07:54:33",
+   "desc": "Alexis Mac Allister con la nazionale argentina ai Mondiali 2022 in Qatar"
+  },
+  {
+   "f": "w4.jpg",
+   "file": "File:Alexis Mac Allister 2022.jpg",
+   "kind": "search",
+   "orig": [
+    1324,
+    1674
+   ],
+   "size": [
+    870,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Alexis_Mac_Allister_2022.jpg",
+   "artist": "jamesboyes",
+   "license": "CC BY 2.0",
+   "date": "2022-07-30 16:15:17",
+   "desc": "Brighton and Hove Albion vs RCD Espanyol preseason game on 30 July 2022"
+  },
+  {
+   "f": "w5.jpg",
+   "file": "File:Argentina vs mexico macallister dribbling.jpg",
+   "kind": "search",
+   "orig": [
+    800,
+    531
+   ],
+   "size": [
+    800,
+    531
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Argentina_vs_mexico_macallister_dribbling.jpg",
+   "artist": "Hossein Zohrevand",
+   "license": "CC BY 4.0",
+   "date": "2022-11-26",
+   "desc": "2022 FIFA World Cup Match 24, Argentina v Mexico"
+  },
+  {
+   "f": "w6.jpg",
+   "file": "File:Argentina vs mexico macallister y chavez.jpg",
+   "kind": "search",
+   "orig": [
+    800,
+    557
+   ],
+   "size": [
+    800,
+    557
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Argentina_vs_mexico_macallister_y_chavez.jpg",
+   "artist": "Hossein Zohrevand",
+   "license": "CC BY 4.0",
+   "date": "2022-11-26",
+   "desc": "2022 FIFA World Cup Match 24, Argentina v Mexico"
+  }
+ ],
+ "log": [],
+ "candidates": 7
+}
