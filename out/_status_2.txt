@@ -1,1 +1,1 @@
-done 02:08:01 {"fillol": 6, "chilavert": 6, "zanetti": 6, "ibarra": 0, "molina": 4, "passarella": 6, "ayala": 3, "heinze": 6, "garay": 6, "lisandro": 6, "marzolini": 6, "sorin": 0, "acuna": 2, "gallego": 2, "simeone": 3, "bebeacosta": 7, "veron": 6, "enzo": 6, "pedernera": 6, "francescoli": 6, "aimar": 4, "bertoni": 6, "guillermo": 4, "mouche": 4, "kempes": 6, "palermo": 6, "sivori": 6, "tevez": 6, "higuain": 6}
+done 02:12:44 {"sensini": 6, "garce": 6, "mas": 6, "batista": 1, "palermo": 6, "burgos": 1, "chilavert": 6, "caniggia": 6}
