@@ -1,6 +1,69 @@
 {
  "id": "peruzzi",
- "items": [],
- "log": [],
+ "items": [
+  {
+   "f": "b1.jpg",
+   "url": "https://static.independent.co.uk/2026/10/15/18/00/GettyImages-644984798.jpg",
+   "page": "https://www.independent.co.uk/travel/news-and-advice/hotel-rates-record-high-b3067678.html",
+   "q": "Gino Peruzzi Boca Juniors",
+   "size": [
+    1100,
+    720
+   ]
+  },
+  {
+   "f": "b2.jpg",
+   "url": "http://ihg.scene7.com/is/image/ihg/holiday-inn-hotel-and-suites-orlando-4038307489-4x3",
+   "page": "https://www.inf-inet.com/hotels-on-i-90-near-buffalo-ny/",
+   "q": "Gino Peruzzi Boca Juniors",
+   "size": [
+    1100,
+    825
+   ]
+  },
+  {
+   "f": "b3.jpg",
+   "url": "https://cache.marriott.com/marriottassets/marriott/CAIBR/caibr-exterior-0044-hor-feat.jpg",
+   "page": "https://detroitchinatown.org/hotels-near-the-mansion-on-main-street-voorhees-nj/",
+   "q": "Gino Peruzzi Boca Juniors",
+   "size": [
+    1100,
+    440
+   ]
+  },
+  {
+   "f": "b4.jpg",
+   "url": "https://media.architecturaldigest.com/photos/57e42deafe422b3e29b7e790/master/pass/JW_LosCabos_2015_MainExterior.jpg",
+   "page": "https://storage.googleapis.com/wa919q2xmid2dky/modern-luxury-hotels.html",
+   "q": "Gino Peruzzi Boca Juniors",
+   "size": [
+    1100,
+    733
+   ]
+  },
+  {
+   "f": "b5.jpg",
+   "url": "https://images1.loopnet.com/i2/Sii432OC3_ysd_vxXjQcGMZ2VDc-k7wLNjwX0_iU9RU/111/image.jpg",
+   "page": "https://loopnet.com/search/hotels/winslow-az-86047/for-sale/",
+   "q": "Gino Peruzzi Boca Juniors",
+   "size": [
+    474,
+    264
+   ]
+  },
+  {
+   "f": "b6.jpg",
+   "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2dt5G5.img?w=1200&h=624&m=4&q=89",
+   "page": "https://www.msn.com/en-us/news/other/13-historic-hotels-offering-experiences-that-go-far-beyond-spending-the-night/ss-AA2dt3fr",
+   "q": "Gino Peruzzi Boca Juniors",
+   "size": [
+    1100,
+    572
+   ]
+  }
+ ],
+ "log": [
+  "bing Gino Peruzzi Boca Juniors: 12 results"
+ ],
  "candidates": 0
 }

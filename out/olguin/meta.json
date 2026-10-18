@@ -1,6 +1,69 @@
 {
  "id": "olguin",
- "items": [],
- "log": [],
- "candidates": 1
+ "items": [
+  {
+   "f": "b1.jpg",
+   "url": "https://tvovermind.com/wp-content/uploads/2022/10/The-Sandlot-1024x675.png",
+   "page": "https://tvovermind.com/the-best-james-earl-jones-movies-to-watch/",
+   "q": "Jorge Olguín Argentina 1978 futbolista",
+   "size": [
+    1024,
+    675
+   ]
+  },
+  {
+   "f": "b2.jpg",
+   "url": "https://m.media-amazon.com/images/M/MV5BMzQxZmZmZDAtNTZhYS00YWE2LTk2YjQtNTdiZjgxZWY3YzE5XkEyXkFqcGc@._V1_.jpg",
+   "page": "https://fity.club/lists/suggestions/james-earl-jones-sandlot/",
+   "q": "Jorge Olguín Argentina 1978 futbolista",
+   "size": [
+    1100,
+    468
+   ]
+  },
+  {
+   "f": "b3.jpg",
+   "url": "https://www.usmagazine.com/wp-content/uploads/james-earl-jones-sandlot-zoom-31ebe049-6f81-4b4a-a6a8-7789507cd3d2.jpg",
+   "page": "https://www.usmagazine.com/entertainment/news/james-earl-jones-revisits-field-of-dreams-more-of-his-famous-films-watch-w202038/",
+   "q": "Jorge Olguín Argentina 1978 futbolista",
+   "size": [
+    1100,
+    783
+   ]
+  },
+  {
+   "f": "b4.jpg",
+   "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2025/07/james-earl-jones-as-mr-mertle-with-a-baseball-in-the-sandlot.jpg?q=49&fit=crop&w=825&dpr=2",
+   "page": "https://screenrant.com/the-sandlot-cast-characters-guide-where-they-are-now/",
+   "q": "Jorge Olguín Argentina 1978 futbolista",
+   "size": [
+    1100,
+    550
+   ]
+  },
+  {
+   "f": "b5.jpg",
+   "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2023/05/screen-shot-2023-05-23-at-2-55-12-pm.jpg?q=50&fit=crop&w=825&dpr=1.5",
+   "page": "https://collider.com/the-sandlot-cast-where-are-they-now/",
+   "q": "Jorge Olguín Argentina 1978 futbolista",
+   "size": [
+    825,
+    413
+   ]
+  },
+  {
+   "f": "b6.jpg",
+   "url": "https://static1.srcdn.com/wordpress/wp-content/uploads/2020/03/The-Sandlot-Movie-Poster.jpg",
+   "page": "https://screenrant.com/james-earl-jones-movies-ranked/",
+   "q": "Jorge Olguín Argentina 1978 futbolista",
+   "size": [
+    743,
+    1100
+   ]
+  }
+ ],
+ "log": [
+  "bing Jorge Olguín Argentina 1978 futbolista: 12 results"
+ ],
+ "candidates": 0
 }
