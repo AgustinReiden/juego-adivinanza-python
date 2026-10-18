@@ -142,6 +142,30 @@ def save_img(raw, path, maxside=1100):
     return im.size
 
 
+def bing(q, k, log):
+    """Top-k full-size image URLs (plus thumb fallback) from Bing Images."""
+    url = "https://www.bing.com/images/async?" + urllib.parse.urlencode(
+        {"q": q, "first": 0, "count": 35, "mmasync": 1, "adlt": "moderate"})
+    try:
+        html = get(url, ua=BROWSER_UA, tries=3, gap=1.5).decode("utf-8", "ignore")
+    except Exception as e:
+        log.append(f"bing fail {q}: {e}")
+        return []
+    import html as H
+    out = []
+    for m in re.finditer(r'm="(\{.*?\})"', html):
+        try:
+            d = json.loads(H.unescape(m.group(1)))
+        except Exception:
+            continue
+        if d.get("murl"):
+            out.append((d["murl"], d.get("turl"), d.get("purl")))
+        if len(out) >= k * 2:
+            break
+    log.append(f"bing {q}: {len(out)} results")
+    return out
+
+
 def run_job(job, root):
     jid = job["id"]
     d = os.path.join(root, jid)
@@ -197,6 +221,30 @@ def run_job(job, root):
                          "desc": re.sub("<[^>]+>", "", em.get("ImageDescription", {}).get("value", ""))[:200]})
         except Exception as e:
             log.append(f"dl fail {t}: {e}")
+    nb = 0
+    for q in job.get("bing", []):
+        for murl, turl, purl in bing(q, job.get("bing_k", 6), log):
+            if nb >= job.get("bing_k", 6) * len(job.get("bing", [])):
+                break
+            raw = None
+            for u in (murl, turl):
+                if not u:
+                    continue
+                try:
+                    raw = get(u, ua=BROWSER_UA, tries=1, gap=0.2)
+                    Image.open(io.BytesIO(raw)).size
+                    break
+                except Exception:
+                    raw = None
+            if not raw:
+                continue
+            try:
+                nb += 1
+                size = save_img(raw, os.path.join(d, f"b{nb}.jpg"))
+                meta.append({"f": f"b{nb}.jpg", "url": murl, "page": purl, "q": q, "size": size})
+            except Exception as e:
+                nb -= 1
+                log.append(f"bing img fail {murl}: {e}")
     for k, u in enumerate(job.get("urls", []), 1):
         try:
             raw = get(u, ua=BROWSER_UA, tries=3, gap=0.3)

@@ -2,600 +2,107 @@
  "out": "out",
  "jobs": [
   {
-   "id": "carrizo",
-   "titles": [
-    "es:Amadeo Carrizo",
-    "en:Amadeo Carrizo"
-   ],
-   "search": [
-    "\"Amadeo Carrizo\""
-   ],
-   "must": [
-    [
-     "amadeo",
-     "carrizo"
-    ],
-    [
-     "carrizo"
-    ]
-   ],
-   "max": 6
-  },
-  {
-   "id": "gatti",
-   "titles": [
-    "es:Hugo Gatti",
-    "en:Hugo Gatti"
-   ],
-   "search": [
-    "\"Hugo Gatti\""
-   ],
-   "must": [
-    [
-     "gatti"
-    ]
-   ],
-   "max": 6
-  },
-  {
-   "id": "fillol",
-   "titles": [
-    "es:Ubaldo Fillol",
-    "en:Ubaldo Fillol"
-   ],
-   "search": [
-    "\"Ubaldo Fillol\""
-   ],
-   "must": [
-    [
-     "fillol"
-    ]
-   ],
-   "max": 6
-  },
-  {
    "id": "goycochea",
-   "titles": [
-    "es:Sergio Goycochea",
-    "en:Sergio Goycochea"
+   "titles": [],
+   "search": [],
+   "must": [],
+   "max": 6,
+   "bing": [
+    "Sergio Goycochea Italia 90 arquero"
    ],
-   "search": [
-    "\"Sergio Goycochea\""
-   ],
-   "must": [
-    [
-     "goycochea"
-    ]
-   ],
-   "max": 6
-  },
-  {
-   "id": "burgos",
-   "titles": [
-    "es:Germán Burgos",
-    "en:Germán Burgos"
-   ],
-   "search": [
-    "\"Germán Burgos\""
-   ],
-   "must": [
-    [
-     "german",
-     "burgos"
-    ],
-    [
-     "mono",
-     "burgos"
-    ]
-   ],
-   "max": 6
-  },
-  {
-   "id": "chilavert",
-   "titles": [
-    "es:José Luis Chilavert",
-    "en:José Luis Chilavert"
-   ],
-   "search": [
-    "\"José Luis Chilavert\""
-   ],
-   "must": [
-    [
-     "chilavert"
-    ]
-   ],
-   "max": 6
-  },
-  {
-   "id": "dibu",
-   "titles": [
-    "es:Emiliano Martínez",
-    "en:Emiliano Martínez"
-   ],
-   "search": [
-    "\"Emiliano Martínez\""
-   ],
-   "must": [
-    [
-     "emiliano",
-     "martinez"
-    ],
-    [
-     "dibu"
-    ]
-   ],
-   "max": 6
-  },
-  {
-   "id": "caballero",
-   "titles": [
-    "es:Wilfredo Caballero",
-    "en:Wilfredo Caballero"
-   ],
-   "search": [
-    "\"Wilfredo Caballero\""
-   ],
-   "must": [
-    [
-     "willy",
-     "caballero"
-    ],
-    [
-     "wilfredo",
-     "caballero"
-    ]
-   ],
-   "max": 6
-  },
-  {
-   "id": "zanetti",
-   "titles": [
-    "es:Javier Zanetti",
-    "en:Javier Zanetti"
-   ],
-   "search": [
-    "\"Javier Zanetti\""
-   ],
-   "must": [
-    [
-     "zanetti"
-    ]
-   ],
-   "max": 6
+   "bing_k": 6,
+   "redo": true,
+   "urls": [
+    "https://www.elgrafico.com.ar/media/cache/pub_news_details_large/media/i/53/61/5361759965795.jpg",
+    "https://www.elgrafico.com.ar/media/cache/pub_news_details_large/media/i/59/4c/594c07d598d84.jpg",
+    "https://www.elgrafico.com.ar/media/cache/pub_news_details_large/media/i/59/4c/594c0819f157a.jpg",
+    "https://www.elgrafico.com.ar/media/cache/pub_news_details_large/media/i/59/4c/594c085838fca.jpg"
+   ]
   },
   {
    "id": "olguin",
-   "titles": [
-    "es:Jorge Olguín",
-    "en:Jorge Olguín"
+   "titles": [],
+   "search": [],
+   "must": [],
+   "max": 6,
+   "bing": [
+    "Jorge Olguín Argentina 1978 futbolista"
    ],
-   "search": [
-    "\"Jorge Olguín\""
-   ],
-   "must": [
-    [
-     "jorge",
-     "olguin"
-    ]
-   ],
-   "max": 6
+   "bing_k": 6,
+   "redo": true
   },
   {
    "id": "sensini",
    "titles": [
-    "es:Néstor Sensini",
-    "en:Néstor Sensini"
+    "es:Roberto Sensini",
+    "en:Roberto Sensini"
    ],
-   "search": [
-    "\"Néstor Sensini\""
-   ],
+   "search": [],
    "must": [
     [
      "sensini"
     ]
    ],
-   "max": 6
+   "max": 6,
+   "bing": [
+    "Roberto Sensini Argentina 1990"
+   ],
+   "bing_k": 6,
+   "redo": true
   },
   {
    "id": "ibarra",
    "titles": [
-    "es:Hugo Ibarra",
-    "en:Hugo Ibarra"
+    "es:Hugo Benjamín Ibarra"
    ],
-   "search": [
-    "\"Hugo Ibarra\""
-   ],
+   "search": [],
    "must": [
     [
-     "hugo",
      "ibarra"
     ]
    ],
-   "max": 6
-  },
-  {
-   "id": "zabaleta",
-   "titles": [
-    "es:Pablo Zabaleta",
-    "en:Pablo Zabaleta"
+   "max": 6,
+   "bing": [
+    "Hugo Ibarra Boca Juniors lateral"
    ],
-   "search": [
-    "\"Pablo Zabaleta\""
-   ],
-   "must": [
-    [
-     "zabaleta"
-    ]
-   ],
-   "max": 6
-  },
-  {
-   "id": "montiel",
-   "titles": [
-    "es:Gonzalo Montiel",
-    "en:Gonzalo Montiel"
-   ],
-   "search": [
-    "\"Gonzalo Montiel\""
-   ],
-   "must": [
-    [
-     "gonzalo",
-     "montiel"
-    ]
-   ],
-   "max": 6
-  },
-  {
-   "id": "molina",
-   "titles": [
-    "es:Nahuel Molina",
-    "en:Nahuel Molina"
-   ],
-   "search": [
-    "\"Nahuel Molina\""
-   ],
-   "must": [
-    [
-     "nahuel",
-     "molina"
-    ]
-   ],
-   "max": 6
+   "bing_k": 6,
+   "redo": true
   },
   {
    "id": "peruzzi",
-   "titles": [
-    "es:Gino Peruzzi",
-    "en:Gino Peruzzi"
+   "titles": [],
+   "search": [],
+   "must": [],
+   "max": 6,
+   "bing": [
+    "Gino Peruzzi Boca Juniors"
    ],
-   "search": [
-    "\"Gino Peruzzi\""
-   ],
-   "must": [
-    [
-     "peruzzi"
-    ]
-   ],
-   "max": 6
-  },
-  {
-   "id": "perfumo",
-   "titles": [
-    "es:Roberto Perfumo",
-    "en:Roberto Perfumo"
-   ],
-   "search": [
-    "\"Roberto Perfumo\""
-   ],
-   "must": [
-    [
-     "perfumo"
-    ]
-   ],
-   "max": 6
-  },
-  {
-   "id": "passarella",
-   "titles": [
-    "es:Daniel Passarella",
-    "en:Daniel Passarella"
-   ],
-   "search": [
-    "\"Daniel Passarella\""
-   ],
-   "must": [
-    [
-     "passarella"
-    ]
-   ],
-   "max": 6
-  },
-  {
-   "id": "brown",
-   "titles": [
-    "es:José Luis Brown",
-    "en:José Luis Brown"
-   ],
-   "search": [
-    "\"José Luis Brown\""
-   ],
-   "must": [
-    [
-     "jose",
-     "luis",
-     "brown"
-    ],
-    [
-     "tata",
-     "brown"
-    ]
-   ],
-   "max": 6
-  },
-  {
-   "id": "ruggeri",
-   "titles": [
-    "es:Oscar Ruggeri",
-    "en:Oscar Ruggeri"
-   ],
-   "search": [
-    "\"Oscar Ruggeri\""
-   ],
-   "must": [
-    [
-     "ruggeri"
-    ]
-   ],
-   "max": 6
-  },
-  {
-   "id": "ayala",
-   "titles": [
-    "es:Roberto Ayala",
-    "en:Roberto Ayala"
-   ],
-   "search": [
-    "\"Roberto Ayala\""
-   ],
-   "must": [
-    [
-     "roberto",
-     "ayala"
-    ]
-   ],
-   "max": 6
-  },
-  {
-   "id": "samuel",
-   "titles": [
-    "es:Walter Samuel",
-    "en:Walter Samuel"
-   ],
-   "search": [
-    "\"Walter Samuel\""
-   ],
-   "must": [
-    [
-     "walter",
-     "samuel"
-    ]
-   ],
-   "max": 6
-  },
-  {
-   "id": "pochettino",
-   "titles": [
-    "es:Mauricio Pochettino",
-    "en:Mauricio Pochettino"
-   ],
-   "search": [
-    "\"Mauricio Pochettino\""
-   ],
-   "must": [
-    [
-     "pochettino"
-    ]
-   ],
-   "max": 6
-  },
-  {
-   "id": "heinze",
-   "titles": [
-    "es:Gabriel Heinze",
-    "en:Gabriel Heinze"
-   ],
-   "search": [
-    "\"Gabriel Heinze\""
-   ],
-   "must": [
-    [
-     "heinze"
-    ]
-   ],
-   "max": 6
-  },
-  {
-   "id": "schiavi",
-   "titles": [
-    "es:Rolando Schiavi",
-    "en:Rolando Schiavi"
-   ],
-   "search": [
-    "\"Rolando Schiavi\""
-   ],
-   "must": [
-    [
-     "schiavi"
-    ]
-   ],
-   "max": 6
-  },
-  {
-   "id": "demichelis",
-   "titles": [
-    "es:Martín Demichelis",
-    "en:Martín Demichelis"
-   ],
-   "search": [
-    "\"Martín Demichelis\""
-   ],
-   "must": [
-    [
-     "demichelis"
-    ]
-   ],
-   "max": 6
-  },
-  {
-   "id": "garay",
-   "titles": [
-    "es:Ezequiel Garay",
-    "en:Ezequiel Garay"
-   ],
-   "search": [
-    "\"Ezequiel Garay\""
-   ],
-   "must": [
-    [
-     "ezequiel",
-     "garay"
-    ]
-   ],
-   "max": 6
-  },
-  {
-   "id": "otamendi",
-   "titles": [
-    "es:Nicolás Otamendi",
-    "en:Nicolás Otamendi"
-   ],
-   "search": [
-    "\"Nicolás Otamendi\""
-   ],
-   "must": [
-    [
-     "otamendi"
-    ]
-   ],
-   "max": 6
-  },
-  {
-   "id": "romero",
-   "titles": [
-    "es:Cristian Romero",
-    "en:Cristian Romero"
-   ],
-   "search": [
-    "\"Cristian Romero\""
-   ],
-   "must": [
-    [
-     "cristian",
-     "romero"
-    ],
-    [
-     "cuti"
-    ]
-   ],
-   "max": 6
-  },
-  {
-   "id": "lisandro",
-   "titles": [
-    "es:Lisandro Martínez",
-    "en:Lisandro Martínez"
-   ],
-   "search": [
-    "\"Lisandro Martínez\""
-   ],
-   "must": [
-    [
-     "lisandro"
-    ]
-   ],
-   "max": 6
+   "bing_k": 6,
+   "redo": true
   },
   {
    "id": "garce",
-   "titles": [
-    "es:Ariel Garcé",
-    "en:Ariel Garcé"
+   "titles": [],
+   "search": [],
+   "must": [],
+   "max": 6,
+   "bing": [
+    "Ariel Garcé selección argentina 2010"
    ],
-   "search": [
-    "\"Ariel Garcé\""
-   ],
-   "must": [
-    [
-     "garce"
-    ]
-   ],
-   "max": 6
+   "bing_k": 6,
+   "redo": true
   },
   {
    "id": "fazio",
-   "titles": [
-    "es:Federico Fazio",
-    "en:Federico Fazio"
+   "titles": [],
+   "search": [],
+   "must": [],
+   "max": 6,
+   "bing": [
+    "Federico Fazio selección argentina"
    ],
-   "search": [
-    "\"Federico Fazio\""
-   ],
-   "must": [
-    [
-     "federico",
-     "fazio"
-    ]
-   ],
-   "max": 6
-  },
-  {
-   "id": "marzolini",
-   "titles": [
-    "es:Silvio Marzolini",
-    "en:Silvio Marzolini"
-   ],
-   "search": [
-    "\"Silvio Marzolini\""
-   ],
-   "must": [
-    [
-     "marzolini"
-    ]
-   ],
-   "max": 6
-  },
-  {
-   "id": "tarantini",
-   "titles": [
-    "es:Alberto Tarantini",
-    "en:Alberto Tarantini"
-   ],
-   "search": [
-    "\"Alberto Tarantini\""
-   ],
-   "must": [
-    [
-     "tarantini"
-    ]
-   ],
-   "max": 6
-  },
-  {
-   "id": "olarticoechea",
-   "titles": [
-    "es:Julio Olarticoechea",
-    "en:Julio Olarticoechea"
-   ],
-   "search": [
-    "\"Julio Olarticoechea\""
-   ],
-   "must": [
-    [
-     "olarticoechea"
-    ]
-   ],
-   "max": 6
+   "bing_k": 6,
+   "redo": true
   },
   {
    "id": "sorin",
@@ -603,931 +110,214 @@
     "es:Juan Pablo Sorín",
     "en:Juan Pablo Sorín"
    ],
-   "search": [
-    "\"Juan Pablo Sorín\""
-   ],
+   "search": [],
    "must": [
     [
      "sorin"
     ]
    ],
-   "max": 6
-  },
-  {
-   "id": "rojo",
-   "titles": [
-    "es:Marcos Rojo",
-    "en:Marcos Rojo"
+   "max": 6,
+   "bing": [
+    "Juan Pablo Sorín selección argentina"
    ],
-   "search": [
-    "\"Marcos Rojo\""
-   ],
-   "must": [
-    [
-     "marcos",
-     "rojo"
-    ]
-   ],
-   "max": 6
-  },
-  {
-   "id": "tagliafico",
-   "titles": [
-    "es:Nicolás Tagliafico",
-    "en:Nicolás Tagliafico"
-   ],
-   "search": [
-    "\"Nicolás Tagliafico\""
-   ],
-   "must": [
-    [
-     "tagliafico"
-    ]
-   ],
-   "max": 6
-  },
-  {
-   "id": "acuna",
-   "titles": [
-    "es:Marcos Acuña",
-    "en:Marcos Acuña"
-   ],
-   "search": [
-    "\"Marcos Acuña\""
-   ],
-   "must": [
-    [
-     "marcos",
-     "acuna"
-    ]
-   ],
-   "max": 6
+   "bing_k": 6,
+   "redo": true
   },
   {
    "id": "mas",
-   "titles": [
-    "es:Emmanuel Mas",
-    "en:Emmanuel Mas"
-   ],
-   "search": [
-    "\"Emmanuel Mas\""
-   ],
-   "must": [
-    [
-     "emmanuel",
-     "mas"
-    ],
-    [
-     "emanuel",
-     "mas"
-    ]
-   ],
-   "max": 6
-  },
-  {
-   "id": "rattin",
-   "titles": [
-    "es:Antonio Rattín",
-    "en:Antonio Rattín"
-   ],
-   "search": [
-    "\"Antonio Rattín\""
-   ],
-   "must": [
-    [
-     "rattin"
-    ]
-   ],
-   "max": 6
-  },
-  {
-   "id": "gallego",
-   "titles": [
-    "es:Américo Gallego",
-    "en:Américo Gallego"
-   ],
-   "search": [
-    "\"Américo Gallego\""
-   ],
-   "must": [
-    [
-     "americo",
-     "gallego"
-    ],
-    [
-     "tolo"
-    ]
-   ],
-   "max": 6
-  },
-  {
-   "id": "batista",
-   "titles": [
-    "es:Sergio Batista",
-    "en:Sergio Batista"
-   ],
-   "search": [
-    "\"Sergio Batista\""
-   ],
-   "must": [
-    [
-     "sergio",
-     "batista"
-    ],
-    [
-     "checho"
-    ]
-   ],
-   "max": 6
-  },
-  {
-   "id": "redondo",
-   "titles": [
-    "es:Fernando Redondo",
-    "en:Fernando Redondo"
-   ],
-   "search": [
-    "\"Fernando Redondo\""
-   ],
-   "must": [
-    [
-     "fernando",
-     "redondo"
-    ]
-   ],
-   "max": 6
-  },
-  {
-   "id": "simeone",
-   "titles": [
-    "es:Diego Simeone",
-    "en:Diego Simeone"
-   ],
-   "search": [
-    "\"Diego Simeone\""
-   ],
-   "must": [
-    [
-     "diego",
-     "simeone"
-    ]
-   ],
-   "max": 6
-  },
-  {
-   "id": "mascherano",
-   "titles": [
-    "es:Javier Mascherano",
-    "en:Javier Mascherano"
-   ],
-   "search": [
-    "\"Javier Mascherano\""
-   ],
-   "must": [
-    [
-     "mascherano"
-    ]
-   ],
-   "max": 6
-  },
-  {
-   "id": "paredes",
-   "titles": [
-    "es:Leandro Paredes",
-    "en:Leandro Paredes"
-   ],
-   "search": [
-    "\"Leandro Paredes\""
-   ],
-   "must": [
-    [
-     "leandro",
-     "paredes"
-    ]
-   ],
-   "max": 6
-  },
-  {
-   "id": "bebeacosta",
-   "titles": [
-    "es:Guillermo Acosta (futbolista)",
-    "en:Guillermo Acosta (futbolista)",
-    "es:Guillermo Acosta"
-   ],
-   "search": [
-    "\"Guillermo Acosta\""
-   ],
-   "must": [
-    [
-     "guillermo",
-     "acosta"
-    ],
-    [
-     "bebe",
-     "acosta"
-    ]
-   ],
+   "titles": [],
+   "search": [],
+   "must": [],
    "max": 6,
-   "urls": [
-    "https://img.lagaceta.com.ar/fotos/notas/2018/12/26/793785_201812252105590000003.jpg",
-    "https://img.lagaceta.com.ar/fotos/notas/2018/12/26/793785_201812252105590000001.jpg",
-    "https://img.lagaceta.com.ar/fotos/notas/2018/12/26/793785_201812252105590000002.jpg",
-    "https://img.lagaceta.com.ar/fotos/notas/2018/12/26/970x646_793785_201812252105590000003.webp"
-   ]
-  },
-  {
-   "id": "ardiles",
-   "titles": [
-    "es:Osvaldo Ardiles",
-    "en:Osvaldo Ardiles"
+   "bing": [
+    "Emmanuel Mas Boca Juniors"
    ],
-   "search": [
-    "\"Osvaldo Ardiles\""
-   ],
-   "must": [
-    [
-     "ardiles"
-    ]
-   ],
-   "max": 6
-  },
-  {
-   "id": "burruchaga",
-   "titles": [
-    "es:Jorge Burruchaga",
-    "en:Jorge Burruchaga"
-   ],
-   "search": [
-    "\"Jorge Burruchaga\""
-   ],
-   "must": [
-    [
-     "burruchaga"
-    ]
-   ],
-   "max": 6
-  },
-  {
-   "id": "veron",
-   "titles": [
-    "es:Juan Sebastián Verón",
-    "en:Juan Sebastián Verón"
-   ],
-   "search": [
-    "\"Juan Sebastián Verón\""
-   ],
-   "must": [
-    [
-     "sebastian",
-     "veron"
-    ],
-    [
-     "juan",
-     "veron"
-    ]
-   ],
-   "max": 6
-  },
-  {
-   "id": "cambiasso",
-   "titles": [
-    "es:Esteban Cambiasso",
-    "en:Esteban Cambiasso"
-   ],
-   "search": [
-    "\"Esteban Cambiasso\""
-   ],
-   "must": [
-    [
-     "cambiasso"
-    ]
-   ],
-   "max": 6
-  },
-  {
-   "id": "depaul",
-   "titles": [
-    "es:Rodrigo De Paul",
-    "en:Rodrigo De Paul"
-   ],
-   "search": [
-    "\"Rodrigo De Paul\""
-   ],
-   "must": [
-    [
-     "de",
-     "paul"
-    ],
-    [
-     "depaul"
-    ]
-   ],
-   "max": 6
-  },
-  {
-   "id": "enzo",
-   "titles": [
-    "es:Enzo Fernández",
-    "en:Enzo Fernández"
-   ],
-   "search": [
-    "\"Enzo Fernández\""
-   ],
-   "must": [
-    [
-     "enzo",
-     "fernandez"
-    ]
-   ],
-   "max": 6
-  },
-  {
-   "id": "macallister",
-   "titles": [
-    "es:Alexis Mac Allister",
-    "en:Alexis Mac Allister"
-   ],
-   "search": [
-    "\"Alexis Mac Allister\""
-   ],
-   "must": [
-    [
-     "allister"
-    ]
-   ],
-   "max": 6
-  },
-  {
-   "id": "sarmiento",
-   "titles": [
-    "es:Brian Sarmiento",
-    "en:Brian Sarmiento"
-   ],
-   "search": [
-    "\"Brian Sarmiento\""
-   ],
-   "must": [
-    [
-     "brian",
-     "sarmiento"
-    ]
-   ],
-   "max": 6,
-   "urls": [
-    "https://img.lagaceta.com.ar/fotos/notas/2026/06/29/1200x800_aventura-branelik-danelik-brian-sarmiento-dan-paso-relacion-se-mudan-juntos-1143257-101405.webp",
-    "https://img.lagaceta.com.ar/fotos/notas/2026/06/29/aventura-branelik-danelik-brian-sarmiento-dan-paso-relacion-se-mudan-juntos-1143257-101405.png",
-    "https://www.cronica.com.ar/files/image/1677/1677627/6a41847baeab6_600_315!.jpg?s=f2acb87036f685bc1690c0e66df5e645&d=1782615600"
-   ]
-  },
-  {
-   "id": "pedernera",
-   "titles": [
-    "es:Adolfo Pedernera",
-    "en:Adolfo Pedernera"
-   ],
-   "search": [
-    "\"Adolfo Pedernera\""
-   ],
-   "must": [
-    [
-     "pedernera"
-    ]
-   ],
-   "max": 6
-  },
-  {
-   "id": "bochini",
-   "titles": [
-    "es:Ricardo Bochini",
-    "en:Ricardo Bochini"
-   ],
-   "search": [
-    "\"Ricardo Bochini\""
-   ],
-   "must": [
-    [
-     "bochini"
-    ]
-   ],
-   "max": 6
-  },
-  {
-   "id": "maradona",
-   "titles": [
-    "es:Diego Maradona",
-    "en:Diego Maradona"
-   ],
-   "search": [
-    "\"Diego Maradona\""
-   ],
-   "must": [
-    [
-     "maradona"
-    ]
-   ],
-   "max": 6
-  },
-  {
-   "id": "francescoli",
-   "titles": [
-    "es:Enzo Francescoli",
-    "en:Enzo Francescoli"
-   ],
-   "search": [
-    "\"Enzo Francescoli\""
-   ],
-   "must": [
-    [
-     "francescoli"
-    ]
-   ],
-   "max": 6
-  },
-  {
-   "id": "riquelme",
-   "titles": [
-    "es:Juan Román Riquelme",
-    "en:Juan Román Riquelme"
-   ],
-   "search": [
-    "\"Juan Román Riquelme\""
-   ],
-   "must": [
-    [
-     "riquelme"
-    ]
-   ],
-   "max": 6
-  },
-  {
-   "id": "gallardo",
-   "titles": [
-    "es:Marcelo Gallardo",
-    "en:Marcelo Gallardo"
-   ],
-   "search": [
-    "\"Marcelo Gallardo\""
-   ],
-   "must": [
-    [
-     "marcelo",
-     "gallardo"
-    ]
-   ],
-   "max": 6
-  },
-  {
-   "id": "aimar",
-   "titles": [
-    "es:Pablo Aimar",
-    "en:Pablo Aimar"
-   ],
-   "search": [
-    "\"Pablo Aimar\""
-   ],
-   "must": [
-    [
-     "aimar"
-    ]
-   ],
-   "max": 6
+   "bing_k": 6,
+   "redo": true
   },
   {
    "id": "centurion",
-   "titles": [
-    "es:Ricardo Centurión",
-    "en:Ricardo Centurión"
-   ],
-   "search": [
-    "\"Ricardo Centurión\""
-   ],
-   "must": [
-    [
-     "ricardo",
-     "centurion"
-    ]
-   ],
+   "titles": [],
+   "search": [],
+   "must": [],
    "max": 6,
+   "bing": [
+    "Ricardo Centurión fiesta video"
+   ],
+   "bing_k": 6,
+   "redo": true,
    "urls": [
-    "https://cdn.diariojornada.com.ar/imagenes/2017/2/15/79482F636656684378335141687771623662566951673D3D.jpg",
-    "https://www.ellitoral.com/images/2022/05/05/JyW8Y1kiR_1300x655__1.jpg"
+    "https://elgrafico.com.ar/media/cache/pub_news_details_large/media/i/7b/6a/7b6a9705e22b65bcdab5e9e90229134c0e68879c.jpg",
+    "http://storage.lacapitalmdp.com/2017/02/centu.jpg"
    ]
   },
   {
-   "id": "houseman",
-   "titles": [
-    "es:René Houseman",
-    "en:René Houseman"
+   "id": "redondo",
+   "titles": [],
+   "search": [],
+   "must": [],
+   "max": 6,
+   "bing": [
+    "Fernando Redondo Real Madrid jugador"
    ],
-   "search": [
-    "\"René Houseman\""
-   ],
-   "must": [
-    [
-     "houseman"
-    ]
-   ],
-   "max": 6
+   "bing_k": 6,
+   "redo": true
   },
   {
-   "id": "bertoni",
-   "titles": [
-    "es:Daniel Bertoni",
-    "en:Daniel Bertoni"
+   "id": "batista",
+   "titles": [],
+   "search": [],
+   "must": [],
+   "max": 6,
+   "bing": [
+    "Sergio Checho Batista Argentina 1986"
    ],
-   "search": [
-    "\"Daniel Bertoni\""
-   ],
-   "must": [
-    [
-     "bertoni"
-    ]
-   ],
-   "max": 6
+   "bing_k": 6,
+   "redo": true
   },
   {
-   "id": "caniggia",
-   "titles": [
-    "es:Claudio Caniggia",
-    "en:Claudio Caniggia"
+   "id": "olarticoechea",
+   "titles": [],
+   "search": [],
+   "must": [],
+   "max": 6,
+   "bing": [
+    "Julio Olarticoechea Argentina 1986"
    ],
-   "search": [
-    "\"Claudio Caniggia\""
-   ],
-   "must": [
-    [
-     "caniggia"
-    ]
-   ],
-   "max": 6
-  },
-  {
-   "id": "ortega",
-   "titles": [
-    "es:Ariel Ortega",
-    "en:Ariel Ortega"
-   ],
-   "search": [
-    "\"Ariel Ortega\""
-   ],
-   "must": [
-    [
-     "ariel",
-     "ortega"
-    ],
-    [
-     "burrito"
-    ]
-   ],
-   "max": 6
-  },
-  {
-   "id": "guillermo",
-   "titles": [
-    "es:Guillermo Barros Schelotto",
-    "en:Guillermo Barros Schelotto"
-   ],
-   "search": [
-    "\"Guillermo Barros Schelotto\""
-   ],
-   "must": [
-    [
-     "guillermo",
-     "barros"
-    ],
-    [
-     "guillermo",
-     "schelotto"
-    ]
-   ],
-   "max": 6
-  },
-  {
-   "id": "messi",
-   "titles": [
-    "es:Lionel Messi",
-    "en:Lionel Messi"
-   ],
-   "search": [
-    "\"Lionel Messi\""
-   ],
-   "must": [
-    [
-     "messi"
-    ]
-   ],
-   "max": 6
-  },
-  {
-   "id": "dybala",
-   "titles": [
-    "es:Paulo Dybala",
-    "en:Paulo Dybala"
-   ],
-   "search": [
-    "\"Paulo Dybala\""
-   ],
-   "must": [
-    [
-     "dybala"
-    ]
-   ],
-   "max": 6
-  },
-  {
-   "id": "mouche",
-   "titles": [
-    "es:Pablo Mouche",
-    "en:Pablo Mouche"
-   ],
-   "search": [
-    "\"Pablo Mouche\""
-   ],
-   "must": [
-    [
-     "mouche"
-    ]
-   ],
-   "max": 6
-  },
-  {
-   "id": "labruna",
-   "titles": [
-    "es:Ángel Labruna",
-    "en:Ángel Labruna"
-   ],
-   "search": [
-    "\"Ángel Labruna\""
-   ],
-   "must": [
-    [
-     "labruna"
-    ]
-   ],
-   "max": 6
-  },
-  {
-   "id": "distefano",
-   "titles": [
-    "es:Alfredo Di Stéfano",
-    "en:Alfredo Di Stéfano"
-   ],
-   "search": [
-    "\"Alfredo Di Stéfano\""
-   ],
-   "must": [
-    [
-     "stefano"
-    ]
-   ],
-   "max": 6
+   "bing_k": 6,
+   "redo": true
   },
   {
    "id": "kempes",
-   "titles": [
-    "es:Mario Kempes",
-    "en:Mario Kempes"
+   "titles": [],
+   "search": [],
+   "must": [],
+   "max": 6,
+   "bing": [
+    "Mario Kempes Argentina 1978 festejo"
    ],
-   "search": [
-    "\"Mario Kempes\""
-   ],
-   "must": [
-    [
-     "kempes"
-    ]
-   ],
-   "max": 6
-  },
-  {
-   "id": "bianchi",
-   "titles": [
-    "es:Carlos Bianchi",
-    "en:Carlos Bianchi"
-   ],
-   "search": [
-    "\"Carlos Bianchi\""
-   ],
-   "must": [
-    [
-     "carlos",
-     "bianchi"
-    ]
-   ],
-   "max": 6
-  },
-  {
-   "id": "batistuta",
-   "titles": [
-    "es:Gabriel Batistuta",
-    "en:Gabriel Batistuta"
-   ],
-   "search": [
-    "\"Gabriel Batistuta\""
-   ],
-   "must": [
-    [
-     "batistuta"
-    ]
-   ],
-   "max": 6
+   "bing_k": 6,
+   "redo": true
   },
   {
    "id": "palermo",
-   "titles": [
-    "es:Martín Palermo",
-    "en:Martín Palermo"
+   "titles": [],
+   "search": [],
+   "must": [],
+   "max": 6,
+   "bing": [
+    "Martín Palermo Boca Juniors festejo gol"
    ],
-   "search": [
-    "\"Martín Palermo\""
-   ],
-   "must": [
-    [
-     "martin",
-     "palermo"
-    ]
-   ],
-   "max": 6
-  },
-  {
-   "id": "lautaro",
-   "titles": [
-    "es:Lautaro Martínez",
-    "en:Lautaro Martínez"
-   ],
-   "search": [
-    "\"Lautaro Martínez\""
-   ],
-   "must": [
-    [
-     "lautaro"
-    ]
-   ],
-   "max": 6
+   "bing_k": 6,
+   "redo": true
   },
   {
    "id": "funesmori",
-   "titles": [
-    "es:Rogelio Funes Mori",
-    "en:Rogelio Funes Mori"
-   ],
-   "search": [
-    "\"Rogelio Funes Mori\""
-   ],
-   "must": [
-    [
-     "rogelio"
-    ]
-   ],
-   "max": 6
-  },
-  {
-   "id": "sivori",
-   "titles": [
-    "es:Omar Sívori",
-    "en:Omar Sívori"
-   ],
-   "search": [
-    "\"Omar Sívori\""
-   ],
-   "must": [
-    [
-     "sivori"
-    ]
-   ],
-   "max": 6
-  },
-  {
-   "id": "ramondiaz",
-   "titles": [
-    "es:Ramón Díaz",
-    "en:Ramón Díaz"
-   ],
-   "search": [
-    "\"Ramón Díaz\""
-   ],
-   "must": [
-    [
-     "ramon",
-     "diaz"
-    ]
-   ],
-   "max": 6
-  },
-  {
-   "id": "dimaria",
-   "titles": [
-    "es:Ángel Di María",
-    "en:Ángel Di María"
-   ],
-   "search": [
-    "\"Ángel Di María\""
-   ],
-   "must": [
-    [
-     "di",
-     "maria"
-    ],
-    [
-     "dimaria"
-    ]
-   ],
-   "max": 6
-  },
-  {
-   "id": "tevez",
-   "titles": [
-    "es:Carlos Tevez",
-    "en:Carlos Tevez"
-   ],
-   "search": [
-    "\"Carlos Tevez\""
-   ],
-   "must": [
-    [
-     "tevez"
-    ]
-   ],
-   "max": 6
-  },
-  {
-   "id": "aguero",
-   "titles": [
-    "es:Sergio Agüero",
-    "en:Sergio Agüero"
-   ],
-   "search": [
-    "\"Sergio Agüero\""
-   ],
-   "must": [
-    [
-     "aguero"
-    ]
-   ],
-   "max": 6
-  },
-  {
-   "id": "julian",
-   "titles": [
-    "es:Julián Álvarez",
-    "en:Julián Álvarez"
-   ],
-   "search": [
-    "\"Julián Álvarez\""
-   ],
-   "must": [
-    [
-     "julian",
-     "alvarez"
-    ]
-   ],
-   "max": 6
-  },
-  {
-   "id": "higuain",
-   "titles": [
-    "es:Gonzalo Higuaín",
-    "en:Gonzalo Higuaín"
-   ],
-   "search": [
-    "\"Gonzalo Higuaín\""
-   ],
-   "must": [
-    [
-     "higuain"
-    ]
-   ],
-   "max": 6
-  },
-  {
-   "id": "ratonibanez",
-   "titles": [
-    "es:Gustavo Ibáñez",
-    "en:Gustavo Ibáñez"
-   ],
-   "search": [
-    "\"Gustavo Ibáñez\""
-   ],
-   "must": [
-    [
-     "gustavo",
-     "ibanez"
-    ],
-    [
-     "raton"
-    ]
-   ],
+   "titles": [],
+   "search": [],
+   "must": [],
    "max": 6,
-   "urls": [
-    "https://viapais.com.ar/resizer/v2/GVQWCNJRGU4GIMJTMUZTEYJWHE.jpg",
-    "https://web-viapais.lilax.io/resizer/v2/HBSTAYJZG43DGOBVGYYDOZTFG4.jpg",
-    "https://web-viapais.lilax.io/resizer/v2/GFRDCOLBMQZGCYJTMRTDSMBVGM.jpg"
-   ]
-  }
- ],
- "files": [
+   "bing": [
+    "Rogelio Funes Mori River Plate"
+   ],
+   "bing_k": 6,
+   "redo": true
+  },
   {
-   "url": "https://github.com/opencv/opencv_zoo/raw/main/models/face_detection_yunet/face_detection_yunet_2023mar.onnx",
-   "path": "_models/yunet.onnx"
+   "id": "schiavi",
+   "titles": [],
+   "search": [],
+   "must": [],
+   "max": 6,
+   "bing": [
+    "Rolando Schiavi Boca Juniors"
+   ],
+   "bing_k": 6,
+   "redo": true
+  },
+  {
+   "id": "burgos",
+   "titles": [],
+   "search": [],
+   "must": [],
+   "max": 6,
+   "bing": [
+    "Germán Burgos arquero River Plate"
+   ],
+   "bing_k": 6,
+   "redo": true
+  },
+  {
+   "id": "zabaleta",
+   "titles": [],
+   "search": [],
+   "must": [],
+   "max": 6,
+   "bing": [
+    "Pablo Zabaleta selección argentina"
+   ],
+   "bing_k": 6,
+   "redo": true
+  },
+  {
+   "id": "mouche",
+   "titles": [],
+   "search": [],
+   "must": [],
+   "max": 6,
+   "bing": [
+    "Pablo Mouche Boca Juniors"
+   ],
+   "bing_k": 6,
+   "redo": true
+  },
+  {
+   "id": "chilavert",
+   "titles": [],
+   "search": [],
+   "must": [],
+   "max": 6,
+   "bing": [
+    "Chilavert Vélez arquero"
+   ],
+   "bing_k": 6,
+   "redo": true
+  },
+  {
+   "id": "aimar",
+   "titles": [],
+   "search": [],
+   "must": [],
+   "max": 6,
+   "bing": [
+    "Pablo Aimar River Plate jugador"
+   ],
+   "bing_k": 6,
+   "redo": true
+  },
+  {
+   "id": "ayala",
+   "titles": [],
+   "search": [],
+   "must": [],
+   "max": 6,
+   "bing": [
+    "Roberto Ayala selección argentina defensor"
+   ],
+   "bing_k": 6,
+   "redo": true
+  },
+  {
+   "id": "caniggia",
+   "titles": [],
+   "search": [],
+   "must": [],
+   "max": 6,
+   "bing": [
+    "Claudio Caniggia selección argentina 1990"
+   ],
+   "bing_k": 6,
+   "redo": true
   }
  ]
 }
