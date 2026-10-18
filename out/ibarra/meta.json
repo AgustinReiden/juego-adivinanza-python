@@ -2,68 +2,69 @@
  "id": "ibarra",
  "items": [
   {
-   "f": "b1.jpg",
-   "url": "https://i5.walmartimages.com/asr/8ecf5b29-b9d1-47f6-b678-aa524754b930_1.fc7108b7dbdf0c0dc2b015bd7c24d96d.jpeg",
-   "page": "https://www.dalchaebi.me/hugo-parfum/",
-   "q": "Hugo Ibarra Boca Juniors lateral",
+   "f": "d1.jpg",
+   "url": "https://static.wikia.nocookie.net/bocajuniors/images/d/d6/El_negro..jpg/revision/latest/scale-to-width-down/250?cb=20160316174200&path-prefix=es",
+   "page": "https://bocajuniors.fandom.com/es/wiki/Hugo_Ibarra",
+   "q": "Hugo Ibarra lateral Boca Juniors futbolista",
    "size": [
-    1100,
+    250,
+    297
+   ]
+  },
+  {
+   "f": "d2.jpg",
+   "url": "https://c8.alamy.com/comp/JCA2XP/hugo-ibarra-boca-juniors-carson-los-angeles-ca-23-may-2010-JCA2XP.jpg",
+   "page": "https://www.alamy.com/stock-photo/hugo-ibarra.html",
+   "q": "Hugo Ibarra lateral Boca Juniors futbolista",
+   "size": [
+    723,
     1100
    ]
   },
   {
-   "f": "b2.jpg",
-   "url": "https://images.lifestyleasia.com/wp-content/uploads/sites/5/2022/09/13171723/Untitled-design-181.jpg",
-   "page": "https://ar.inspiredpencil.com/pictures-2023/hugo-boss-store",
-   "q": "Hugo Ibarra Boca Juniors lateral",
+   "f": "d3.jpg",
+   "url": "https://c8.alamy.com/compde/jca2y1/hugo-ibarra-boca-juniors-carson-los-angeles-ca-23-mai-2010-jca2y1.jpg",
+   "page": "https://www.alamy.de/fotos-bilder/hugo-ibarra.html",
+   "q": "Hugo Ibarra lateral Boca Juniors futbolista",
    "size": [
     1100,
-    733
+    877
    ]
   },
   {
-   "f": "b3.jpg",
-   "url": "http://3.bp.blogspot.com/-NKE290LSy68/T13WPY6ZmPI/AAAAAAAAAlQ/du4b6mBjAko/s1600/hugo-movie-poster-2.jpg",
-   "page": "http://avionesdecercanias.blogspot.com/2012/03/hugo.html",
-   "q": "Hugo Ibarra Boca Juniors lateral",
-   "size": [
-    825,
-    1100
-   ]
-  },
-  {
-   "f": "b4.jpg",
-   "url": "https://fimgs.net/himg/o.WVnJoX8N2uB.jpg",
-   "page": "https://www.fragrantica.com.br/novidades/Hugo-Boss-HUGO-Jeans-Eau-de-Toilette-5938.html",
-   "q": "Hugo Ibarra Boca Juniors lateral",
-   "size": [
-    1063,
-    1063
-   ]
-  },
-  {
-   "f": "b5.jpg",
-   "url": "https://www.perfumestars.com/wp-content/uploads/2025/02/001-hugo-boss-bottled-bold-citrus-.jpg",
-   "page": "https://www.perfumestars.com/hugo-boss-bottled-bold-citrus-eau-de-parfum-2025/",
-   "q": "Hugo Ibarra Boca Juniors lateral",
+   "f": "d4.jpg",
+   "url": "https://c8.alamy.com/comp/JCA309/hugo-ibarra-boca-juniors-carson-los-angeles-ca-23-may-2010-JCA309.jpg",
+   "page": "https://www.alamy.com/stock-photo/hugo-ibarra-boca-juniors-los.html",
+   "q": "Hugo Ibarra lateral Boca Juniors futbolista",
    "size": [
     1100,
-    1100
+    883
    ]
   },
   {
-   "f": "b6.jpg",
-   "url": "https://media.cdn.kaufland.de/product-images/1024x1024/2854a5f1d6fee479437d3ce2fb137876.jpg",
-   "page": "https://www.kaufland.cz/product/387597130/",
-   "q": "Hugo Ibarra Boca Juniors lateral",
+   "f": "d5.jpg",
+   "url": "https://c8.alamy.com/comp/JCA2Y4/hugo-ibarra-boca-juniors-carson-los-angeles-ca-23-may-2010-JCA2Y4.jpg",
+   "page": "https://www.alamy.com/stock-photo/hugo-ibarra-boca-juniors-los.html",
+   "q": "Hugo Ibarra lateral Boca Juniors futbolista",
    "size": [
-    1024,
-    998
+    1100,
+    993
+   ]
+  },
+  {
+   "f": "d6.jpg",
+   "url": "https://c8.alamy.com/compde/jca2xm/hugo-ibarra-boca-juniors-carson-los-angeles-ca-23-mai-2010-jca2xm.jpg",
+   "page": "https://www.alamy.de/fotos-bilder/hugo-ibarra.html",
+   "q": "Hugo Ibarra lateral Boca Juniors futbolista",
+   "size": [
+    730,
+    1100
    ]
   }
  ],
  "log": [
-  "bing Hugo Ibarra Boca Juniors lateral: 12 results"
+  "ddgs[duckduckgo] fail Hugo Ibarra lateral Boca Juniors futbolista: RequestError: RequestError('error sending request for url (https://duckduckgo.com/?q=Hugo+Ibarra+lateral+Boca+Juniors+futbolista) > user error: malformed headers')",
+  "ddgs[auto] Hugo Ibarra lateral Boca Juniors futbolista: 18 results; first=['Hugo Ibarra | Boca Juniors Wiki | Fandom', 'Hugo ibarra hi-res stock photography and', 'Hugo ibarra -Fotos und -Bildmaterial in ']"
  ],
  "candidates": 0
 }

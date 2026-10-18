@@ -2,18 +2,69 @@
  "id": "funesmori",
  "items": [
   {
-   "f": "b1.jpg",
-   "url": "https://static.vecteezy.com/system/resources/thumbnails/016/673/700/small_2x/machu-picchu-peru-photo.jpg",
-   "page": "https://www.vecteezy.com/free-photos/machu-picchu",
-   "q": "Rogelio Funes Mori River Plate",
+   "f": "d1.jpg",
+   "url": "https://viapais.com.ar/resizer/qIS-ZJ0fdSaigkZ3eFUD4l9LQck=/1023x574/smart/cloudfront-us-east-1.images.arcpublishing.com/grupoclarin/OVTAQVON7JGLNJ37N5BFULOSXA.jpg",
+   "page": "https://viapais.com.ar/mendoza/rogelio-funes-mori-goleador-mundial-con-river-en-la-mira-y-las-explosivas-declaraciones-de-su-padre/",
+   "q": "Rogelio Funes Mori River Plate futbolista",
    "size": [
-    1046,
-    700
+    1100,
+    618
+   ]
+  },
+  {
+   "f": "d2.jpg",
+   "url": "https://media.gettyimages.com/id/153634833/photo/river-plate-midfielder-carlos-sanchez-celebrates-with-teammate-rogelio-funes-mori-after.jpg?s=612x612&w=gi&k=20&c=2plIqSb0IDyIzrJxkvnBgZ6118ckg4sj3W1Lgx_HjsU=",
+   "page": "https://www.gettyimages.com/photos/rogelio-sanchez",
+   "q": "Rogelio Funes Mori River Plate futbolista",
+   "size": [
+    362,
+    612
+   ]
+  },
+  {
+   "f": "d3.jpg",
+   "url": "https://mexicoahora.com/wp-content/uploads/2019/02/Rogelio-y-Ramiro-Funes-Mori-River-1920.jpg",
+   "page": "https://mexicoahora.com/noticias/el-ex-de-river-plate-que-abrio-la-puerta-para-un-posible-regreso-al-club-millonario.html",
+   "q": "Rogelio Funes Mori River Plate futbolista",
+   "size": [
+    474,
+    266
+   ]
+  },
+  {
+   "f": "d4.jpg",
+   "url": "https://c8.alamy.com/comp/2CXHXGD/independientes-claudio-morel-rodriguez-l-and-river-plates-rogelio-funes-mori-fight-for-the-ball-during-their-argentine-first-division-soccer-match-in-buenos-aires-june-9-2013-reutersmarcos-brindicci-argentina-tags-sport-soccer-2CXHXGD.jpg",
+   "page": "https://www.alamy.com/stock-photo/rogelio-funes-mori.html",
+   "q": "Rogelio Funes Mori River Plate futbolista",
+   "size": [
+    1100,
+    853
+   ]
+  },
+  {
+   "f": "d5.jpg",
+   "url": "https://media.gettyimages.com/id/96303787/photo/rogelio-funes-mori-of-river-plate-battles-for-the-ball-with-banfields-victor-lopez-during-an.jpg?s=612x612&w=gi&k=20&c=4z4mbIkg8SP3AKahFh-UxduOUse0TQk7EYkUJLFKoQY=",
+   "page": "https://www.gettyimages.dk/photos/the-battle-of-the-river-plate",
+   "q": "Rogelio Funes Mori River Plate futbolista",
+   "size": [
+    612,
+    602
+   ]
+  },
+  {
+   "f": "d6.jpg",
+   "url": "https://c8.alamy.com/comp/2D0CCGW/river-plates-rogelio-funes-mori-l-fights-for-the-ball-with-racing-clubs-leonardo-miglionico-during-their-argentine-first-division-soccer-match-in-buenos-aires-september-23-2012-reutersmarcos-brindicci-argentina-tags-sport-soccer-2D0CCGW.jpg",
+   "page": "https://www.alamy.com/stock-photo/rogelio-funes-mori.html",
+   "q": "Rogelio Funes Mori River Plate futbolista",
+   "size": [
+    1100,
+    830
    ]
   }
  ],
  "log": [
-  "bing Rogelio Funes Mori River Plate: 1 results"
+  "ddgs[duckduckgo] fail Rogelio Funes Mori River Plate futbolista: RequestError: RequestError('error sending request for url (https://duckduckgo.com/?q=Rogelio+Funes+Mori+River+Plate+futbolista) > user error: malformed headers')",
+  "ddgs[auto] Rogelio Funes Mori River Plate futbolista: 18 results; first=['Rogelio Funes Mori: goleador mundial, co', '45 Rogelio Sanchez Stock Photos, High-Re', 'El ex de River Plate que abrió la puerta']"
  ],
  "candidates": 0
 }

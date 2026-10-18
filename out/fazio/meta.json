@@ -2,18 +2,69 @@
  "id": "fazio",
  "items": [
   {
-   "f": "b1.jpg",
-   "url": "https://www.armedconflicts.com/attachments/5461/Chevrolet3105.jpg",
-   "page": "https://www.armedconflicts.com/Truck-Panel-Delivery-1-2-ton-4x2-G-612-t188252",
-   "q": "Federico Fazio selección argentina",
+   "f": "d1.jpg",
+   "url": "https://media.gettyimages.com/id/987948856/photo/kazan-russia-federico-fazio-of-argentina-in-action-during-the-2018-fifa-world-cup-russia-round.jpg?s=612x612&w=gi&k=20&c=xWqCtyFtHXETA4JaYrfbq7CW23Re8k4Et7N7eNPi6fU=",
+   "page": "https://www.gettyimages.ie/photos/argentina-federico-fazio",
+   "q": "Federico Fazio selección argentina Mundial 2018",
    "size": [
-    1100,
-    696
+    612,
+    527
+   ]
+  },
+  {
+   "f": "d2.jpg",
+   "url": "https://c8.alamy.com/comp/P83XEW/federico-fazio-of-argentina-during-the-2018-fifa-world-cup-russia-round-of-16-match-between-france-and-argentina-at-kazan-arena-on-june-30-2018-in-kazan-russia-photo-by-lukasz-laskowskipressfocusmb-media-P83XEW.jpg",
+   "page": "https://www.alamy.com/stock-photo/federico-fazio.html",
+   "q": "Federico Fazio selección argentina Mundial 2018",
+   "size": [
+    685,
+    1100
+   ]
+  },
+  {
+   "f": "d3.jpg",
+   "url": "https://media.gettyimages.com/id/972631464/photo/moscow-russia-federico-fazio-of-argentina-poses-for-a-portrait-during-the-official-fifa-world.jpg?s=612x612&w=gi&k=20&c=WadSo5ocDZlBORy37qkqh4hzwFxTR9yADiIvrKe6Dm8=",
+   "page": "https://www.gettyimages.com/photos/argentina-portraits-2018-fifa-world-cup-russia",
+   "q": "Federico Fazio selección argentina Mundial 2018",
+   "size": [
+    408,
+    612
+   ]
+  },
+  {
+   "f": "d4.jpg",
+   "url": "https://media.gettyimages.com/id/987921558/photo/kazan-russia-federico-fazio-of-argentina-in-action-during-the-2018-fifa-world-cup-russia-round.jpg?s=612x612&w=gi&k=20&c=xBu2WvYcmbQIJ8S5mhoqk78lekyuIA4v-MM0dBkb0J0=",
+   "page": "https://www.gettyimages.ie/photos/federico-fazio",
+   "q": "Federico Fazio selección argentina Mundial 2018",
+   "size": [
+    408,
+    612
+   ]
+  },
+  {
+   "f": "d5.jpg",
+   "url": "https://media.gettyimages.com/id/972631444/photo/federico-fazio-of-argentina-poses-for-a-portrait-during-the-official-fifa-world-cup-2018.jpg?s=612x612&w=gi&k=20&c=6zLGJAH_hfedKsHUsp5EWZdW3gd4TK0h47If3fTYWRA=",
+   "page": "https://www.gettyimages.ie/photos/federico-julian-fazio",
+   "q": "Federico Fazio selección argentina Mundial 2018",
+   "size": [
+    408,
+    612
+   ]
+  },
+  {
+   "f": "d6.jpg",
+   "url": "https://media.gettyimages.com/id/972631490/photo/moscow-russia-federico-fazio-of-argentina-poses-for-a-portrait-during-the-official-fifa-world.jpg?s=612x612&w=gi&k=20&c=Pd8uDlLXkxS-gvXQxzytjLKFHJeozB0ohoBtrMcrVd8=",
+   "page": "https://www.gettyimages.com/photos/argentina-portraits-2018-fifa-world-cup-russia",
+   "q": "Federico Fazio selección argentina Mundial 2018",
+   "size": [
+    408,
+    612
    ]
   }
  ],
  "log": [
-  "bing Federico Fazio selección argentina: 1 results"
+  "ddgs[duckduckgo] fail Federico Fazio selección argentina Mundial 2018: RequestError: RequestError('error sending request for url (https://duckduckgo.com/?q=Federico+Fazio+selecci%C3%B3n+argentina+Mundial+2018) > user error: malformed headers')",
+  "ddgs[auto] Federico Fazio selección argentina Mundial 2018: 18 results; first=['Argentina Federico Fazio Photos and Prem', 'Federico fazio hi-res stock photography ', '650 Argentina Portraits 2018 Fifa World ']"
  ],
  "candidates": 0
 }

@@ -2,18 +2,69 @@
  "id": "olarticoechea",
  "items": [
   {
-   "f": "b1.jpg",
-   "url": "https://i.pinimg.com/custom_covers/200x150/220395044203498203_1400028369.jpg",
-   "page": "https://www.pinterest.com/shirljj/printables-outlines/",
-   "q": "Julio Olarticoechea Argentina 1986",
+   "f": "d1.jpg",
+   "url": "https://pbs.twimg.com/media/FCACRxAXsAAIWQd.jpg:large",
+   "page": "https://twitter.com/Argentina/status/1450161611461828615",
+   "q": "Julio Olarticoechea futbolista 1986",
    "size": [
-    200,
-    150
+    1080,
+    1080
+   ]
+  },
+  {
+   "f": "d2.jpg",
+   "url": "https://c8.alamy.com/comp/MB2A74/fifa-world-cup-mexico-1986-2261986-estadio-azteca-mexico-df-quarter-final-argentina-v-england-julio-olarticoechea-argentina-MB2A74.jpg",
+   "page": "https://www.alamy.com/stock-photo/argentina-world-cup-1986-final.html",
+   "q": "Julio Olarticoechea futbolista 1986",
+   "size": [
+    1100,
+    778
+   ]
+  },
+  {
+   "f": "d3.jpg",
+   "url": "https://www.alamy.com/aggregator-api/download?url=https://c8.alamy.com/comp/MB2AA4/fifa-world-cup-mexico-1986-2961986-estadio-azteca-mexico-df-final-argentina-v-west-germany-julio-olarticoechea-argentina-MB2AA4.jpg",
+   "page": "https://www.alamy.com/fifa-world-cup-mexico-1986-2961986-estadio-azteca-mexico-df-final-argentina-v-west-germany-julio-olarticoechea-argentina-image178916924.html",
+   "q": "Julio Olarticoechea futbolista 1986",
+   "size": [
+    1100,
+    822
+   ]
+  },
+  {
+   "f": "d4.jpg",
+   "url": "https://c8.alamy.com/comp/MB2ABC/fifa-world-cup-mexico-1986-2961986-estadio-azteca-mexico-df-final-argentina-v-west-germany-oscar-ruggeri-argentina-on-top-of-thomas-berthold-west-germany-on-left-julio-olarticoechea-in-front-karl-heinz-rummenigge-MB2ABC.jpg",
+   "page": "https://www.alamy.com/fifa-world-cup-mexico-1986-2961986-estadio-azteca-mexico-df-final-argentina-v-west-germany-oscar-ruggeri-argentina-on-top-of-thomas-berthold-west-germany-on-left-julio-olarticoechea-in-front-karl-heinz-rummenigge-image178916960.html",
+   "q": "Julio Olarticoechea futbolista 1986",
+   "size": [
+    1100,
+    794
+   ]
+  },
+  {
+   "f": "d5.jpg",
+   "url": "https://www.elgrafico.com.ar/media/cache/pub_news_details_large/media/i/53/69/536938b7b3d9c.jpg",
+   "page": "https://www.elgrafico.com.ar/articulo/(sin-categoria)/5229/idolos-de-la-seleccion-julio-jorge-olarticochea",
+   "q": "Julio Olarticoechea futbolista 1986",
+   "size": [
+    474,
+    631
+   ]
+  },
+  {
+   "f": "d6.jpg",
+   "url": "https://www.elgrafico.com.ar/media/cache/pub_news_details_large/media/i/5a/ac/5aac00dca7365.jpg",
+   "page": "https://www.elgrafico.com.ar/articulo/las-fotos-de-el-grafico/31487/1986-olarticoechea-la-nuca-de-dios",
+   "q": "Julio Olarticoechea futbolista 1986",
+   "size": [
+    474,
+    374
    ]
   }
  ],
  "log": [
-  "bing Julio Olarticoechea Argentina 1986: 1 results"
+  "ddgs[duckduckgo] fail Julio Olarticoechea futbolista 1986: RequestError: RequestError('error sending request for url (https://duckduckgo.com/?q=Julio+Olarticoechea+futbolista+1986) > user error: malformed headers')",
+  "ddgs[auto] Julio Olarticoechea futbolista 1986: 18 results; first=['Selección Argentina 🇦🇷 on Twitter: \"#Sal', 'Argentina world cup 1986 final hi-res st', 'FIFA World Cup - Mexico 1986 29.6.1986, ']"
  ],
  "candidates": 0
 }

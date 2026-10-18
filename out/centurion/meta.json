@@ -2,27 +2,91 @@
  "id": "centurion",
  "items": [
   {
-   "f": "b1.jpg",
-   "url": "https://www.hiveworkshop.com/data/xfmg/thumbnail/44/44234-5987be7070e341817e30f92ab237e66b.jpg?1615551865",
-   "page": "https://www.hiveworkshop.com/media/blood-knight-tabard.44234/",
-   "q": "Ricardo Centurión fiesta video",
+   "f": "d1.jpg",
+   "url": "https://i.ytimg.com/vi/6M8YKde2-6g/maxresdefault.jpg",
+   "page": "https://www.youtube.com/watch?v=6M8YKde2-6g",
+   "q": "Ricardo Centurión borracho",
    "size": [
-    300,
-    300
+    1100,
+    619
    ]
   },
   {
-   "f": "u2.jpg",
-   "url": "http://storage.lacapitalmdp.com/2017/02/centu.jpg",
+   "f": "d2.jpg",
+   "url": "https://media.diariouno.com.ar/p/10861c77fc9e190cc513ccfbc4f65d33/adjuntos/298/imagenes/009/219/0009219662/1200x0/smart/ricardo-centurionjpg.jpg",
+   "page": "https://www.diariouno.com.ar/ovacion/fuera-juego/ricardo-centurion-descontrolado-el-pase-boca-semis-provoco-racing-n1204324",
+   "q": "Ricardo Centurión borracho",
    "size": [
-    720,
-    403
+    1100,
+    619
+   ]
+  },
+  {
+   "f": "d3.jpg",
+   "url": "https://media.losandes.com.ar/p/d8f468fd865eddea854431a78d05c0d0/adjuntos/368/imagenes/100/052/0100052263/1000x0/smart/ricardo-centurion-y-otra-noche-polemica-el-triunfo-boca-gentileza.jpeg",
+   "page": "https://www.losandes.com.ar/mas-deportes/video-el-polemico-festejo-de-ricardo-centurion-tras-el-triunfo-de-boca-en-la-copa-con-alcohol-y-cargadas",
+   "q": "Ricardo Centurión borracho",
+   "size": [
+    1000,
+    653
+   ]
+  },
+  {
+   "f": "d4.jpg",
+   "url": "https://media.losandes.com.ar/adjuntos/368/migration/resizer/v2/EEV45NBJENB3ZM2CQXAYMORW54.jpg?auth=c7dceede129cb52b40fb161163afca9ba67d16465baa84e5a34e75c074167aec&width=2048&height=2048",
+   "page": "https://www.losandes.com.ar/mas-deportes/ricardo-centurion-descontrolado-alcohol-y-cigarrillos-en-un-vivo-de-instagram",
+   "q": "Ricardo Centurión borracho",
+   "size": [
+    1100,
+    1100
+   ]
+  },
+  {
+   "f": "d5.jpg",
+   "url": "https://i.ytimg.com/vi/Wk3KIi_j1AU/hqdefault.jpg",
+   "page": "https://www.youtube.com/watch?v=Wk3KIi_j1AU",
+   "q": "Ricardo Centurión borracho",
+   "size": [
+    480,
+    360
+   ]
+  },
+  {
+   "f": "d6.jpg",
+   "url": "https://media.diariopopular.com.ar/p/d8dcb14dbd23a62d71256c185429da49/adjuntos/143/imagenes/004/066/0004066111/1200x675/smart/ricardo-centurion.jpg",
+   "page": "https://www.diariopopular.com.ar/futbol/la-crisis-no-para-aparecio-un-video-centurion-borracho-n301158",
+   "q": "Ricardo Centurión borracho",
+   "size": [
+    1100,
+    619
+   ]
+  },
+  {
+   "f": "d7.jpg",
+   "url": "https://tn.com.ar/resizer/v2/ricardo-centurion-volvio-a-protagonizar-otro-conflicto-EB5T62CX6ZHW3LMT7QP6EXWPGI.jpg?auth=a2f29069489ea69ed0692e86645c37fb21f8b6caf68c2aab571956d25781981a&width=1023",
+   "page": "https://tn.com.ar/deportes/futbol/2023/12/01/los-detalles-de-todo-lo-que-encontraron-en-el-auto-de-ricardo-centurion-tras-detenerlo-en-un-control-policial/",
+   "q": "Ricardo Centurión borracho",
+   "size": [
+    1023,
+    576
+   ]
+  },
+  {
+   "f": "d8.jpg",
+   "url": "https://pbs.twimg.com/media/GAQ191PXcAA4SRL.jpg",
+   "page": "https://x.com/porqueTTarg/status/1730567516563386549",
+   "q": "Ricardo Centurión borracho",
+   "size": [
+    1098,
+    1098
    ]
   }
  ],
  "log": [
-  "bing Ricardo Centurión fiesta video: 1 results",
-  "url fail https://elgrafico.com.ar/media/cache/pub_news_details_large/media/i/7b/6a/7b6a9705e22b65bcdab5e9e90229134c0e68879c.jpg: HTTP Error 521: <none>"
+  "ddgs[duckduckgo] fail Ricardo Centurión borracho: RequestError: RequestError('error sending request for url (https://duckduckgo.com/?q=Ricardo+Centuri%C3%B3n+borracho) > user error: malformed headers')",
+  "ddgs[auto] Ricardo Centurión borracho: 12 results; first=['Ricardo Centurión se fue borracho del Bo', 'Ricardo Centurión, descontrolado tras el', 'Video: el polémico festejo de Ricardo Ce']",
+  "ddgs[duckduckgo] fail Ricardo Centurión fiesta noche: RequestError: RequestError('error sending request for url (https://duckduckgo.com/?q=Ricardo+Centuri%C3%B3n+fiesta+noche) > user error: malformed headers')",
+  "ddgs[auto] Ricardo Centurión fiesta noche: 12 results; first=['Noche \"de fiesta\" para Centurión: alcoho', 'Se filtró un nuevo video de Ricardo Cent', 'Ricardo centurión / me encanta salir de ']"
  ],
  "candidates": 0
 }
