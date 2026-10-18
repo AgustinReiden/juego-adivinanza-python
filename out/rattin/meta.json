@@ -1,0 +1,115 @@
+{
+ "id": "rattin",
+ "items": [
+  {
+   "f": "w1.jpg",
+   "file": "File:Antonio_Rattin_Estadio_Monumental.jpg",
+   "kind": "lead",
+   "orig": [
+    800,
+    998
+   ],
+   "size": [
+    800,
+    998
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Antonio_Rattin_Estadio_Monumental.jpg",
+   "artist": "DesconocidoUnknown author",
+   "license": "Public domain",
+   "date": "1966-01-14",
+   "desc": "Antonio Rattin con la Selección Argentina"
+  },
+  {
+   "f": "w2.jpg",
+   "file": "Archivo:Antonio Rattin (Boca) - El Gráfico 2144.jpg",
+   "kind": "page",
+   "orig": [
+    1413,
+    2000
+   ],
+   "size": [
+    777,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Antonio_Rattin_(Boca)_-_El_Gr%C3%A1fico_2144.jpg",
+   "artist": "El Gráfico",
+   "license": "Public domain",
+   "date": "",
+   "desc": "El Grafico del 26 de Octubre de 1960. Edicion 2144"
+  },
+  {
+   "f": "w3.jpg",
+   "file": "Archivo:Antonio Rattín Diputado.jpg",
+   "kind": "page",
+   "orig": [
+    240,
+    240
+   ],
+   "size": [
+    240,
+    240
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Antonio_Ratt%C3%ADn_Diputado.jpg",
+   "artist": "Cámara de Diputados de la Nación Argentina",
+   "license": "Public domain",
+   "date": "2004-12-16",
+   "desc": "Antonio Ubaldo Rattín"
+  },
+  {
+   "f": "w4.jpg",
+   "file": "Archivo:Argentina 1966 rattin.jpg",
+   "kind": "page",
+   "orig": [
+    600,
+    417
+   ],
+   "size": [
+    600,
+    417
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Argentina_1966_rattin.jpg",
+   "artist": "DesconocidoUnknown author",
+   "license": "Public domain",
+   "date": "1966-07-23",
+   "desc": "Antonio Rattin (#10) being sent off by the referee Kreitlein during the match between the national teams of Argentina and England."
+  },
+  {
+   "f": "w5.jpg",
+   "file": "Archivo:Rattin, Roma, Perfumo, Marzolini y Solari - El Gráfico 2442.jpg",
+   "kind": "page",
+   "orig": [
+    1463,
+    2000
+   ],
+   "size": [
+    805,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Rattin,_Roma,_Perfumo,_Marzolini_y_Solari_-_El_Gr%C3%A1fico_2442.jpg",
+   "artist": "DesconocidoUnknown author",
+   "license": "Public domain",
+   "date": "",
+   "desc": "El Grafico del 26 de Julio de 1966. Edicion 2442"
+  },
+  {
+   "f": "w6.jpg",
+   "file": "File:Rattin_waving_crowd.jpg",
+   "kind": "lead",
+   "orig": [
+    873,
+    1205
+   ],
+   "size": [
+    797,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Rattin_waving_crowd.jpg",
+   "artist": "Unknown authorUnknown author",
+   "license": "Public domain",
+   "date": "circa 1969<div style=\"display: none;\">da",
+   "desc": "Boca Juniors footballer, Antonio Rattín, waving the crowd while playing with the club. Rattín is widely recognised as one of the most notable players in Boca Juniors' history."
+  }
+ ],
+ "log": [],
+ "candidates": 10
+}

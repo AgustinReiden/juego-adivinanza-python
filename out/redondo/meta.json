@@ -1,0 +1,43 @@
+{
+ "id": "redondo",
+ "items": [
+  {
+   "f": "w1.jpg",
+   "file": "File:Фернандо_Редондо_2019.png",
+   "kind": "lead",
+   "orig": [
+    374,
+    503
+   ],
+   "size": [
+    374,
+    503
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:%D0%A4%D0%B5%D1%80%D0%BD%D0%B0%D0%BD%D0%B4%D0%BE_%D0%A0%D0%B5%D0%B4%D0%BE%D0%BD%D0%B4%D0%BE_2019.png",
+   "artist": "Un Metro Adelantado",
+   "license": "CC BY 3.0",
+   "date": "2019-08-16",
+   "desc": "Fernando Redondo in 2019"
+  },
+  {
+   "f": "w2.jpg",
+   "file": "File:Retrat de Fernando Redondo.jpg",
+   "kind": "search",
+   "orig": [
+    1080,
+    1440
+   ],
+   "size": [
+    825,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Retrat_de_Fernando_Redondo.jpg",
+   "artist": "Alzinous",
+   "license": "CC BY-SA 4.0",
+   "date": "2022-06-06",
+   "desc": "Dibuix fet amb bolígraf i retolador"
+  }
+ ],
+ "log": [],
+ "candidates": 2
+}

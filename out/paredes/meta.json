@@ -1,0 +1,115 @@
+{
+ "id": "paredes",
+ "items": [
+  {
+   "f": "w1.jpg",
+   "file": "File:Leandro_Paredes_Argentina_v_Egypt_7_July_2026-048.jpg",
+   "kind": "lead",
+   "orig": [
+    3333,
+    5000
+   ],
+   "size": [
+    733,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Leandro_Paredes_Argentina_v_Egypt_7_July_2026-048.jpg",
+   "artist": "Bryan Berlin",
+   "license": "CC BY-SA 4.0",
+   "date": "2026-07-07 11:28:50",
+   "desc": "Leandro Paredes during Argentina v Egypt at the 2026 FIFA World Cup"
+  },
+  {
+   "f": "w2.jpg",
+   "file": "Archivo:Leandro Paredes (PSG).jpg",
+   "kind": "page",
+   "orig": [
+    1343,
+    2440
+   ],
+   "size": [
+    606,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Leandro_Paredes_(PSG).jpg",
+   "artist": "Liondartois",
+   "license": "CC BY-SA 4.0",
+   "date": "2019-04-14 22:37:35",
+   "desc": "Leandro Paredes (PSG)"
+  },
+  {
+   "f": "w3.jpg",
+   "file": "Archivo:Leandro Paredes in 2014 (cropped).jpg",
+   "kind": "page",
+   "orig": [
+    1242,
+    931
+   ],
+   "size": [
+    960,
+    720
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Leandro_Paredes_in_2014_(cropped).jpg",
+   "artist": "The original uploader was Wolf de Wikipedia en italiano.",
+   "license": "CC BY 2.0",
+   "date": "15 de mayo de 2017 (fecha original de ca",
+   "desc": "Fonte: https://www.flickr.com/photos/romazone/14717867740/in/album-72157646006985628/"
+  },
+  {
+   "f": "w4.jpg",
+   "file": "File:Leandro Paredes Mohamed Salah Argentina v Egypt 7 July 2026-158.jpg",
+   "kind": "page",
+   "orig": [
+    5000,
+    3333
+   ],
+   "size": [
+    960,
+    640
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Leandro_Paredes_Mohamed_Salah_Argentina_v_Egypt_7_July_2026-158.jpg",
+   "artist": "Bryan Berlin",
+   "license": "CC BY-SA 4.0",
+   "date": "2026-07-07 12:17:53",
+   "desc": "Leandro Paredes Mohamed Salah during Argentina v Egypt at the 2026 FIFA World Cup"
+  },
+  {
+   "f": "w5.jpg",
+   "file": "File:Leandro Paredes 2018 (cropped).jpg",
+   "kind": "search",
+   "orig": [
+    628,
+    916
+   ],
+   "size": [
+    628,
+    916
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Leandro_Paredes_2018_(cropped).jpg",
+   "artist": "Вячеслав Евдокимов",
+   "license": "CC BY-SA 3.0",
+   "date": "2018-01-16 16:39:08",
+   "desc": "16.01.2018. Объединенные Арабские Эмираты, Дубай. «Газпром»-тренировочные сборы в Дубае: 16 января, вечерняя тренировка."
+  },
+  {
+   "f": "w6.jpg",
+   "file": "File:Leandro Paredes in 2019.jpg",
+   "kind": "search",
+   "orig": [
+    700,
+    1050
+   ],
+   "size": [
+    700,
+    1050
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Leandro_Paredes_in_2019.jpg",
+   "artist": "Vyacheslav Evdokimov",
+   "license": "CC BY-SA 3.0",
+   "date": "2019-01-17 11:11:27",
+   "desc": "Leo Paredes in Katar, 2019"
+  }
+ ],
+ "log": [],
+ "candidates": 9
+}

@@ -1,0 +1,115 @@
+{
+ "id": "burruchaga",
+ "items": [
+  {
+   "f": "w1.jpg",
+   "file": "File:Burruchaga_gritando_gol_de_argentina.JPG",
+   "kind": "lead",
+   "orig": [
+    1168,
+    888
+   ],
+   "size": [
+    960,
+    730
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Burruchaga_gritando_gol_de_argentina.JPG",
+   "artist": "Revista El Gráfico. 23 de Junio de 1986.",
+   "license": "Public domain",
+   "date": "1986-06",
+   "desc": "Jorge Burruchaga celebrando gol de Argentina en México 1986."
+  },
+  {
+   "f": "w2.jpg",
+   "file": "File:Burruchaga_final_cropped.jpg",
+   "kind": "lead",
+   "orig": [
+    260,
+    374
+   ],
+   "size": [
+    260,
+    374
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Burruchaga_final_cropped.jpg",
+   "artist": "Unknown authorUnknown author",
+   "license": "Public domain",
+   "date": "1986-06-29",
+   "desc": "Jorge Burruchaga after the match"
+  },
+  {
+   "f": "w3.jpg",
+   "file": "File:Elgrafico 3383 burruchaga.jpg",
+   "kind": "search",
+   "orig": [
+    350,
+    460
+   ],
+   "size": [
+    350,
+    460
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Elgrafico_3383_burruchaga.jpg",
+   "artist": "Unknown authorUnknown author",
+   "license": "Public domain",
+   "date": "1984-08",
+   "desc": "Jorge L. Burruchaga"
+  },
+  {
+   "f": "w4.jpg",
+   "file": "File:Burruchaga trossero bochini copa.jpg",
+   "kind": "search",
+   "orig": [
+    382,
+    382
+   ],
+   "size": [
+    382,
+    382
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Burruchaga_trossero_bochini_copa.jpg",
+   "artist": "Unknown authorUnknown author",
+   "license": "Public domain",
+   "date": "1984",
+   "desc": "Jorge Burruchaga (7), Enzo Trossero and Ricardo Bochini holding the Copa Libertadores trophy won by Independiente v. Gremio."
+  },
+  {
+   "f": "w5.jpg",
+   "file": "File:Burruchaga Arsenal de Sarandi.jpg",
+   "kind": "search",
+   "orig": [
+    360,
+    360
+   ],
+   "size": [
+    360,
+    360
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Burruchaga_Arsenal_de_Sarandi.jpg",
+   "artist": "Unknown authorUnknown author",
+   "license": "Public domain",
+   "date": "1980",
+   "desc": "Argentinian football player Jorge Burruchaga playing for Arsenal de Sarandi in 1980."
+  },
+  {
+   "f": "w6.jpg",
+   "file": "File:Burruchaga independiente.jpg",
+   "kind": "search",
+   "orig": [
+    369,
+    483
+   ],
+   "size": [
+    369,
+    483
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Burruchaga_independiente.jpg",
+   "artist": "Unknown authorUnknown author",
+   "license": "Public domain",
+   "date": "1985",
+   "desc": "Jorge Burruchaga while playing for Independiente."
+  }
+ ],
+ "log": [],
+ "candidates": 10
+}
