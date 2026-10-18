@@ -12,10 +12,14 @@
    ],
    "must": [
     [
+     "amadeo",
+     "carrizo"
+    ],
+    [
      "carrizo"
     ]
    ],
-   "max": 8
+   "max": 6
   },
   {
    "id": "gatti",
@@ -31,7 +35,7 @@
      "gatti"
     ]
    ],
-   "max": 8
+   "max": 6
   },
   {
    "id": "fillol",
@@ -47,7 +51,7 @@
      "fillol"
     ]
    ],
-   "max": 8
+   "max": 6
   },
   {
    "id": "goycochea",
@@ -63,7 +67,7 @@
      "goycochea"
     ]
    ],
-   "max": 8
+   "max": 6
   },
   {
    "id": "burgos",
@@ -76,10 +80,15 @@
    ],
    "must": [
     [
+     "german",
+     "burgos"
+    ],
+    [
+     "mono",
      "burgos"
     ]
    ],
-   "max": 8
+   "max": 6
   },
   {
    "id": "chilavert",
@@ -95,7 +104,7 @@
      "chilavert"
     ]
    ],
-   "max": 8
+   "max": 6
   },
   {
    "id": "dibu",
@@ -115,7 +124,7 @@
      "dibu"
     ]
    ],
-   "max": 8
+   "max": 6
   },
   {
    "id": "caballero",
@@ -128,10 +137,15 @@
    ],
    "must": [
     [
+     "willy",
+     "caballero"
+    ],
+    [
+     "wilfredo",
      "caballero"
     ]
    ],
-   "max": 8
+   "max": 6
   },
   {
    "id": "zanetti",
@@ -147,7 +161,7 @@
      "zanetti"
     ]
    ],
-   "max": 8
+   "max": 6
   },
   {
    "id": "olguin",
@@ -160,10 +174,11 @@
    ],
    "must": [
     [
+     "jorge",
      "olguin"
     ]
    ],
-   "max": 8
+   "max": 6
   },
   {
    "id": "sensini",
@@ -179,7 +194,7 @@
      "sensini"
     ]
    ],
-   "max": 8
+   "max": 6
   },
   {
    "id": "ibarra",
@@ -192,10 +207,11 @@
    ],
    "must": [
     [
+     "hugo",
      "ibarra"
     ]
    ],
-   "max": 8
+   "max": 6
   },
   {
    "id": "zabaleta",
@@ -211,7 +227,7 @@
      "zabaleta"
     ]
    ],
-   "max": 8
+   "max": 6
   },
   {
    "id": "montiel",
@@ -224,10 +240,11 @@
    ],
    "must": [
     [
+     "gonzalo",
      "montiel"
     ]
    ],
-   "max": 8
+   "max": 6
   },
   {
    "id": "molina",
@@ -240,10 +257,11 @@
    ],
    "must": [
     [
+     "nahuel",
      "molina"
     ]
    ],
-   "max": 8
+   "max": 6
   },
   {
    "id": "peruzzi",
@@ -259,7 +277,7 @@
      "peruzzi"
     ]
    ],
-   "max": 8
+   "max": 6
   },
   {
    "id": "perfumo",
@@ -275,7 +293,7 @@
      "perfumo"
     ]
    ],
-   "max": 8
+   "max": 6
   },
   {
    "id": "passarella",
@@ -291,7 +309,7 @@
      "passarella"
     ]
    ],
-   "max": 8
+   "max": 6
   },
   {
    "id": "brown",
@@ -304,10 +322,16 @@
    ],
    "must": [
     [
+     "jose",
+     "luis",
+     "brown"
+    ],
+    [
+     "tata",
      "brown"
     ]
    ],
-   "max": 8
+   "max": 6
   },
   {
    "id": "ruggeri",
@@ -323,7 +347,7 @@
      "ruggeri"
     ]
    ],
-   "max": 8
+   "max": 6
   },
   {
    "id": "ayala",
@@ -336,10 +360,11 @@
    ],
    "must": [
     [
+     "roberto",
      "ayala"
     ]
    ],
-   "max": 8
+   "max": 6
   },
   {
    "id": "samuel",
@@ -354,12 +379,9 @@
     [
      "walter",
      "samuel"
-    ],
-    [
-     "samuel"
     ]
    ],
-   "max": 8
+   "max": 6
   },
   {
    "id": "pochettino",
@@ -375,7 +397,7 @@
      "pochettino"
     ]
    ],
-   "max": 8
+   "max": 6
   },
   {
    "id": "heinze",
@@ -391,7 +413,7 @@
      "heinze"
     ]
    ],
-   "max": 8
+   "max": 6
   },
   {
    "id": "schiavi",
@@ -407,7 +429,7 @@
      "schiavi"
     ]
    ],
-   "max": 8
+   "max": 6
   },
   {
    "id": "demichelis",
@@ -423,7 +445,7 @@
      "demichelis"
     ]
    ],
-   "max": 8
+   "max": 6
   },
   {
    "id": "garay",
@@ -436,10 +458,11 @@
    ],
    "must": [
     [
+     "ezequiel",
      "garay"
     ]
    ],
-   "max": 8
+   "max": 6
   },
   {
    "id": "otamendi",
@@ -455,7 +478,7 @@
      "otamendi"
     ]
    ],
-   "max": 8
+   "max": 6
   },
   {
    "id": "romero",
@@ -475,7 +498,7 @@
      "cuti"
     ]
    ],
-   "max": 8
+   "max": 6
   },
   {
    "id": "lisandro",
@@ -491,7 +514,7 @@
      "lisandro"
     ]
    ],
-   "max": 8
+   "max": 6
   },
   {
    "id": "garce",
@@ -507,7 +530,7 @@
      "garce"
     ]
    ],
-   "max": 8
+   "max": 6
   },
   {
    "id": "fazio",
@@ -520,10 +543,11 @@
    ],
    "must": [
     [
+     "federico",
      "fazio"
     ]
    ],
-   "max": 8
+   "max": 6
   },
   {
    "id": "marzolini",
@@ -539,7 +563,7 @@
      "marzolini"
     ]
    ],
-   "max": 8
+   "max": 6
   },
   {
    "id": "tarantini",
@@ -555,7 +579,7 @@
      "tarantini"
     ]
    ],
-   "max": 8
+   "max": 6
   },
   {
    "id": "olarticoechea",
@@ -571,7 +595,7 @@
      "olarticoechea"
     ]
    ],
-   "max": 8
+   "max": 6
   },
   {
    "id": "sorin",
@@ -587,7 +611,7 @@
      "sorin"
     ]
    ],
-   "max": 8
+   "max": 6
   },
   {
    "id": "rojo",
@@ -600,10 +624,11 @@
    ],
    "must": [
     [
+     "marcos",
      "rojo"
     ]
    ],
-   "max": 8
+   "max": 6
   },
   {
    "id": "tagliafico",
@@ -619,7 +644,7 @@
      "tagliafico"
     ]
    ],
-   "max": 8
+   "max": 6
   },
   {
    "id": "acuna",
@@ -632,10 +657,11 @@
    ],
    "must": [
     [
+     "marcos",
      "acuna"
     ]
    ],
-   "max": 8
+   "max": 6
   },
   {
    "id": "mas",
@@ -656,7 +682,7 @@
      "mas"
     ]
    ],
-   "max": 8
+   "max": 6
   },
   {
    "id": "rattin",
@@ -672,7 +698,7 @@
      "rattin"
     ]
    ],
-   "max": 8
+   "max": 6
   },
   {
    "id": "gallego",
@@ -685,10 +711,14 @@
    ],
    "must": [
     [
+     "americo",
      "gallego"
+    ],
+    [
+     "tolo"
     ]
    ],
-   "max": 8
+   "max": 6
   },
   {
    "id": "batista",
@@ -701,10 +731,14 @@
    ],
    "must": [
     [
+     "sergio",
      "batista"
+    ],
+    [
+     "checho"
     ]
    ],
-   "max": 8
+   "max": 6
   },
   {
    "id": "redondo",
@@ -717,10 +751,11 @@
    ],
    "must": [
     [
+     "fernando",
      "redondo"
     ]
    ],
-   "max": 8
+   "max": 6
   },
   {
    "id": "simeone",
@@ -733,10 +768,11 @@
    ],
    "must": [
     [
+     "diego",
      "simeone"
     ]
    ],
-   "max": 8
+   "max": 6
   },
   {
    "id": "mascherano",
@@ -752,7 +788,7 @@
      "mascherano"
     ]
    ],
-   "max": 8
+   "max": 6
   },
   {
    "id": "paredes",
@@ -765,10 +801,11 @@
    ],
    "must": [
     [
+     "leandro",
      "paredes"
     ]
    ],
-   "max": 8
+   "max": 6
   },
   {
    "id": "bebeacosta",
@@ -790,7 +827,7 @@
      "acosta"
     ]
    ],
-   "max": 8,
+   "max": 6,
    "urls": [
     "https://img.lagaceta.com.ar/fotos/notas/2018/12/26/793785_201812252105590000003.jpg",
     "https://img.lagaceta.com.ar/fotos/notas/2018/12/26/793785_201812252105590000001.jpg",
@@ -812,7 +849,7 @@
      "ardiles"
     ]
    ],
-   "max": 8
+   "max": 6
   },
   {
    "id": "burruchaga",
@@ -828,7 +865,7 @@
      "burruchaga"
     ]
    ],
-   "max": 8
+   "max": 6
   },
   {
    "id": "veron",
@@ -841,10 +878,15 @@
    ],
    "must": [
     [
+     "sebastian",
+     "veron"
+    ],
+    [
+     "juan",
      "veron"
     ]
    ],
-   "max": 8
+   "max": 6
   },
   {
    "id": "cambiasso",
@@ -860,7 +902,7 @@
      "cambiasso"
     ]
    ],
-   "max": 8
+   "max": 6
   },
   {
    "id": "depaul",
@@ -880,7 +922,7 @@
      "depaul"
     ]
    ],
-   "max": 8
+   "max": 6
   },
   {
    "id": "enzo",
@@ -897,7 +939,7 @@
      "fernandez"
     ]
    ],
-   "max": 8
+   "max": 6
   },
   {
    "id": "macallister",
@@ -913,7 +955,7 @@
      "allister"
     ]
    ],
-   "max": 8
+   "max": 6
   },
   {
    "id": "sarmiento",
@@ -930,7 +972,7 @@
      "sarmiento"
     ]
    ],
-   "max": 8,
+   "max": 6,
    "urls": [
     "https://img.lagaceta.com.ar/fotos/notas/2026/06/29/1200x800_aventura-branelik-danelik-brian-sarmiento-dan-paso-relacion-se-mudan-juntos-1143257-101405.webp",
     "https://img.lagaceta.com.ar/fotos/notas/2026/06/29/aventura-branelik-danelik-brian-sarmiento-dan-paso-relacion-se-mudan-juntos-1143257-101405.png",
@@ -951,7 +993,7 @@
      "pedernera"
     ]
    ],
-   "max": 8
+   "max": 6
   },
   {
    "id": "bochini",
@@ -967,7 +1009,7 @@
      "bochini"
     ]
    ],
-   "max": 8
+   "max": 6
   },
   {
    "id": "maradona",
@@ -983,7 +1025,7 @@
      "maradona"
     ]
    ],
-   "max": 8
+   "max": 6
   },
   {
    "id": "francescoli",
@@ -999,7 +1041,7 @@
      "francescoli"
     ]
    ],
-   "max": 8
+   "max": 6
   },
   {
    "id": "riquelme",
@@ -1015,7 +1057,7 @@
      "riquelme"
     ]
    ],
-   "max": 8
+   "max": 6
   },
   {
    "id": "gallardo",
@@ -1028,10 +1070,11 @@
    ],
    "must": [
     [
+     "marcelo",
      "gallardo"
     ]
    ],
-   "max": 8
+   "max": 6
   },
   {
    "id": "aimar",
@@ -1047,7 +1090,7 @@
      "aimar"
     ]
    ],
-   "max": 8
+   "max": 6
   },
   {
    "id": "centurion",
@@ -1060,10 +1103,11 @@
    ],
    "must": [
     [
+     "ricardo",
      "centurion"
     ]
    ],
-   "max": 8,
+   "max": 6,
    "urls": [
     "https://cdn.diariojornada.com.ar/imagenes/2017/2/15/79482F636656684378335141687771623662566951673D3D.jpg",
     "https://www.ellitoral.com/images/2022/05/05/JyW8Y1kiR_1300x655__1.jpg"
@@ -1083,7 +1127,7 @@
      "houseman"
     ]
    ],
-   "max": 8
+   "max": 6
   },
   {
    "id": "bertoni",
@@ -1099,7 +1143,7 @@
      "bertoni"
     ]
    ],
-   "max": 8
+   "max": 6
   },
   {
    "id": "caniggia",
@@ -1115,7 +1159,7 @@
      "caniggia"
     ]
    ],
-   "max": 8
+   "max": 6
   },
   {
    "id": "ortega",
@@ -1128,10 +1172,14 @@
    ],
    "must": [
     [
+     "ariel",
      "ortega"
+    ],
+    [
+     "burrito"
     ]
    ],
-   "max": 8
+   "max": 6
   },
   {
    "id": "guillermo",
@@ -1144,14 +1192,15 @@
    ],
    "must": [
     [
-     "barros",
-     "schelotto"
+     "guillermo",
+     "barros"
     ],
     [
-     "guillermo"
+     "guillermo",
+     "schelotto"
     ]
    ],
-   "max": 8
+   "max": 6
   },
   {
    "id": "messi",
@@ -1167,7 +1216,7 @@
      "messi"
     ]
    ],
-   "max": 8
+   "max": 6
   },
   {
    "id": "dybala",
@@ -1183,7 +1232,7 @@
      "dybala"
     ]
    ],
-   "max": 8
+   "max": 6
   },
   {
    "id": "mouche",
@@ -1199,7 +1248,7 @@
      "mouche"
     ]
    ],
-   "max": 8
+   "max": 6
   },
   {
    "id": "labruna",
@@ -1215,7 +1264,7 @@
      "labruna"
     ]
    ],
-   "max": 8
+   "max": 6
   },
   {
    "id": "distefano",
@@ -1231,7 +1280,7 @@
      "stefano"
     ]
    ],
-   "max": 8
+   "max": 6
   },
   {
    "id": "kempes",
@@ -1247,7 +1296,7 @@
      "kempes"
     ]
    ],
-   "max": 8
+   "max": 6
   },
   {
    "id": "bianchi",
@@ -1260,10 +1309,11 @@
    ],
    "must": [
     [
+     "carlos",
      "bianchi"
     ]
    ],
-   "max": 8
+   "max": 6
   },
   {
    "id": "batistuta",
@@ -1279,7 +1329,7 @@
      "batistuta"
     ]
    ],
-   "max": 8
+   "max": 6
   },
   {
    "id": "palermo",
@@ -1292,10 +1342,11 @@
    ],
    "must": [
     [
+     "martin",
      "palermo"
     ]
    ],
-   "max": 8
+   "max": 6
   },
   {
    "id": "lautaro",
@@ -1311,7 +1362,7 @@
      "lautaro"
     ]
    ],
-   "max": 8
+   "max": 6
   },
   {
    "id": "funesmori",
@@ -1324,10 +1375,10 @@
    ],
    "must": [
     [
-     "funes"
+     "rogelio"
     ]
    ],
-   "max": 8
+   "max": 6
   },
   {
    "id": "sivori",
@@ -1343,7 +1394,7 @@
      "sivori"
     ]
    ],
-   "max": 8
+   "max": 6
   },
   {
    "id": "ramondiaz",
@@ -1360,7 +1411,7 @@
      "diaz"
     ]
    ],
-   "max": 8
+   "max": 6
   },
   {
    "id": "dimaria",
@@ -1380,7 +1431,7 @@
      "dimaria"
     ]
    ],
-   "max": 8
+   "max": 6
   },
   {
    "id": "tevez",
@@ -1396,7 +1447,7 @@
      "tevez"
     ]
    ],
-   "max": 8
+   "max": 6
   },
   {
    "id": "aguero",
@@ -1412,7 +1463,7 @@
      "aguero"
     ]
    ],
-   "max": 8
+   "max": 6
   },
   {
    "id": "julian",
@@ -1429,7 +1480,7 @@
      "alvarez"
     ]
    ],
-   "max": 8
+   "max": 6
   },
   {
    "id": "higuain",
@@ -1445,7 +1496,7 @@
      "higuain"
     ]
    ],
-   "max": 8
+   "max": 6
   },
   {
    "id": "ratonibanez",
@@ -1465,7 +1516,7 @@
      "raton"
     ]
    ],
-   "max": 8,
+   "max": 6,
    "urls": [
     "https://viapais.com.ar/resizer/v2/GVQWCNJRGU4GIMJTMUZTEYJWHE.jpg",
     "https://web-viapais.lilax.io/resizer/v2/HBSTAYJZG43DGOBVGYYDOZTFG4.jpg",

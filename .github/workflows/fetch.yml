@@ -13,16 +13,21 @@ jobs:
   fetch:
     runs-on: ubuntu-latest
     timeout-minutes: 45
+    strategy:
+      fail-fast: false
+      matrix:
+        shard: [0, 1, 2]
     steps:
       - uses: actions/checkout@v4
-      - name: heartbeat
-        run: |
-          git config user.name "photo-bot"
-          git config user.email "photo-bot@users.noreply.github.com"
-          mkdir -p out && echo "runner up $(date -u +%T)" > out/_heartbeat.txt
-          git add out && git commit -q -m "heartbeat" && git push -q origin HEAD:tmp-fotos-subasta
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
       - run: pip install pillow
-      - run: python fetch/fetch.py
+      - name: fetch
+        env:
+          SHARD: ${{ matrix.shard }}
+          NSHARDS: 3
+        run: |
+          git config user.name "photo-bot"
+          git config user.email "photo-bot@users.noreply.github.com"
+          python fetch/fetch.py
