@@ -2,48 +2,69 @@
  "id": "ratonibanez",
  "items": [
   {
-   "f": "w1.jpg",
-   "file": "File:Gustavo Ibáñez Rondizzoni.jpg",
-   "kind": "search",
-   "orig": [
-    2303,
-    2689
-   ],
+   "f": "d1.jpg",
+   "url": "https://karryon.com.au/wp-content/uploads/2014/12/shutterstock_120633745.jpg",
+   "page": "https://karryon.com.au/lifestyle/top-50-tourist-attractions-world-part-1/",
+   "q": "Ratón Ibáñez San Martín de Tucumán",
    "size": [
-    942,
-    1100
-   ],
-   "page": "https://commons.wikimedia.org/wiki/File:Gustavo_Ib%C3%A1%C3%B1ez_Rondizzoni.jpg",
-   "artist": "Socialmediacgr",
-   "license": "CC0",
-   "date": "2025-02-19",
-   "desc": "Gustavo Ibáñez Rondizzoni"
-  },
-  {
-   "f": "u1.jpg",
-   "url": "https://viapais.com.ar/resizer/v2/GVQWCNJRGU4GIMJTMUZTEYJWHE.jpg",
-   "size": [
-    1100,
-    1100
+    1000,
+    667
    ]
   },
   {
-   "f": "u2.jpg",
-   "url": "https://web-viapais.lilax.io/resizer/v2/HBSTAYJZG43DGOBVGYYDOZTFG4.jpg",
+   "f": "d2.jpg",
+   "url": "https://femuacorsica.com/wp-content/uploads/2020/11/201411-w-worlds-most-visited-tourist-attractions-taj-mahal-agra.jpg",
+   "page": "https://phlebologie-2018.de/monuments-and-tourist-attractions/",
+   "q": "Ratón Ibáñez San Martín de Tucumán",
    "size": [
     1100,
-    841
+    688
    ]
   },
   {
-   "f": "u3.jpg",
-   "url": "https://web-viapais.lilax.io/resizer/v2/GFRDCOLBMQZGCYJTMRTDSMBVGM.jpg",
+   "f": "d3.jpg",
+   "url": "https://s.abcnews.com/images/Travel/eiffel-tower-ht-mem-180221_3x2_992.jpg",
+   "page": "https://abcnews.com/GMA/Travel/tripadvisor-names-top-10-popular-attractions-world/story?id=53248964",
+   "q": "Ratón Ibáñez San Martín de Tucumán",
+   "size": [
+    992,
+    663
+   ]
+  },
+  {
+   "f": "d4.jpg",
+   "url": "https://images.indianexpress.com/2024/07/Recognised-for-its-exceptional-beauty-and-cultural-significance-the-Taj-Mahal-a-UNESCO-World-Heritage-Site-in-Agra-India-has-also-been-featured-in-the-list-in-the-22nd-position.-Here-are-th.jpg",
+   "page": "https://supernova-globetravels.org/guide/world-tourist-attractions-list",
+   "q": "Ratón Ibáñez San Martín de Tucumán",
+   "size": [
+    474,
+    266
+   ]
+  },
+  {
+   "f": "d5.jpg",
+   "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2016/04/29/1aa2efd0-5d33-45d6-85d8-486a930fbb3b/thumbnail/1240x930g2/cd42dde0155002c9bfdfb37301a513b6/istock000070396403medium.jpg",
+   "page": "https://storage.googleapis.com/dymiwukloojlwe/list-of-top-10-tourist-places-in-world.html",
+   "q": "Ratón Ibáñez San Martín de Tucumán",
    "size": [
     1100,
-    701
+    825
+   ]
+  },
+  {
+   "f": "d6.jpg",
+   "url": "https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvcm01MDgtbTAyLWNvbGxhZ2VfNC1sMGpjZHJuYS5qcGc.jpg",
+   "page": "https://www.rawpixel.com/image/6244572/psd-background-wallpaper-desktop",
+   "q": "Ratón Ibáñez San Martín de Tucumán",
+   "size": [
+    474,
+    266
    ]
   }
  ],
- "log": [],
- "candidates": 1
+ "log": [
+  "ddgs[duckduckgo] fail Ratón Ibáñez San Martín de Tucumán: RequestError: RequestError('error sending request for url (https://duckduckgo.com/?q=Rat%C3%B3n+Ib%C3%A1%C3%B1ez+San+Mart%C3%ADn+de+Tucum%C3%A1n) > user error: malformed headers')",
+  "ddgs[auto] Ratón Ibáñez San Martín de Tucumán: 18 results; first=['The top 50 tourist attractions in the wo', 'Monuments And Tourist Attractions – AVXV', 'TripAdvisor names Top 10 most popular at']"
+ ],
+ "candidates": 0
 }

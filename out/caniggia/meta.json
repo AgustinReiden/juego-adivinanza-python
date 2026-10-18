@@ -2,68 +2,19 @@
  "id": "caniggia",
  "items": [
   {
-   "f": "b1.jpg",
-   "url": "https://s3u.tmimgcdn.com/1692467-1592630058756_Screenshot_1.jpg",
-   "page": "https://www.entheosweb.com/resources/creative-resume-templates-free-premim-cv-templates/",
+   "f": "d1.jpg",
+   "url": "https://www.artistichaven.com/wp-content/uploads/2020/08/Easy-Halloween-Face-Painting-Ideas-For-Kids-Adults-15.jpg",
+   "page": "https://storage.googleapis.com/ddmtocxousqyhe/simple-face-painting-designs-printable-halloween.html",
    "q": "Claudio Caniggia selección argentina 1990",
    "size": [
-    1100,
-    1088
-   ]
-  },
-  {
-   "f": "b2.jpg",
-   "url": "https://i0.wp.com/www.graphicworker.com/wp-content/uploads/2020/04/Creative-Resume.jpg?resize=1024%2C1024&ssl=1",
-   "page": "https://www.graphicworker.com/shop/creative-resume-template/",
-   "q": "Claudio Caniggia selección argentina 1990",
-   "size": [
-    474,
-    474
-   ]
-  },
-  {
-   "f": "b3.jpg",
-   "url": "https://good-resume.com/wp-content/uploads/2017/10/Free-Creative-Resume-CV-Design-Template-With-3-Colors-PSD.jpg",
-   "page": "https://qaqooking.wiki/all/how-to/cv-templates-creative",
-   "q": "Claudio Caniggia selección argentina 1990",
-   "size": [
-    1100,
-    883
-   ]
-  },
-  {
-   "f": "b4.jpg",
-   "url": "https://resumeinventor.com/wp-content/uploads/edd/2022/11/01_4-Pages-Professional-MS-Word-Aple-Pages-EPS-Photoshop-PSD-Resume-CV-Design-Template-design-by-Resume-Inventor-8.jpg",
-   "page": "https://resumeinventor.com/40412/creative-graphic-designer-resume-template/",
-   "q": "Claudio Caniggia selección argentina 1990",
-   "size": [
-    1100,
-    1100
-   ]
-  },
-  {
-   "f": "b5.jpg",
-   "url": "https://resumeinventor.com/wp-content/uploads/edd/2025/06/01_Clean-Professional-Creative-and-Modern-Resume-CV-Curriculum-Vitae-Design-Template-MS-Word-Apple-Pages-PSD-Free-Download-99.jpg",
-   "page": "https://fity.club/lists/suggestions/creative-resume-templates-microsoft-word/",
-   "q": "Claudio Caniggia selección argentina 1990",
-   "size": [
-    1100,
-    1100
-   ]
-  },
-  {
-   "f": "b6.jpg",
-   "url": "https://www.entheosweb.com/wp-content/uploads/2023/08/Creative-CV-and-Resume-Templates-1.jpg",
-   "page": "https://www.entheosweb.com/ideas/creative-resume-cv-templates/",
-   "q": "Claudio Caniggia selección argentina 1990",
-   "size": [
-    733,
-    1100
+    600,
+    900
    ]
   }
  ],
  "log": [
-  "bing Claudio Caniggia selección argentina 1990: 12 results"
+  "ddgs[duckduckgo] fail Claudio Caniggia selección argentina 1990: RequestError: RequestError('error sending request for url (https://duckduckgo.com/?q=Claudio+Caniggia+selecci%C3%B3n+argentina+1990) > user error: malformed headers')",
+  "ddgs[auto] Claudio Caniggia selección argentina 1990: 1 results; first=['Simple Face Painting Designs Printable H']"
  ],
  "candidates": 0
 }
