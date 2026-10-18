@@ -1,0 +1,115 @@
+{
+ "id": "tarantini",
+ "items": [
+  {
+   "f": "w1.jpg",
+   "file": "File:Tarantini_argentina.jpg",
+   "kind": "lead",
+   "orig": [
+    432,
+    792
+   ],
+   "size": [
+    432,
+    792
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Tarantini_argentina.jpg",
+   "artist": "DesconocidoUnknown author",
+   "license": "Public domain",
+   "date": "hacia 1982<div style=\"display: none;\">da",
+   "desc": "Alberto Tarantini playing for the Argentina national team."
+  },
+  {
+   "f": "w2.jpg",
+   "file": "Archivo:Potente, Tarantini y Mouzo - El Gráfico 2912.jpg",
+   "kind": "page",
+   "orig": [
+    1438,
+    2000
+   ],
+   "size": [
+    791,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Potente,_Tarantini_y_Mouzo_-_El_Gr%C3%A1fico_2912.jpg",
+   "artist": "El Gráfico",
+   "license": "Public domain",
+   "date": "",
+   "desc": "El Grafico del 30 de Julio de 1975. Edicion 2912"
+  },
+  {
+   "f": "w3.jpg",
+   "file": "File:Tarantini v matysik.jpg",
+   "kind": "search",
+   "orig": [
+    499,
+    412
+   ],
+   "size": [
+    499,
+    412
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Tarantini_v_matysik.jpg",
+   "artist": "Gerardo Prego",
+   "license": "Public domain",
+   "date": "1981-10-28",
+   "desc": "Tarantini vs Matysik, Argentina (1) v Poland (2), friendly in Buenos Aires"
+  },
+  {
+   "f": "w4.jpg",
+   "file": "File:Tarantini fillol 1978.jpg",
+   "kind": "search",
+   "orig": [
+    800,
+    608
+   ],
+   "size": [
+    800,
+    608
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Tarantini_fillol_1978.jpg",
+   "artist": "Ricardo Alfieri",
+   "license": "Public domain",
+   "date": "1978-06-25",
+   "desc": "Argentine players Alberto Tarantini (left) and Ubaldo Fillol celebrating the first World Cup won by Argentina at the end of the final match vs. the Netherlands."
+  },
+  {
+   "f": "w5.jpg",
+   "file": "File:Tarantini vs benitez.jpg",
+   "kind": "search",
+   "orig": [
+    1140,
+    753
+   ],
+   "size": [
+    960,
+    634
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Tarantini_vs_benitez.jpg",
+   "artist": "Unknown authorUnknown author",
+   "license": "Public domain",
+   "date": "circa 1981<div style=\"display: none;\">da",
+   "desc": "Alberto Tarantini and Jorge Chino\" Benítez, during a Boca vs River."
+  },
+  {
+   "f": "w6.jpg",
+   "file": "File:Tarantini marzolini.jpg",
+   "kind": "search",
+   "orig": [
+    1140,
+    764
+   ],
+   "size": [
+    960,
+    643
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Tarantini_marzolini.jpg",
+   "artist": "Unknown authorUnknown author",
+   "license": "Public domain",
+   "date": "circa 1973<div style=\"display: none;\">da",
+   "desc": "Silvio Marzolini (right) giving advices to Alberto Tarantini at the beginning of his career in Boca Juniors."
+  }
+ ],
+ "log": [],
+ "candidates": 10
+}

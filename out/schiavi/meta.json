@@ -1,0 +1,43 @@
+{
+ "id": "schiavi",
+ "items": [
+  {
+   "f": "w1.jpg",
+   "file": "File:Rolando_Schiavi.jpg",
+   "kind": "lead",
+   "orig": [
+    680,
+    1112
+   ],
+   "size": [
+    673,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Rolando_Schiavi.jpg",
+   "artist": "Prensa TV Pública",
+   "license": "CC BY 2.0",
+   "date": "2014-08-26 20:06:27",
+   "desc": "Rolando Schiavi"
+  },
+  {
+   "f": "w2.jpg",
+   "file": "File:Schiavi, Martín, Palermo y Abbondanzieri.jpg",
+   "kind": "search",
+   "orig": [
+    3992,
+    2766
+   ],
+   "size": [
+    960,
+    665
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Schiavi,_Mart%C3%ADn,_Palermo_y_Abbondanzieri.jpg",
+   "artist": "Prensa TV Pública",
+   "license": "CC BY 2.0",
+   "date": "2014-08-26 20:06:27",
+   "desc": "Rolando Schiavi, Matías Martín, Martín Palermo y Roberto Carlos Pato Abbondanzieri. 27.08.2014. Foto: TVP 2014"
+  }
+ ],
+ "log": [],
+ "candidates": 2
+}

@@ -1,0 +1,61 @@
+{
+ "id": "brown",
+ "items": [
+  {
+   "f": "w1.jpg",
+   "file": "File:Brown_camiseta_agujero_86.jpg",
+   "kind": "lead",
+   "orig": [
+    458,
+    669
+   ],
+   "size": [
+    458,
+    669
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Brown_camiseta_agujero_86.jpg",
+   "artist": "DesconocidoUnknown author",
+   "license": "Public domain",
+   "date": "1986-06-29",
+   "desc": "José L. Brown celebrating at the FIFA World Cup final."
+  },
+  {
+   "f": "w2.jpg",
+   "file": "File:Jose Luis Brown.jpg",
+   "kind": "page",
+   "orig": [
+    243,
+    366
+   ],
+   "size": [
+    243,
+    366
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Jose_Luis_Brown.jpg",
+   "artist": "Christophe95",
+   "license": "CC BY-SA 3.0",
+   "date": "2006",
+   "desc": "Jose Luis Brown"
+  },
+  {
+   "f": "w3.jpg",
+   "file": "File:Jose luis brown vs italy.jpg",
+   "kind": "search",
+   "orig": [
+    318,
+    429
+   ],
+   "size": [
+    318,
+    429
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Jose_luis_brown_vs_italy.jpg",
+   "artist": "Unknown authorUnknown author",
+   "license": "Public domain",
+   "date": "1986-06-05",
+   "desc": "Argentine defender José L. Brown at the World Cup"
+  }
+ ],
+ "log": [],
+ "candidates": 3
+}

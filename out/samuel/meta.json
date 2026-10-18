@@ -1,0 +1,115 @@
+{
+ "id": "samuel",
+ "items": [
+  {
+   "f": "w1.jpg",
+   "file": "File:Walter_Samuel_2022_(cropped).jpg",
+   "kind": "lead",
+   "orig": [
+    254,
+    296
+   ],
+   "size": [
+    254,
+    296
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Walter_Samuel_2022_(cropped).jpg",
+   "artist": "Argentina.gob.ar",
+   "license": "CC BY-SA 4.0",
+   "date": "2022-03-24",
+   "desc": "Walter Samuel, como parte del cuerpo técnico de la selección de fútbol de Argentina, en marzo de 2022."
+  },
+  {
+   "f": "w2.jpg",
+   "file": "File:Walter_Samuel_FC_Internazionale.jpg",
+   "kind": "lead",
+   "orig": [
+    604,
+    751
+   ],
+   "size": [
+    604,
+    751
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Walter_Samuel_FC_Internazionale.jpg",
+   "artist": "http://www.soccer.ru/gallery/45191",
+   "license": "CC BY-SA 3.0",
+   "date": "2011-10-26",
+   "desc": "Walter Samuel FC Internazionale"
+  },
+  {
+   "f": "w3.jpg",
+   "file": "File:Walter Samuel - Inter Mailand (1).jpg",
+   "kind": "page",
+   "orig": [
+    2000,
+    3000
+   ],
+   "size": [
+    733,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Walter_Samuel_-_Inter_Mailand_(1).jpg",
+   "artist": "Steindy (talk) 17:05, 29 November 2009 (UTC)",
+   "license": "CC BY-SA 3.0",
+   "date": "2009-08-16",
+   "desc": "Walter Samuel - F.C. Internazionale Milano"
+  },
+  {
+   "f": "w4.jpg",
+   "file": "File:Walter Samuel - Inter Mailand (2).jpg",
+   "kind": "page",
+   "orig": [
+    4200,
+    2800
+   ],
+   "size": [
+    960,
+    640
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Walter_Samuel_-_Inter_Mailand_(2).jpg",
+   "artist": "Steindy (talk) 17:09, 29 November 2009 (UTC)",
+   "license": "CC BY-SA 3.0",
+   "date": "2009-08-16",
+   "desc": "Walter Samuel - F.C. Internazionale Milano"
+  },
+  {
+   "f": "w5.jpg",
+   "file": "File:Walter Samuel Goodland.jpg",
+   "kind": "search",
+   "orig": [
+    809,
+    1151
+   ],
+   "size": [
+    773,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Walter_Samuel_Goodland.jpg",
+   "artist": "Political Graveyard from Ann Arbor, MI",
+   "license": "Public domain",
+   "date": "2012-12-07 17:36",
+   "desc": "Wisconsin Lieutenant Governor, 1939-45; Governor, 1943-47.\n\nImage from the 1940 Wisconsin Blue Book (published by the state as a public document; no copyright notice)."
+  },
+  {
+   "f": "w6.jpg",
+   "file": "File:Walter Samuel Bartussek.jpg",
+   "kind": "search",
+   "orig": [
+    1494,
+    1705
+   ],
+   "size": [
+    960,
+    1096
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Walter_Samuel_Bartussek.jpg",
+   "artist": "Ulrike Wieser",
+   "license": "CC BY-SA 4.0",
+   "date": "2017-06-10",
+   "desc": "Portrait mit Erlaubnis von Ulrike Wieser, Wien"
+  }
+ ],
+ "log": [],
+ "candidates": 8
+}

@@ -1,0 +1,115 @@
+{
+ "id": "otamendi",
+ "items": [
+  {
+   "f": "w1.jpg",
+   "file": "File:Nicolas_Otamendi_Argentina_v_Spain_19_July_2026-059_(cropped).jpg",
+   "kind": "lead",
+   "orig": [
+    2716,
+    3639
+   ],
+   "size": [
+    821,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Nicolas_Otamendi_Argentina_v_Spain_19_July_2026-059_(cropped).jpg",
+   "artist": "Bryan Berlin",
+   "license": "CC BY-SA 4.0",
+   "date": "2026-07-19 14:58:10",
+   "desc": "Nicolas Otamendi during Argentina vs Spain at the 2026 FIFA World Cup Final"
+  },
+  {
+   "f": "w2.jpg",
+   "file": "Archivo:Argentina team in St. Petersburg (cropped) Otamendi.jpg",
+   "kind": "page",
+   "orig": [
+    237,
+    346
+   ],
+   "size": [
+    237,
+    346
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Argentina_team_in_St._Petersburg_(cropped)_Otamendi.jpg",
+   "artist": "Кирилл Венедиктов",
+   "license": "CC BY-SA 3.0",
+   "date": "2018-06-26",
+   "desc": "Argentina vs Nigeria match"
+  },
+  {
+   "f": "w3.jpg",
+   "file": "Archivo:Nicolás Otamendi Copa del Mundo 2022.jpg",
+   "kind": "page",
+   "orig": [
+    1080,
+    1080
+   ],
+   "size": [
+    960,
+    960
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Nicol%C3%A1s_Otamendi_Copa_del_Mundo_2022.jpg",
+   "artist": "TyC Sports",
+   "license": "CC0",
+   "date": "2022-11-18",
+   "desc": "World Cup 2022"
+  },
+  {
+   "f": "w4.jpg",
+   "file": "Archivo:Otamendi VCF 2015.jpg",
+   "kind": "page",
+   "orig": [
+    1000,
+    1529
+   ],
+   "size": [
+    719,
+    1100
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Otamendi_VCF_2015.jpg",
+   "artist": "Carla Cortés",
+   "license": "CC BY 2.0",
+   "date": "2015-05-03 18:48",
+   "desc": "Nicolás Otamendi playing for Valencia CF in 2015Fotografía: Carla Cortés / @noaasoka"
+  },
+  {
+   "f": "w5.jpg",
+   "file": "File:Nicolás Otamendi.jpg",
+   "kind": "page",
+   "orig": [
+    239,
+    400
+   ],
+   "size": [
+    239,
+    400
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Nicol%C3%A1s_Otamendi.jpg",
+   "artist": "Мысякин Александр",
+   "license": "CC BY-SA 3.0",
+   "date": "2009",
+   "desc": "Nicolás Otamendi"
+  },
+  {
+   "f": "w6.jpg",
+   "file": "File:Nicolás Otamendi 6315.jpg",
+   "kind": "page",
+   "orig": [
+    372,
+    600
+   ],
+   "size": [
+    372,
+    600
+   ],
+   "page": "https://commons.wikimedia.org/wiki/File:Nicol%C3%A1s_Otamendi_6315.jpg",
+   "artist": "Amarhgil",
+   "license": "CC BY-SA 3.0",
+   "date": "2010-08-21",
+   "desc": "Nicolás Otamendi"
+  }
+ ],
+ "log": [],
+ "candidates": 10
+}
